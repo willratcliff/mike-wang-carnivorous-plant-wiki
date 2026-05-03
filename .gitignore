@@ -35,3 +35,13 @@ build/
 # Local scratch
 scratch/
 tmp/
+
+# Data — raw HTML and images are large/regenerable; track only parsed JSON
+data/raw/
+data/images/
+# Keep parsed/ tracked
+!data/parsed/
+!data/parsed/**
+
+# Python venv (also in earlier section but explicit)
+.venv/
