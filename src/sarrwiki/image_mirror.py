@@ -34,9 +34,28 @@ DEFAULT_USER_AGENT = (
     "(image mirror; by request of Mike Wang; contact: wcratcliff@gmail.com)"
 )
 DEFAULT_RATE_LIMIT_SECONDS = 1.5
-DEFAULT_TIMEOUT_SECONDS = 60.0
-DEFAULT_MAX_RETRIES = 3
-DEFAULT_BACKOFF_BASE_SECONDS = 5.0
+DEFAULT_TIMEOUT_SECONDS = 20.0
+DEFAULT_MAX_RETRIES = 2
+DEFAULT_BACKOFF_BASE_SECONDS = 3.0
+
+# Hosts that are known to no longer exist or to be permanently broken.
+# We skip these without even attempting the network call. The manifest
+# entry records why.
+KNOWN_DEAD_HOSTS: tuple[str, ...] = (
+    "tinypic.com",
+    "i.tinypic.com",
+)
+KNOWN_DEAD_HOST_SUFFIXES: tuple[str, ...] = (
+    ".tinypic.com",
+)
+
+# Hosts that respond very slowly or hang. We use a tighter per-request
+# timeout for these and skip the longer retry chain.
+SLOW_HOST_PATTERNS: tuple[str, ...] = (
+    "photobucket.com",
+)
+SLOW_HOST_TIMEOUT_SECONDS = 10.0
+SLOW_HOST_MAX_RETRIES = 1
 
 
 @dataclass
@@ -160,12 +179,30 @@ class ImageMirror:
     # ------------------------------------------------------------------
 
     def _download_one(self, url: str) -> ImageMirrorEntry:
+        host = (urlparse(url).hostname or "").lower()
+        if host in KNOWN_DEAD_HOSTS or any(host.endswith(s) for s in KNOWN_DEAD_HOST_SUFFIXES):
+            LOG.info("skipping known-dead host %s", host)
+            return ImageMirrorEntry(
+                url=url,
+                local_path=None,
+                sha256=None,
+                bytes=None,
+                content_type=None,
+                status="failed",
+                error=f"known-dead host: {host}",
+                fetched_at_iso=dt.datetime.now(dt.timezone.utc).isoformat(),
+            )
+
+        is_slow = any(p in host for p in SLOW_HOST_PATTERNS)
+        timeout = SLOW_HOST_TIMEOUT_SECONDS if is_slow else self.timeout_seconds
+        max_retries = SLOW_HOST_MAX_RETRIES if is_slow else self.max_retries
+
         last_err = None
-        for attempt in range(1, self.max_retries + 1):
+        for attempt in range(1, max_retries + 1):
             self._wait_for_rate_limit()
             try:
-                LOG.info("GET %s (attempt %d/%d)", url, attempt, self.max_retries)
-                resp = self._session.get(url, timeout=self.timeout_seconds, stream=False)
+                LOG.info("GET %s (attempt %d/%d, timeout=%.0fs)", url, attempt, max_retries, timeout)
+                resp = self._session.get(url, timeout=timeout, stream=False)
                 self._last_request_at = time.monotonic()
             except requests.RequestException as exc:
                 last_err = f"network: {exc}"
