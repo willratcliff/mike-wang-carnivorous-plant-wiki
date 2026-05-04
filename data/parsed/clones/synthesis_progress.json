@@ -232,6 +232,19 @@
       "completed_at_iso": "2026-05-04T21:50:00Z",
       "notes": "Schema novelty: population-level entry. Reviewer should validate the approach."
     },
+    "C0069": {
+      "candidate_name": "Sarracenia rubra 'Ancestral' Taylor Co, GA",
+      "source_thread_ids": [253],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/rubra/ancestral-taylor-ga/index.md",
+        "wiki/sarracenia/rubra/ancestral-taylor-ga/clone-a/index.md",
+        "wiki/sarracenia/rubra/ancestral-taylor-ga/clone-b/index.md"
+      ],
+      "split_decision": "Split. Mike (post 1, 2012-06-04) explicitly distinguished 'two different clones of S. rubra Ancestral' from Taylor Co, GA — one small/clumping (Clone A), one tall/gulfensis-like (Clone B). Same cultivar designation; same provenance; different individuals. Followed Sand Mountain pattern (parent group + clone-a + clone-b). The 2012-12 update photos in post 1991 don't identify which clone was photographed, so they live on the parent group page in an ambiguous_photos[] field.",
+      "completed_at_iso": "2026-05-04T22:00:00Z",
+      "notes": "Clone A/B label assignments are based on photo order in Mike's first post; the physical mapping to specific plants in Mike's collection is for him to confirm."
+    },
     "C0221": {
       "candidate_name": "Sarracenia montana 'best clone' Transylvania Co, NC",
       "source_thread_ids": [957, 5291],
