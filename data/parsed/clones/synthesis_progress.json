@@ -61,6 +61,15 @@
       "completed_at_iso": "2026-05-04T17:25:00Z",
       "notes": ""
     },
+    "C0027": {
+      "candidate_name": "Sarracenia leucophylla 'Wilkerson's Red Rocket' (a.k.a. WRR) N. Walton Co, FL",
+      "source_thread_ids": [201],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/leucophylla/wilkersons-red-rocket-walton-fl/index.md"],
+      "split_decision": "Single clone. Mike confirmed in post 41696 (2019-09-17) that WRR = Wilkerson's Red Rocket = same clone as in this thread. Title is shorthand due to character limits. Wrote 65 Mike-photos spanning 2012-2025; non-Mike photographer images (calen, naturenuts, kirkauburn, adaetz100) recorded in photos_not_mirrored[] per recipe rule.",
+      "completed_at_iso": "2026-05-04T17:50:00Z",
+      "notes": "Major flagship clone with 13+ years of forum history. Flag for Mike to mark favorite photos."
+    },
     "C0221": {
       "candidate_name": "Sarracenia montana 'best clone' Transylvania Co, NC",
       "source_thread_ids": [957, 5291],
