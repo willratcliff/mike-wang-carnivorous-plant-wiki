@@ -79,6 +79,15 @@
       "completed_at_iso": "2026-05-04T18:05:00Z",
       "notes": "Mike-bred clone (intraspecific cross), not a wild collection. Worth Mike resolving the rank/cultivar canonicalization question."
     },
+    "C0067": {
+      "candidate_name": "Sarracenia psittacina var. okefenokeensis 'Large Red' Calhoun Co, FL",
+      "source_thread_ids": [251],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/psittacina/large-red-calhoun-fl/index.md"],
+      "split_decision": "Single clone. Mike confirmed in post 1778 (2012-10-06) the formal placement as S. psittacina var. okefenokeensis. 22 Mike photos. Source population extirpated ~2004; conservation significance.",
+      "completed_at_iso": "2026-05-04T18:30:00Z",
+      "notes": "Originally sown 1997 from seed (Mike found original tag in 2019). Other-grower images (davidgreen, shuddles) logged in photos_not_mirrored[]."
+    },
     "C0221": {
       "candidate_name": "Sarracenia montana 'best clone' Transylvania Co, NC",
       "source_thread_ids": [957, 5291],
