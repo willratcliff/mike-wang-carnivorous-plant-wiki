@@ -281,6 +281,15 @@
       "completed_at_iso": "2026-05-04T23:00:00Z",
       "notes": ""
     },
+    "C0354": {
+      "candidate_name": "Sarracenia x moorei 'Hunchback' Covington Co, AL",
+      "source_thread_ids": [3357],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/hybrids/moorei-hunchback-covington-al/index.md"],
+      "split_decision": "Single clone (Mike-bred F1 hybrid). 19 Mike photos. Both parents from Covington Co, AL — flava var. rugelii (pod) x leucophylla (pollen). Surprisingly leucophylla-dominant phenotype.",
+      "completed_at_iso": "2026-05-04T23:15:00Z",
+      "notes": ""
+    },
     "C0221": {
       "candidate_name": "Sarracenia montana 'best clone' Transylvania Co, NC",
       "source_thread_ids": [957, 5291],
