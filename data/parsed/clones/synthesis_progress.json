@@ -205,6 +205,24 @@
       "completed_at_iso": "2026-05-04T21:05:00Z",
       "notes": "Cross-linked to triangular-lid clone."
     },
+    "C0223": {
+      "candidate_name": "Sarracenia leucophylla var. alba 'green and white' Baldwin Co, AL (W.B)",
+      "source_thread_ids": [959],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/leucophylla/var-alba/green-and-white-baldwin-al/index.md"],
+      "split_decision": "Single clone. 11 Mike photos from 2013 + 2015. Documents 19-day whitening of the same set of fall traps. Open question on the meaning of '(W.B)' in the title.",
+      "completed_at_iso": "2026-05-04T21:20:00Z",
+      "notes": ""
+    },
+    "C0270": {
+      "candidate_name": "Sarracenia x areolata 'flop top' Washington Co, AL",
+      "source_thread_ids": [1667],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/hybrids/areolata-flop-top-washington-al/index.md"],
+      "split_decision": "Single clone, primary natural hybrid (S. alata x S. leucophylla = S. x areolata) from a sympatric Washington Co, AL site. Sourced from Brooks Garcia. 30 Mike photos spanning 2014-2022.",
+      "completed_at_iso": "2026-05-04T21:30:00Z",
+      "notes": "First entry under wiki/sarracenia/hybrids/. Reverse-color habit documented as a recognized trait of S. x areolata more broadly."
+    },
     "C0221": {
       "candidate_name": "Sarracenia montana 'best clone' Transylvania Co, NC",
       "source_thread_ids": [957, 5291],
