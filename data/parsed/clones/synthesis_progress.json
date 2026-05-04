@@ -434,6 +434,24 @@
       "completed_at_iso": "2026-05-05T01:55:00Z",
       "notes": "Major iconic cultivar. Reviewer should double-check provenance dates."
     },
+    "C0368": {
+      "candidate_name": "Sarracenia x moorei 'Landing Strip' Okaloosa Co, FL",
+      "source_thread_ids": [3713],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/hybrids/moorei-landing-strip-okaloosa-fl/index.md"],
+      "split_decision": "Single clone, naturally-occurring moorei. 4 Mike photos (2017 only).",
+      "completed_at_iso": "2026-05-05T02:05:00Z",
+      "notes": ""
+    },
+    "C0369": {
+      "candidate_name": "Sarracenia flava var. rugelii 'Super yellow' Liberty Co, FL",
+      "source_thread_ids": [3721],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/flava/var-rugelii/super-yellow-liberty-fl/index.md"],
+      "split_decision": "Single clone (Mike-bred). Emerged unexpectedly from a Liberty Co rubricorpora x rubricorpora cross. 6 Mike photos (2017-2018).",
+      "completed_at_iso": "2026-05-05T02:10:00Z",
+      "notes": ""
+    },
     "C0221": {
       "candidate_name": "Sarracenia montana 'best clone' Transylvania Co, NC",
       "source_thread_ids": [957, 5291],
