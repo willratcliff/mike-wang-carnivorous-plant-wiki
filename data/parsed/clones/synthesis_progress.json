@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "started_at_iso": "2026-05-04T00:00:00Z",
+  "note": "Tracks which clusters from clusters.json have been synthesized into wiki/ entries. Resumable across sessions.",
+  "clusters": {
+    "C0070": {
+      "candidate_name": "Sarracenia oreophila var. ornata 'Sand Mountain'",
+      "source_thread_ids": [254, 834],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/oreophila/var-ornata/sand-mountain/index.md",
+        "wiki/sarracenia/oreophila/var-ornata/sand-mountain/clone-a/index.md",
+        "wiki/sarracenia/oreophila/var-ornata/sand-mountain/european/index.md"
+      ],
+      "split_decision": "Cluster contained two distinct genetic individuals sharing the cultivar name. Split into two clone pages (clone-a, european) under a parent cultivar-group page (sand-mountain/index.md).",
+      "completed_at_iso": "2026-05-04T15:10:00Z"
+    }
+  }
+}
