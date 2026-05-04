@@ -317,6 +317,15 @@
       "completed_at_iso": "2026-05-04T23:50:00Z",
       "notes": ""
     },
+    "C0360": {
+      "candidate_name": "Sarracenia leucophylla var. alba 'white petiole' Baldwin Co, AL",
+      "source_thread_ids": [3393],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/leucophylla/var-alba/white-petiole-baldwin-al/index.md"],
+      "split_decision": "Single clone. 19 Mike photos. Baldwin Co alba with the unusual trait of white pigments stretching far down the petiole/pitcher tube. Cross-linked to other Baldwin alba entries.",
+      "completed_at_iso": "2026-05-04T23:55:00Z",
+      "notes": ""
+    },
     "C0221": {
       "candidate_name": "Sarracenia montana 'best clone' Transylvania Co, NC",
       "source_thread_ids": [957, 5291],
