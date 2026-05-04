@@ -362,6 +362,15 @@
       "completed_at_iso": "2026-05-05T00:35:00Z",
       "notes": ""
     },
+    "C0324": {
+      "candidate_name": "Sarracenia leucophylla 'wide lid' N. Walton Co, FL",
+      "source_thread_ids": [2631],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/leucophylla/wide-lid-walton-fl/index.md"],
+      "split_decision": "Single clone. 5 Mike photos. Bud Wilkerson's bog accession. Cross-linked to other Wilkerson's-bog clones in this archive (WRR, WWK, leuco 'red lips').",
+      "completed_at_iso": "2026-05-05T00:45:00Z",
+      "notes": ""
+    },
     "C0221": {
       "candidate_name": "Sarracenia montana 'best clone' Transylvania Co, NC",
       "source_thread_ids": [957, 5291],
