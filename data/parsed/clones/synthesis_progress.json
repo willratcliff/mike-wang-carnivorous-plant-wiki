@@ -124,6 +124,24 @@
       "completed_at_iso": "2026-05-04T19:25:00Z",
       "notes": "Wild collection year and UC Davis selection year unknown."
     },
+    "C0292": {
+      "candidate_name": "Sarracenia purpurea ssp. purpurea 'Phoenix' Ocean Co, NJ",
+      "source_thread_ids": [2153],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/purpurea/phoenix-ocean-nj/index.md"],
+      "split_decision": "Single clone (formally published cultivar). 4 Mike photos. Cross-linked to S. psittacina 'Yellow flower' (C0124) — Phoenix is direct evidence yellow flowers can arise without hybridization in pure-species lineages.",
+      "completed_at_iso": "2026-05-04T19:35:00Z",
+      "notes": "Provenance dispute logged: Mike (post 4) thought his plants were divisions of the type; jasonksepka (post 7) corrected — siblings (separate seed-grown individuals carrying the true-breeding trait). Reviewer should confirm."
+    },
+    "C0173": {
+      "candidate_name": "Sarracenia flava 'red form' Cook's Bayou, Bay Co, FL",
+      "source_thread_ids": [668],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/flava/red-form-cooks-bayou-bay-fl/index.md"],
+      "split_decision": "Single clone. 36 Mike photos spanning 2014-2025 (original 2013 photobucket photos lost). 12-year color development arc: 2013 'atropurpurea(?)' label → 2025 'unquestionably an atropurpurea'.",
+      "completed_at_iso": "2026-05-04T19:50:00Z",
+      "notes": "Source population extirpated (year unknown). Strong conservation interest."
+    },
     "C0221": {
       "candidate_name": "Sarracenia montana 'best clone' Transylvania Co, NC",
       "source_thread_ids": [957, 5291],
