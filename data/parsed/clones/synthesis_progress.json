@@ -407,6 +407,15 @@
       "completed_at_iso": "2026-05-05T01:25:00Z",
       "notes": ""
     },
+    "C0308": {
+      "candidate_name": "Sarracenia rubra 'Ancestral' Crawford Co, GA",
+      "source_thread_ids": [2471],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/rubra/ancestral-crawford-ga/index.md"],
+      "split_decision": "Single clone. 12 Mike photos. Tall (~2 ft). Phenotypically chameleon. Cross-linked to other Ancestral entries; viatorum re-label question logged for review.",
+      "completed_at_iso": "2026-05-05T01:35:00Z",
+      "notes": "Mike's other Ancestral accessions (Marion Co, Peach Co) referenced but not yet documented — likely separate clusters."
+    },
     "C0221": {
       "candidate_name": "Sarracenia montana 'best clone' Transylvania Co, NC",
       "source_thread_ids": [957, 5291],
