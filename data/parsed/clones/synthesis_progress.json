@@ -299,6 +299,24 @@
       "completed_at_iso": "2026-05-04T23:25:00Z",
       "notes": "Cultivation hazard: rot-prone after division if left in flooding tray."
     },
+    "C0321": {
+      "candidate_name": "Sarracenia leucophylla 'red lips' Bud Wilkerson's Bog, Walton Co, FL",
+      "source_thread_ids": [2604],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/leucophylla/red-lips-walton-fl/index.md"],
+      "split_decision": "Single clone. 13 Mike photos. Same source bog as WRR and WWK. Cross-linked to those + the rosea 'red lips' (different species, same name).",
+      "completed_at_iso": "2026-05-04T23:40:00Z",
+      "notes": ""
+    },
+    "C0359": {
+      "candidate_name": "Sarracenia leucophylla 'Tall, vigorous' Escambia Co, FL",
+      "source_thread_ids": [3391],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/leucophylla/tall-vigorous-escambia-fl/index.md"],
+      "split_decision": "Single clone. 17 Mike photos.",
+      "completed_at_iso": "2026-05-04T23:50:00Z",
+      "notes": ""
+    },
     "C0221": {
       "candidate_name": "Sarracenia montana 'best clone' Transylvania Co, NC",
       "source_thread_ids": [957, 5291],
