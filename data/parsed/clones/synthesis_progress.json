@@ -25,6 +25,18 @@
       ],
       "split_decision": "These are two DIFFERENT clones ('Brewer's Red' and 'Brewer's Beauty'). They were incorrectly merged because the cultivar regex stopped at the apostrophe in possessive 'Brewer's'. Regex fixed (commit pending); re-clustering produces them as two singletons. Wrote both as separate clone pages.",
       "completed_at_iso": "2026-05-04T15:30:00Z"
+    },
+    "C0221": {
+      "candidate_name": "Sarracenia montana 'best clone' Transylvania Co, NC",
+      "source_thread_ids": [957, 5291],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/montana/best-clone/index.md",
+        "wiki/sarracenia/montana/best-clone/m-r-clone/index.md",
+        "wiki/sarracenia/montana/best-clone/hxc-clone/index.md"
+      ],
+      "split_decision": "Cluster grouped two threads as the same clone, but they describe DIFFERENT individuals. Thread 957 is the M.R.-acquired clone (pre-2013); thread 5291 is an HxC seedling Mike grew out post-2014 after a fungal die-off. Both are S. montana from Transylvania Co, NC, both labeled 'best clone' by Mike, but they are genetically distinct. Split into two clone entries under a parent group.",
+      "completed_at_iso": "2026-05-04T16:15:00Z"
     }
   }
 }
