@@ -187,6 +187,24 @@
       "completed_at_iso": "2026-05-04T20:35:00Z",
       "notes": "Population reportedly threatened by pine encroachment / shading per Sunbelle 2014. Reviewer should ask about post-2014 status."
     },
+    "C0244": {
+      "candidate_name": "Sarracenia flava var. rubricorpora 'triangular lid' Liberty Co, FL",
+      "source_thread_ids": [1396],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/flava/var-rubricorpora/triangular-lid-liberty-fl/index.md"],
+      "split_decision": "Single clone. 4 Mike photos from 2014-05-31 only. Most of the thread is Mike's broader hypothesis discussion about rubricorpora's possible naczii / catesbaei introgressive history.",
+      "completed_at_iso": "2026-05-04T20:50:00Z",
+      "notes": "No update photos after the initial 2014 post. Mike speculated this clone may be a freak backcross with S. x naczii."
+    },
+    "C0245": {
+      "candidate_name": "Sarracenia flava var. rubricorpora 'solid red throat' Liberty Co, FL",
+      "source_thread_ids": [1409],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/flava/var-rubricorpora/solid-red-throat-liberty-fl/index.md"],
+      "split_decision": "Single clone. 41 Mike photos spanning 2014-2025. Mike's intra-population rubricorpora x rubricorpora cross. Captures detailed cultivation finding on chop-vs-keep winter phyllodia and its climate-dependent effect on spring coloration.",
+      "completed_at_iso": "2026-05-04T21:05:00Z",
+      "notes": "Cross-linked to triangular-lid clone."
+    },
     "C0221": {
       "candidate_name": "Sarracenia montana 'best clone' Transylvania Co, NC",
       "source_thread_ids": [957, 5291],
