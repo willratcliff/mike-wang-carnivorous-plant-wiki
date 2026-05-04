@@ -88,6 +88,15 @@
       "completed_at_iso": "2026-05-04T18:30:00Z",
       "notes": "Originally sown 1997 from seed (Mike found original tag in 2019). Other-grower images (davidgreen, shuddles) logged in photos_not_mirrored[]."
     },
+    "C0109": {
+      "candidate_name": "Sarracenia psittacina 'Golfball' clone A, Wash. Co, AL",
+      "source_thread_ids": [343],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/psittacina/golfball-wash-al/index.md"],
+      "split_decision": "Single clone (Mike's Clone A). 24 Mike-photos. The 'golfball' name was given by Jim Miller per a forum reply; Mike confirms the informal 'golfballensis' nickname has no taxonomic standing.",
+      "completed_at_iso": "2026-05-04T18:45:00Z",
+      "notes": "Locality ambiguity flagged: title says Wash. Co, AL but reviewer commentary points to Citronelle / Mobile Co, AL. Reviewer should resolve."
+    },
     "C0221": {
       "candidate_name": "Sarracenia montana 'best clone' Transylvania Co, NC",
       "source_thread_ids": [957, 5291],
