@@ -70,6 +70,15 @@
       "completed_at_iso": "2026-05-04T17:50:00Z",
       "notes": "Major flagship clone with 13+ years of forum history. Flag for Mike to mark favorite photos."
     },
+    "C0084": {
+      "candidate_name": "Sarracenia flava 'RED' Liberty Co, FL",
+      "source_thread_ids": [273],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/flava/red-liberty-fl/index.md"],
+      "split_decision": "Single clone. 28 Mike-photos spanning 2012-2025. Genuine taxonomic ambiguity recorded in open_questions: rubricorpora × rubricorpora genetics but atropurpurea phenotype.",
+      "completed_at_iso": "2026-05-04T18:05:00Z",
+      "notes": "Mike-bred clone (intraspecific cross), not a wild collection. Worth Mike resolving the rank/cultivar canonicalization question."
+    },
     "C0221": {
       "candidate_name": "Sarracenia montana 'best clone' Transylvania Co, NC",
       "source_thread_ids": [957, 5291],
