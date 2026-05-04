@@ -97,6 +97,15 @@
       "completed_at_iso": "2026-05-04T18:45:00Z",
       "notes": "Locality ambiguity flagged: title says Wash. Co, AL but reviewer commentary points to Citronelle / Mobile Co, AL. Reviewer should resolve."
     },
+    "C0124": {
+      "candidate_name": "Sarracenia psittacina 'Yellow flower' Okaloosa Co, FL",
+      "source_thread_ids": [371],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/psittacina/yellow-flower-okaloosa-fl/index.md"],
+      "split_decision": "Single clone. 11 Mike photos (2012 only). Thread documents Mike's hybrid-origin hypothesis and the partial counter-evidence from S. purpurea 'Phoenix' yellow-flowered selfings.",
+      "completed_at_iso": "2026-05-04T18:55:00Z",
+      "notes": "Did this plant ever flower under Mike's care? No follow-up photos in this thread; rudeko (2016) asked unanswered."
+    },
     "C0221": {
       "candidate_name": "Sarracenia montana 'best clone' Transylvania Co, NC",
       "source_thread_ids": [957, 5291],
