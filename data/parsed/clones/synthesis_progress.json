@@ -106,6 +106,24 @@
       "completed_at_iso": "2026-05-04T18:55:00Z",
       "notes": "Did this plant ever flower under Mike's care? No follow-up photos in this thread; rudeko (2016) asked unanswered."
     },
+    "C0055": {
+      "candidate_name": "Sarracenia alata 'Black' MK A58 (Whites Crossing) Stone Co, MS",
+      "source_thread_ids": [237],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/alata/black-mk-a58-stone-ms/index.md"],
+      "split_decision": "Single clone. 32 Mike photos spanning 2017-2024 (the original 2012 photobucket photos were lost; Mike re-photographed in 2017). Includes Mike's nomenclature critique and Bogman's tannin-chemistry hypothesis as supporting context.",
+      "completed_at_iso": "2026-05-04T19:10:00Z",
+      "notes": "Year of acquisition from Mike King not stated. 'A58' accession code unexplained. Reviewer should clarify."
+    },
+    "C0096": {
+      "candidate_name": "Sarracenia alata 'Night' Stone Co, MS",
+      "source_thread_ids": [321],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/alata/night-stone-ms/index.md"],
+      "split_decision": "Single clone. 22 Mike photos + 4 Matt-Miller photos that Mike shared in his own 2025-10-06 post (attributed photographer=Matt Miller). UC-Davis selection from ICPS-distributed wild Stone Co, MS seed.",
+      "completed_at_iso": "2026-05-04T19:25:00Z",
+      "notes": "Wild collection year and UC Davis selection year unknown."
+    },
     "C0221": {
       "candidate_name": "Sarracenia montana 'best clone' Transylvania Co, NC",
       "source_thread_ids": [957, 5291],
