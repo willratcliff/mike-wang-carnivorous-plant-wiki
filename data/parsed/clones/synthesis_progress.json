@@ -470,6 +470,33 @@
       "completed_at_iso": "2026-05-05T02:30:00Z",
       "notes": ""
     },
+    "C0379": {
+      "candidate_name": "Sarracenia alata 'BLACK LIPS!!!' Stone Co, MS",
+      "source_thread_ids": [3861],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/alata/black-lips-stone-ms/index.md"],
+      "split_decision": "Single clone. 3 Mike photos (2017 only). Fourth species in Mike's collection to show black-lips trait.",
+      "completed_at_iso": "2026-05-05T02:50:00Z",
+      "notes": ""
+    },
+    "C0380": {
+      "candidate_name": "Sarracenia alata 'DARK, upward lid' Stone Co, MS",
+      "source_thread_ids": [3865],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/alata/dark-upward-lid-stone-ms/index.md"],
+      "split_decision": "Single clone. 21 Mike photos (2017-2020). Distinct purplish-black phenotype vs the dark-red 'Night'. Notable long-lasting traps.",
+      "completed_at_iso": "2026-05-05T02:55:00Z",
+      "notes": ""
+    },
+    "C0381": {
+      "candidate_name": "Sarracenia leucophylla var. alba 'Tall, shapely' Baldwin Co, AL",
+      "source_thread_ids": [3866],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/leucophylla/var-alba/tall-shapely-baldwin-al/index.md"],
+      "split_decision": "Single clone (Mike's, distinct from leo's similarly-named clone). 30 Mike photos (2017-2020). Mike's 2018 speculation: could exceed HCW.",
+      "completed_at_iso": "2026-05-05T03:05:00Z",
+      "notes": "County label inconsistency in 2019 post 41726 — defaulted to Baldwin per thread title."
+    },
     "C0221": {
       "candidate_name": "Sarracenia montana 'best clone' Transylvania Co, NC",
       "source_thread_ids": [957, 5291],
