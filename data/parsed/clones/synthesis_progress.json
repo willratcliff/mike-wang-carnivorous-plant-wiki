@@ -398,6 +398,15 @@
       "completed_at_iso": "2026-05-05T01:15:00Z",
       "notes": ""
     },
+    "C0331": {
+      "candidate_name": "Sarracenia x moorei 'Red Throat' Southern Baldwin Co, AL",
+      "source_thread_ids": [2668],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/hybrids/moorei-red-throat-southern-baldwin-al/index.md"],
+      "split_decision": "Single clone, naturally-occurring S. x moorei. 18 Mike photos + 1 Phil Long photo Mike shared in 2019. Cryptic moorei (looks like pure leucophylla until the red throat reveals the flava ancestry).",
+      "completed_at_iso": "2026-05-05T01:25:00Z",
+      "notes": ""
+    },
     "C0221": {
       "candidate_name": "Sarracenia montana 'best clone' Transylvania Co, NC",
       "source_thread_ids": [957, 5291],
