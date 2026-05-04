@@ -461,6 +461,15 @@
       "completed_at_iso": "2026-05-05T02:20:00Z",
       "notes": ""
     },
+    "C0378": {
+      "candidate_name": "Sarracenia leucophylla var. alba 'the one' Baldwin Co, AL",
+      "source_thread_ids": [3770],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/leucophylla/var-alba/the-one-baldwin-al/index.md"],
+      "split_decision": "Single clone. 23 Mike photos spanning 2016-2022. Extreme chameleon expression; top-5 alba breeding parent (dominant-alba behavior). Survived 2016-17 rot. Cross-linked to other Baldwin Co alba entries.",
+      "completed_at_iso": "2026-05-05T02:30:00Z",
+      "notes": ""
+    },
     "C0221": {
       "candidate_name": "Sarracenia montana 'best clone' Transylvania Co, NC",
       "source_thread_ids": [957, 5291],
