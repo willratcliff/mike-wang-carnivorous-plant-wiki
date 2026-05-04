@@ -254,6 +254,15 @@
       "completed_at_iso": "2026-05-04T22:15:00Z",
       "notes": ""
     },
+    "C0297": {
+      "candidate_name": "Sarracenia x moorei 'Wilkerson's White Knight' N. Walton Co, FL",
+      "source_thread_ids": [2205],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/hybrids/wilkersons-white-knight-walton-fl/index.md"],
+      "split_decision": "Single clone, primary natural hybrid (S. flava x S. leucophylla = S. x moorei) from Bud Wilkerson's property in N. Walton Co, FL. Brooks Garcia named/distributed; Mike got division from Wes Bucker. 30 Mike photos spanning 2015-2022.",
+      "completed_at_iso": "2026-05-04T22:30:00Z",
+      "notes": "Cross-linked to WRR (same N. Walton bog area) and Flop Top (also Brooks Garcia source)."
+    },
     "C0221": {
       "candidate_name": "Sarracenia montana 'best clone' Transylvania Co, NC",
       "source_thread_ids": [957, 5291],
