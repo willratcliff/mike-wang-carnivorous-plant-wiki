@@ -326,6 +326,24 @@
       "completed_at_iso": "2026-05-04T23:55:00Z",
       "notes": ""
     },
+    "C0363": {
+      "candidate_name": "Sarracenia leucophylla 'white interior' Okaloosa Co, FL",
+      "source_thread_ids": [3416],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/leucophylla/white-interior-okaloosa-fl/index.md"],
+      "split_decision": "Single clone. 5 Mike photos (only 2016-10 documentation). Possibly emerging var. alba.",
+      "completed_at_iso": "2026-05-05T00:00:00Z",
+      "notes": ""
+    },
+    "C0356": {
+      "candidate_name": "Sarracenia leucophylla 'pretty white' Okaloosa Co, FL",
+      "source_thread_ids": [3381],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/leucophylla/pretty-white-okaloosa-fl/index.md"],
+      "split_decision": "Single clone. 12 Mike photos. Possibly var. alba with circular mouth from ancestral flava introgression. Difficult cultivation; loved as a breeding parent.",
+      "completed_at_iso": "2026-05-05T00:10:00Z",
+      "notes": ""
+    },
     "C0221": {
       "candidate_name": "Sarracenia montana 'best clone' Transylvania Co, NC",
       "source_thread_ids": [957, 5291],
