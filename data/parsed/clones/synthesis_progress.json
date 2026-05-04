@@ -371,6 +371,15 @@
       "completed_at_iso": "2026-05-05T00:45:00Z",
       "notes": ""
     },
+    "C0318": {
+      "candidate_name": "Sarracenia flava 'copper body' Cook's Bayou, Bay Co, FL",
+      "source_thread_ids": [2571],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/flava/copper-body-cooks-bayou-bay-fl/index.md"],
+      "split_decision": "Single clone. 22 Mike photos. Mike characterizes it as a likely recent hybrid out of the now-extirpated Cook's Bayou site. Cross-linked to the other Cook's Bayou flava in this archive.",
+      "completed_at_iso": "2026-05-05T00:55:00Z",
+      "notes": ""
+    },
     "C0221": {
       "candidate_name": "Sarracenia montana 'best clone' Transylvania Co, NC",
       "source_thread_ids": [957, 5291],
