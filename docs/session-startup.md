@@ -34,8 +34,9 @@ decisions. Mike is the authoritative reviewer for every clone entry.
 | Per-thread Markdown bundles | `data/bundles/threads/<id>.md` | done — 925 bundles |
 | Title-parse catalog | `data/parsed/users/11/title_catalog.json` | done — 797 clone-candidates |
 | Cluster threads by clone | `data/parsed/clones/clusters.json` | done — 791 clusters (6 multi-thread, 785 singletons, 128 non-clone) |
-| Synthesis: write wiki entries | `wiki/<genus>/<species>/.../<clone>/index.md` | **in progress — 2 clusters / 4 entries done** |
-| Static site generator | `_site/` (planned) | not started |
+| Synthesis: write wiki entries | `wiki/<genus>/<species>/.../<clone>/index.md` | **in progress — 3 clusters / 8 entries done (2026-05-04)** |
+| Static site generator | `_site/` via `scripts/build_site.py` | done — 14 pages, validated end-to-end |
+| Wiki validator | `scripts/validate_wiki.py` | done — exit-code-friendly + JSON output |
 
 Read `data/parsed/clones/synthesis_progress.json` for the authoritative
 "what's been synthesized" list.
@@ -124,7 +125,32 @@ Edit `data/parsed/clones/synthesis_progress.json` with an entry like:
 }
 ```
 
-### Step 6: Commit
+### Step 6: Validate
+
+```
+.venv/bin/python scripts/validate_wiki.py
+```
+
+Should exit 0. The output also gives you a "review backlog" sorted by
+how much human input each entry needs ([VERIFY] + [MISSING] + open
+question counts).
+
+### Step 7: Rebuild the site (optional but quick)
+
+```
+.venv/bin/python scripts/build_site.py
+```
+
+Renders `wiki/` to `_site/`. To preview:
+```
+.venv/bin/python -m http.server 8765 --directory _site
+```
+
+The site is gitignored — rebuild as needed. `[VERIFY]`/`[MISSING]`
+markers render as visible orange/red badges; unreviewed entries get a
+"Review status" banner at the top.
+
+### Step 8: Commit
 
 ```
 git add wiki/ data/parsed/clones/synthesis_progress.json
@@ -203,6 +229,7 @@ src/sarrwiki/                — Python archive tooling
   pipeline.py                — fetch → parse → mirror per thread
   title_parse.py             — title -> {genus, species, cultivar, ...}
   bundle.py                  — render parsed thread to Markdown
+  site.py                    — wiki/ → static HTML with badges + galleries
 
 scripts/                     — driver scripts
   archive_one_thread.py      — smoke test
@@ -214,6 +241,8 @@ scripts/                     — driver scripts
   extract_title_catalog.py   — title-parse all discovered threads
   cluster_clones.py          — group threads into clone clusters
   corpus_stats.py            — diagnostic stats
+  build_site.py              — render wiki/ -> _site/ HTML
+  validate_wiki.py           — lint wiki/, report review backlog
 
 data/
   raw/threads/<id>/page-N.html
