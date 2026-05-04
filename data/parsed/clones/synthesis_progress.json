@@ -245,6 +245,15 @@
       "completed_at_iso": "2026-05-04T22:00:00Z",
       "notes": "Clone A/B label assignments are based on photo order in Mike's first post; the physical mapping to specific plants in Mike's collection is for him to confirm."
     },
+    "C0011": {
+      "candidate_name": "Sarracenia oreophila 'UCB'",
+      "source_thread_ids": [47],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/oreophila/ucb/index.md"],
+      "split_decision": "Single clone (Mike confirmed in post 689). 20 Mike photos spanning 2011-2024. Wild collection locality unknown — clone came to Mike from UC Berkeley botanical gardens.",
+      "completed_at_iso": "2026-05-04T22:15:00Z",
+      "notes": ""
+    },
     "C0221": {
       "candidate_name": "Sarracenia montana 'best clone' Transylvania Co, NC",
       "source_thread_ids": [957, 5291],
