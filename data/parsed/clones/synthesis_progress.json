@@ -34,6 +34,15 @@
       "split_decision": "Both threads describe the same clone. Genuine multi-thread merge case (single entry, 22 photos integrated across both threads, with cross-thread integration of Mike's giant-leucophylla framework discussion).",
       "completed_at_iso": "2026-05-04T16:35:00Z"
     },
+    "C0396": {
+      "candidate_name": "Sarracenia leucophylla var. alba 'best of batch' Baldwin Co, AL",
+      "source_thread_ids": [4084, 4253],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/leucophylla/var-alba/best-of-batch-baldwin-al/index.md"],
+      "split_decision": "Single clone. Thread 4084 is a one-line pointer to thread 4253; both describe the same plant. No split needed.",
+      "completed_at_iso": "2026-05-04T17:00:00Z",
+      "notes": "Origin batch source not specified by Mike — open question for review."
+    },
     "C0221": {
       "candidate_name": "Sarracenia montana 'best clone' Transylvania Co, NC",
       "source_thread_ids": [957, 5291],
