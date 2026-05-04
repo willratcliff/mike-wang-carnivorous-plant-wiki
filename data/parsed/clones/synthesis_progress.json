@@ -142,6 +142,33 @@
       "completed_at_iso": "2026-05-04T19:50:00Z",
       "notes": "Source population extirpated (year unknown). Strong conservation interest."
     },
+    "C0217": {
+      "candidate_name": "Darlingtonia 'BWS' Del Norte Co, CA",
+      "source_thread_ids": [941],
+      "status": "deferred-not-a-clone",
+      "wrote_to": [],
+      "split_decision": "Wild-site documentation thread, not a clone. 'BWS' is a site name, not a clone designator. Mike documents an entire wild population (~20,000 plants) at a montane Darlingtonia site in Del Norte Co, CA, photographing many distinct individuals showing diversity (mustache tongues, triangle tongues, yellow stressed plants, etc.). The thread is valuable archival material but does not describe a single named cultivation accession. The bundle preserves the in-situ photos. Mike's other Darlingtonia/Drosera 'site' threads (Sphagnum site, Cedar Springs, The ponds, LEH) are likely the same pattern — defer until reviewer confirms.",
+      "completed_at_iso": "2026-05-04T20:00:00Z",
+      "notes": "Open question for Mike: should wild-site documentation threads get their own non-clone wiki section (e.g., wiki/_sites/<state>/<site>/) since they're irreplaceable in-situ documentation that doesn't fit the clone schema?"
+    },
+    "C0257": {
+      "candidate_name": "Sarracenia flava 'Extreme red throat' Bay Co, FL",
+      "source_thread_ids": [1602],
+      "status": "deferred-not-a-clone",
+      "wrote_to": [],
+      "split_decision": "Wild in-situ documentation, not a clone. Board placement: 'Sarracenia In The Wild' (board 26). Mike (post 1, 2014-09-02): 'extreme red throat is an unofficial, fictitious name to describe a plant that has more red in the throat than the average S. flava var. rugelii.' He photographs multiple distinct in-situ individuals at a Bay Co, FL site exhibiting variable red-throat expression and discusses the (suspected) hybridization-and-backcrossing origins. This is variant/phenotype documentation, not a clone.",
+      "completed_at_iso": "2026-05-04T20:00:00Z",
+      "notes": "Same pattern as C0217 — should there be a non-clone in-situ-documentation section in the wiki?"
+    },
+    "C0282": {
+      "candidate_name": "Sarracenia rosea 'Red Throat Giant' Liberty Co, FL",
+      "source_thread_ids": [1812],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/rosea/red-throat-giant-liberty-fl/index.md"],
+      "split_decision": "Single clone. Mike's 'biggest individual out of hundreds of seedlings' from a Liberty Co, FL population. 33 Mike photos. Compared by Mike to S. rosea 'Big Mama' for size.",
+      "completed_at_iso": "2026-05-04T20:10:00Z",
+      "notes": ""
+    },
     "C0221": {
       "candidate_name": "Sarracenia montana 'best clone' Transylvania Co, NC",
       "source_thread_ids": [957, 5291],
