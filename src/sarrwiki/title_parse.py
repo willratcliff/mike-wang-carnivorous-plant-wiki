@@ -70,8 +70,15 @@ INFRA_RE = re.compile(
     re.IGNORECASE,
 )
 
-# Cultivar name: text in single quotes (curly or straight)
-CULTIVAR_RE = re.compile(r"['‘’]([^'‘’]{1,80})['‘’]")
+# Cultivar name: text in single quotes (curly or straight). Handles
+# possessives inside the cultivar (e.g., "'Brewer's Red'") by allowing
+# the inner content to contain apostrophes followed by a word char,
+# while still terminating at a closing quote followed by space/end/punct.
+CULTIVAR_RE = re.compile(
+    r"['‘’]"
+    r"(?P<name>(?:[^'‘’]|['’](?=[A-Za-z]))+?)"  # body: anything except quotes, OR apostrophe followed by letter (possessive)
+    r"['‘’](?=$|[\s,;.!?\)])",                   # closing quote followed by whitespace/end/punct
+)
 
 # US states + Canadian provinces (2-letter codes used in titles)
 STATE_CODES = {
@@ -180,7 +187,7 @@ def parse_title(title: str) -> TitleExtraction:
     cultivar = None
     cm = CULTIVAR_RE.search(t)
     if cm:
-        cultivar = cm.group(1).strip()
+        cultivar = cm.group("name").strip()
 
     # Location
     county = None

@@ -14,6 +14,17 @@
       ],
       "split_decision": "Cluster contained two distinct genetic individuals sharing the cultivar name. Split into two clone pages (clone-a, european) under a parent cultivar-group page (sand-mountain/index.md).",
       "completed_at_iso": "2026-05-04T15:10:00Z"
+    },
+    "C0741-pre-fix": {
+      "candidate_name": "Cephalotus 'Brewer' (mis-merged before cultivar-regex fix)",
+      "source_thread_ids": [6079, 6110],
+      "status": "done",
+      "wrote_to": [
+        "wiki/cephalotus/follicularis/brewers-red/index.md",
+        "wiki/cephalotus/follicularis/brewers-beauty/index.md"
+      ],
+      "split_decision": "These are two DIFFERENT clones ('Brewer's Red' and 'Brewer's Beauty'). They were incorrectly merged because the cultivar regex stopped at the apostrophe in possessive 'Brewer's'. Regex fixed (commit pending); re-clustering produces them as two singletons. Wrote both as separate clone pages.",
+      "completed_at_iso": "2026-05-04T15:30:00Z"
     }
   }
 }
