@@ -8,7 +8,15 @@ cultivation notes in case the source forum becomes unavailable.
 
 ## Status
 
-Project initialized. No data captured yet.
+- Forum archive complete: 925 Mike-authored threads, 9939 posts, 16,973 images mirrored locally.
+- Per-thread Markdown bundles in `data/bundles/threads/`.
+- Wiki synthesis in progress: 2 clusters / 4 entries written under `wiki/`. Resumable via `data/parsed/clones/synthesis_progress.json`.
+
+## For Claude Code sessions continuing this project
+
+**Read `docs/session-startup.md` first.** It walks through the project
+state, where to find the next work, the synthesis recipe, the quality
+bar, and the patterns to watch for. Skim time: ~3 minutes.
 
 ## Per-clone fields (per Mike)
 
