@@ -416,6 +416,24 @@
       "completed_at_iso": "2026-05-05T01:35:00Z",
       "notes": "Mike's other Ancestral accessions (Marion Co, Peach Co) referenced but not yet documented — likely separate clusters."
     },
+    "C0357": {
+      "candidate_name": "Sarracenia leucophylla 'DARK RED' Franklin Co, FL",
+      "source_thread_ids": [3382],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/leucophylla/dark-red-franklin-fl/index.md"],
+      "split_decision": "Single clone. 5 Mike photos (2016 only). The reference darker comparison for Manny's Dark Red.",
+      "completed_at_iso": "2026-05-05T01:45:00Z",
+      "notes": ""
+    },
+    "C0382": {
+      "candidate_name": "Sarracenia 'Adrian Slack' Santa Rosa Co, FL",
+      "source_thread_ids": [3870],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/hybrids/adrian-slack-santa-rosa-fl/index.md"],
+      "split_decision": "Single clone (the iconic Bob Hanrahan / 1997 ICPS cultivar). 49 photos including unique historical 1997 field-trip and 2013 CC greenhouse shots that Mike sourced or took. Heavy provenance and cultivation context preserved.",
+      "completed_at_iso": "2026-05-05T01:55:00Z",
+      "notes": "Major iconic cultivar. Reviewer should double-check provenance dates."
+    },
     "C0221": {
       "candidate_name": "Sarracenia montana 'best clone' Transylvania Co, NC",
       "source_thread_ids": [957, 5291],
