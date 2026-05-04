@@ -290,6 +290,15 @@
       "completed_at_iso": "2026-05-04T23:15:00Z",
       "notes": ""
     },
+    "C0364": {
+      "candidate_name": "Sarracenia leucophylla 'pink lip, shapely' Washington Co, AL",
+      "source_thread_ids": [3424],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/leucophylla/pink-lip-shapely-washington-al/index.md"],
+      "split_decision": "Single clone. 5 Mike photos. Mother plant lost to rot in 2017; only 2 divisions made it out + one local side-shoot saved.",
+      "completed_at_iso": "2026-05-04T23:25:00Z",
+      "notes": "Cultivation hazard: rot-prone after division if left in flooding tray."
+    },
     "C0221": {
       "candidate_name": "Sarracenia montana 'best clone' Transylvania Co, NC",
       "source_thread_ids": [957, 5291],
