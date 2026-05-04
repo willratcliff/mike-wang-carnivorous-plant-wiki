@@ -263,6 +263,24 @@
       "completed_at_iso": "2026-05-04T22:30:00Z",
       "notes": "Cross-linked to WRR (same N. Walton bog area) and Flop Top (also Brooks Garcia source)."
     },
+    "C0294": {
+      "candidate_name": "Sarracenia jonesii 'RED' Greenville Co, SC",
+      "source_thread_ids": [2165],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/jonesii/red-greenville-sc/index.md"],
+      "split_decision": "Single accession (population, accession_type=population). 33 Mike photos. CITES-restricted. Cross-linked to BLACK LIPS sub-selection (C0306).",
+      "completed_at_iso": "2026-05-04T22:50:00Z",
+      "notes": "Population includes a less-common green variant alongside the dominant red form."
+    },
+    "C0306": {
+      "candidate_name": "Sarracenia jonesii 'BLACK LIPS' Greenville Co, SC",
+      "source_thread_ids": [2426],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/jonesii/black-lips-greenville-sc/index.md"],
+      "split_decision": "Single individual selected from the broader 'RED' Greenville Co population (C0294). 24 Mike photos. Trait confirmed genetic/year-stable.",
+      "completed_at_iso": "2026-05-04T23:00:00Z",
+      "notes": ""
+    },
     "C0221": {
       "candidate_name": "Sarracenia montana 'best clone' Transylvania Co, NC",
       "source_thread_ids": [957, 5291],
