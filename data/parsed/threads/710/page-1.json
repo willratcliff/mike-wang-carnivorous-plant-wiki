@@ -1,0 +1,44 @@
+{
+  "thread_id": 710,
+  "thread_slug": "kate-halpins-blog-cps-alabama",
+  "thread_title": "Kate Halpin's blog-CP's in Alabama",
+  "board_id": 22,
+  "board_slug": "recommendations",
+  "board_title": "Recommendations",
+  "breadcrumb": [
+    "The Sarracenia Forum",
+    "Recommendations",
+    "Kate Halpin's blog-CP's in Alabama"
+  ],
+  "page": 1,
+  "total_pages": 1,
+  "posts": [
+    {
+      "post_id": 2963,
+      "author_username": "meizzwang",
+      "author_user_id": 11,
+      "timestamp_iso": "2013-06-10T20:17:34+00:00",
+      "timestamp_epoch_ms": 1370895454000,
+      "timestamp_raw": "Jun 10, 2013 15:17:34 GMT -5",
+      "body_html": "Here's a blog with a really neat story and great photos: <a href=\"http://katehalpin.blogspot.com/\" rel=\"nofollow\" target=\"_blank\">katehalpin.blogspot.com/</a> ",
+      "body_text": "Here's a blog with a really neat story and great photos:\nkatehalpin.blogspot.com/",
+      "image_urls": [],
+      "quoted_post_ids": []
+    },
+    {
+      "post_id": 2978,
+      "author_username": "swampdonkey",
+      "author_user_id": 17,
+      "timestamp_iso": "2013-06-13T16:31:39+00:00",
+      "timestamp_epoch_ms": 1371141099000,
+      "timestamp_raw": "Jun 13, 2013 11:31:39 GMT -5",
+      "body_html": "stunning place to call home...thanks for the link.",
+      "body_text": "stunning place to call home...thanks for the link.",
+      "image_urls": [],
+      "quoted_post_ids": []
+    }
+  ],
+  "parser_warnings": [],
+  "source_url": "https://sarracenia.proboards.com/thread/710/kate-halpins-blog-cps-alabama",
+  "parsed_at_iso": "2026-05-03T23:23:23.734765+00:00"
+}

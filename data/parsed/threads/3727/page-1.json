@@ -1,0 +1,92 @@
+{
+  "thread_id": 3727,
+  "thread_slug": "nasc",
+  "thread_title": "NASC-are they still around?",
+  "board_id": 7,
+  "board_slug": "general-board",
+  "board_title": "General Board",
+  "breadcrumb": [
+    "The Sarracenia Forum",
+    "General Board",
+    "NASC-are they still around?"
+  ],
+  "page": 1,
+  "total_pages": 1,
+  "posts": [
+    {
+      "post_id": 32810,
+      "author_username": "meizzwang",
+      "author_user_id": 11,
+      "timestamp_iso": "2017-04-21T22:38:01+00:00",
+      "timestamp_epoch_ms": 1492814281000,
+      "timestamp_raw": "Apr 21, 2017 17:38:01 GMT -5",
+      "body_html": "I remember the NASC was gaining some momentum a few years back, but it seems the organization isn't as active these days, does anyone know?",
+      "body_text": "I remember the NASC was gaining some momentum a few years back, but it seems the organization isn't as active these days, does anyone know?",
+      "image_urls": [],
+      "quoted_post_ids": []
+    },
+    {
+      "post_id": 32813,
+      "author_username": "hcarlton",
+      "author_user_id": 110,
+      "timestamp_iso": "2017-04-22T00:46:04+00:00",
+      "timestamp_epoch_ms": 1492821964000,
+      "timestamp_raw": "Apr 21, 2017 19:46:04 GMT -5",
+      "body_html": "They're still doing the annual fundraiser on TF (which just finished actually), but haven't seen anything else.",
+      "body_text": "They're still doing the annual fundraiser on TF (which just finished actually), but haven't seen anything else.",
+      "image_urls": [],
+      "quoted_post_ids": []
+    },
+    {
+      "post_id": 32843,
+      "author_username": "maxzilla90",
+      "author_user_id": 756,
+      "timestamp_iso": "2017-04-23T06:30:04+00:00",
+      "timestamp_epoch_ms": 1492929004000,
+      "timestamp_raw": "Apr 23, 2017 1:30:04 GMT -5",
+      "body_html": "They have an active Facebook page.<br/>",
+      "body_text": "They have an active Facebook page.",
+      "image_urls": [],
+      "quoted_post_ids": []
+    },
+    {
+      "post_id": 32875,
+      "author_username": "boarderlib",
+      "author_user_id": 793,
+      "timestamp_iso": "2017-04-24T17:39:12+00:00",
+      "timestamp_epoch_ms": 1493055552000,
+      "timestamp_raw": "Apr 24, 2017 12:39:12 GMT -5",
+      "body_html": "Yes, we're still around. A lot of efforts have been tied up in one particular project lately. That's probably why you haven't heard much. I'm still pretty new to the board, so I'm not real sure how much info I can really give out at the present time. Hence the vague response. <br/><br/>We are around though, and working on a few great things. ",
+      "body_text": "Yes, we're still around. A lot of efforts have been tied up in one particular project lately. That's probably why you haven't heard much. I'm still pretty new to the board, so I'm not real sure how much info I can really give out at the present time. Hence the vague response.\nWe are around though, and working on a few great things.",
+      "image_urls": [],
+      "quoted_post_ids": []
+    },
+    {
+      "post_id": 32885,
+      "author_username": "admin",
+      "author_user_id": 1,
+      "timestamp_iso": "2017-04-24T18:24:20+00:00",
+      "timestamp_epoch_ms": 1493058260000,
+      "timestamp_raw": "Apr 24, 2017 13:24:20 GMT -5",
+      "body_html": "<span itemscope=\"\" itemtype=\"http://schema.org/Person\"><a class=\"user-link js-user-link user-793 group-0\" href=\"/user/793\" itemprop=\"url\" title=\"@boarderlib\"><span itemprop=\"name\">boarderlib</span></a></span><br/>Are you a representative from NASC? If so, I can change your status from NEW MEMBER to something more relevant. Let me know",
+      "body_text": "boarderlib\nAre you a representative from NASC? If so, I can change your status from NEW MEMBER to something more relevant. Let me know",
+      "image_urls": [],
+      "quoted_post_ids": []
+    },
+    {
+      "post_id": 32918,
+      "author_username": "boarderlib",
+      "author_user_id": 793,
+      "timestamp_iso": "2017-04-25T12:29:54+00:00",
+      "timestamp_epoch_ms": 1493123394000,
+      "timestamp_raw": "Apr 25, 2017 7:29:54 GMT -5",
+      "body_html": "I better start getting my post count up. Lol. <span itemscope=\"\" itemtype=\"http://schema.org/Person\"><a class=\"user-link js-user-link user-1 group-1\" href=\"/user/1\" itemprop=\"url\" style=\"color: #c02121;\" title=\"@admin\"><span itemprop=\"name\">Jonathan Mejia</span></a></span>, yes I am on the board of NASC. I appreciate the offer, but I'm a very low key kind of guy and I would rather make my name for growing plants instead of how I volunteer my free time. Thank you for the offer though, it really is appreciated. ",
+      "body_text": "I better start getting my post count up. Lol.\nJonathan Mejia\n, yes I am on the board of NASC. I appreciate the offer, but I'm a very low key kind of guy and I would rather make my name for growing plants instead of how I volunteer my free time. Thank you for the offer though, it really is appreciated.",
+      "image_urls": [],
+      "quoted_post_ids": []
+    }
+  ],
+  "parser_warnings": [],
+  "source_url": "https://sarracenia.proboards.com/thread/3727/nasc",
+  "parsed_at_iso": "2026-05-04T00:00:21.124578+00:00"
+}

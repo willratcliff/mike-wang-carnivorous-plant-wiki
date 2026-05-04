@@ -1,0 +1,44 @@
+{
+  "thread_id": 3709,
+  "thread_slug": "rip-charlie-murphy",
+  "thread_title": "RIP Charlie Murphy",
+  "board_id": 7,
+  "board_slug": "general-board",
+  "board_title": "General Board",
+  "breadcrumb": [
+    "The Sarracenia Forum",
+    "General Board",
+    "RIP Charlie Murphy"
+  ],
+  "page": 1,
+  "total_pages": 1,
+  "posts": [
+    {
+      "post_id": 32546,
+      "author_username": "meizzwang",
+      "author_user_id": 11,
+      "timestamp_iso": "2017-04-13T18:35:28+00:00",
+      "timestamp_epoch_ms": 1492108528000,
+      "timestamp_raw": "Apr 13, 2017 13:35:28 GMT -5",
+      "body_html": "Really sad and surprised to hear that Charlie Murphy passed away: <a href=\"https://en.wikipedia.org/wiki/Charlie_Murphy\" rel=\"nofollow\" target=\"_blank\">en.wikipedia.org/wiki/Charlie_Murphy</a>     His performance as \"Gusto\" the crazy Gangsta rap star in CB4....second to none.  RIP Charlie....",
+      "body_text": "Really sad and surprised to hear that Charlie Murphy passed away:\nen.wikipedia.org/wiki/Charlie_Murphy\nHis performance as \"Gusto\" the crazy Gangsta rap star in CB4....second to none.  RIP Charlie....",
+      "image_urls": [],
+      "quoted_post_ids": []
+    },
+    {
+      "post_id": 32633,
+      "author_username": "amriko",
+      "author_user_id": 872,
+      "timestamp_iso": "2017-04-15T05:14:17+00:00",
+      "timestamp_epoch_ms": 1492233257000,
+      "timestamp_raw": "Apr 15, 2017 0:14:17 GMT -5",
+      "body_html": "RIP",
+      "body_text": "RIP",
+      "image_urls": [],
+      "quoted_post_ids": []
+    }
+  ],
+  "parser_warnings": [],
+  "source_url": "https://sarracenia.proboards.com/thread/3709/rip-charlie-murphy",
+  "parsed_at_iso": "2026-05-03T23:59:58.222794+00:00"
+}

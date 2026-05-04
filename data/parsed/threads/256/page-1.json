@@ -1,0 +1,32 @@
+{
+  "thread_id": 256,
+  "thread_slug": "area-show-sale-saturday-june",
+  "thread_title": "Bay Area CP Show and Sale, Saturday, June 16th!",
+  "board_id": 4,
+  "board_slug": "events",
+  "board_title": "Events!",
+  "breadcrumb": [
+    "The Sarracenia Forum",
+    "Events!",
+    "Bay Area CP Show and Sale, Saturday, June 16th!"
+  ],
+  "page": 1,
+  "total_pages": 1,
+  "posts": [
+    {
+      "post_id": 1016,
+      "author_username": "meizzwang",
+      "author_user_id": 11,
+      "timestamp_iso": "2012-06-06T06:10:16+00:00",
+      "timestamp_epoch_ms": 1338963016000,
+      "timestamp_raw": "Jun 6, 2012 1:10:16 GMT -5",
+      "body_html": "This is the biggest show and sale in Northern California-if you're in the area, don't miss it!  It's held in Oakland-more details here: <a href=\"http://www.bacps.org/show.html\" rel=\"nofollow\" target=\"_blank\">www.bacps.org/show.html</a> ",
+      "body_text": "This is the biggest show and sale in Northern California-if you're in the area, don't miss it!  It's held in Oakland-more details here:\nwww.bacps.org/show.html",
+      "image_urls": [],
+      "quoted_post_ids": []
+    }
+  ],
+  "parser_warnings": [],
+  "source_url": "https://sarracenia.proboards.com/thread/256/area-show-sale-saturday-june",
+  "parsed_at_iso": "2026-05-03T23:03:05.076702+00:00"
+}

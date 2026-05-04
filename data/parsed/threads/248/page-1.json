@@ -1,0 +1,51 @@
+{
+  "thread_id": 248,
+  "thread_slug": "excellens",
+  "thread_title": "S. x excellens",
+  "board_id": 9,
+  "board_slug": "hybrids",
+  "board_title": "Hybrids",
+  "breadcrumb": [
+    "The Sarracenia Forum",
+    "...",
+    "Hybrids",
+    "S. x excellens"
+  ],
+  "page": 1,
+  "total_pages": 1,
+  "posts": [
+    {
+      "post_id": 978,
+      "author_username": "meizzwang",
+      "author_user_id": 11,
+      "timestamp_iso": "2012-06-03T16:30:10+00:00",
+      "timestamp_epoch_ms": 1338741010000,
+      "timestamp_raw": "Jun 3, 2012 11:30:10 GMT -5",
+      "body_html": "S. leucophylla 'red' x minor var. okefenokeensis:<br/><img src=\"http://i1110.photobucket.com/albums/h443/meizzwang/IMG_7459.jpg\" style=\"max-width: 100%;\"/><br/><br/><img src=\"http://i1110.photobucket.com/albums/h443/meizzwang/IMG_7460.jpg\" style=\"max-width: 100%;\"/><br/><br/><br/><br/>S. leucophylla 'burgundy' x minor var. okefenokeensis.  There's one clone from this cross that has a \"green face\" but those pitchers aren't formed until the fall:<br/><img src=\"http://i1110.photobucket.com/albums/h443/meizzwang/IMG_7454.jpg\" style=\"max-width: 100%;\"/><br/><br/><img src=\"http://i1110.photobucket.com/albums/h443/meizzwang/IMG_7455.jpg\" style=\"max-width: 100%;\"/><br/><br/><img src=\"http://i1110.photobucket.com/albums/h443/meizzwang/IMG_7495.jpg\" style=\"max-width: 100%;\"/>",
+      "body_text": "S. leucophylla 'red' x minor var. okefenokeensis:\nS. leucophylla 'burgundy' x minor var. okefenokeensis.  There's one clone from this cross that has a \"green face\" but those pitchers aren't formed until the fall:",
+      "image_urls": [
+        "http://i1110.photobucket.com/albums/h443/meizzwang/IMG_7459.jpg",
+        "http://i1110.photobucket.com/albums/h443/meizzwang/IMG_7460.jpg",
+        "http://i1110.photobucket.com/albums/h443/meizzwang/IMG_7454.jpg",
+        "http://i1110.photobucket.com/albums/h443/meizzwang/IMG_7455.jpg",
+        "http://i1110.photobucket.com/albums/h443/meizzwang/IMG_7495.jpg"
+      ],
+      "quoted_post_ids": []
+    },
+    {
+      "post_id": 980,
+      "author_username": "airforce1",
+      "author_user_id": 47,
+      "timestamp_iso": "2012-06-04T00:10:32+00:00",
+      "timestamp_epoch_ms": 1338768632000,
+      "timestamp_raw": "Jun 3, 2012 19:10:32 GMT -5",
+      "body_html": "Stunning reds on this one! ",
+      "body_text": "Stunning reds on this one!",
+      "image_urls": [],
+      "quoted_post_ids": []
+    }
+  ],
+  "parser_warnings": [],
+  "source_url": "https://sarracenia.proboards.com/thread/248/excellens",
+  "parsed_at_iso": "2026-05-03T23:02:09.642956+00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "thread_id": 366,
+  "thread_slug": "zone-6b-carls-website",
+  "thread_title": "Zone 6B-Carl's website",
+  "board_id": 22,
+  "board_slug": "recommendations",
+  "board_title": "Recommendations",
+  "breadcrumb": [
+    "The Sarracenia Forum",
+    "Recommendations",
+    "Zone 6B-Carl's website"
+  ],
+  "page": 1,
+  "total_pages": 1,
+  "posts": [
+    {
+      "post_id": 1536,
+      "author_username": "meizzwang",
+      "author_user_id": 11,
+      "timestamp_iso": "2012-08-26T04:48:35+00:00",
+      "timestamp_epoch_ms": 1345956515000,
+      "timestamp_raw": "Aug 25, 2012 23:48:35 GMT -5",
+      "body_html": "For some amazing new photos of endangered Sarracenias in the wild, check out Carl's recently updated site: <a href=\"http://zone6b.wordpress.com/\" rel=\"nofollow\" target=\"_blank\">zone6b.wordpress.com/</a> ",
+      "body_text": "For some amazing new photos of endangered Sarracenias in the wild, check out Carl's recently updated site:\nzone6b.wordpress.com/",
+      "image_urls": [],
+      "quoted_post_ids": []
+    }
+  ],
+  "parser_warnings": [],
+  "source_url": "https://sarracenia.proboards.com/thread/366/zone-6b-carls-website",
+  "parsed_at_iso": "2026-05-03T23:11:03.377247+00:00"
+}

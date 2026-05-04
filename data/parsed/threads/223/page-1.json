@@ -1,0 +1,61 @@
+{
+  "thread_id": 223,
+  "thread_slug": "flava-var-rugelii-clone",
+  "thread_title": "S. flava var. rugelii clone F",
+  "board_id": 5,
+  "board_slug": "sarracenia-flava",
+  "board_title": "Sarracenia flava",
+  "breadcrumb": [
+    "The Sarracenia Forum",
+    "...",
+    "Sarracenia flava",
+    "S. flava var. rugelii clone F"
+  ],
+  "page": 1,
+  "total_pages": 1,
+  "posts": [
+    {
+      "post_id": 859,
+      "author_username": "meizzwang",
+      "author_user_id": 11,
+      "timestamp_iso": "2012-05-15T05:02:11+00:00",
+      "timestamp_epoch_ms": 1337058131000,
+      "timestamp_raw": "May 15, 2012 0:02:11 GMT -5",
+      "body_html": "S. flava var. rugelii clone F:<br/><br/><img src=\"http://i1110.photobucket.com/albums/h443/meizzwang/flavaf2.jpg\" style=\"max-width: 100%;\"/><br/><br/><img src=\"http://i1110.photobucket.com/albums/h443/meizzwang/flavaF1.jpg\" style=\"max-width: 100%;\"/><br/><br/><img src=\"http://i1110.photobucket.com/albums/h443/meizzwang/flavaF.jpg\" style=\"max-width: 100%;\"/>",
+      "body_text": "S. flava var. rugelii clone F:",
+      "image_urls": [
+        "http://i1110.photobucket.com/albums/h443/meizzwang/flavaf2.jpg",
+        "http://i1110.photobucket.com/albums/h443/meizzwang/flavaF1.jpg",
+        "http://i1110.photobucket.com/albums/h443/meizzwang/flavaF.jpg"
+      ],
+      "quoted_post_ids": []
+    },
+    {
+      "post_id": 862,
+      "author_username": "nico",
+      "author_user_id": 32,
+      "timestamp_iso": "2012-05-15T15:59:55+00:00",
+      "timestamp_epoch_ms": 1337097595000,
+      "timestamp_raw": "May 15, 2012 10:59:55 GMT -5",
+      "body_html": "i really like this huge red splotch in the troat.<br/>thanks for sharing Mike!",
+      "body_text": "i really like this huge red splotch in the troat.\nthanks for sharing Mike!",
+      "image_urls": [],
+      "quoted_post_ids": []
+    },
+    {
+      "post_id": 864,
+      "author_username": "meizzwang",
+      "author_user_id": 11,
+      "timestamp_iso": "2012-05-15T17:29:31+00:00",
+      "timestamp_epoch_ms": 1337102971000,
+      "timestamp_raw": "May 15, 2012 12:29:31 GMT -5",
+      "body_html": "You're welcome Nico!  After growing out many different clones, it seems under optimal conditions, most of the S. flava var. rugelii's can produce a red throat.  However, certain clones, like Clone A, AxB, clone B, clone D, etc. consistently produce a well defined red throat year after year.",
+      "body_text": "You're welcome Nico!  After growing out many different clones, it seems under optimal conditions, most of the S. flava var. rugelii's can produce a red throat.  However, certain clones, like Clone A, AxB, clone B, clone D, etc. consistently produce a well defined red throat year after year.",
+      "image_urls": [],
+      "quoted_post_ids": []
+    }
+  ],
+  "parser_warnings": [],
+  "source_url": "https://sarracenia.proboards.com/thread/223/flava-var-rugelii-clone",
+  "parsed_at_iso": "2026-05-03T23:00:01.073176+00:00"
+}

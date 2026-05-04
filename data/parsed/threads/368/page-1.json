@@ -1,0 +1,49 @@
+{
+  "thread_id": 368,
+  "thread_slug": "dixie-lace",
+  "thread_title": "S. x Dixie Lace",
+  "board_id": 9,
+  "board_slug": "hybrids",
+  "board_title": "Hybrids",
+  "breadcrumb": [
+    "The Sarracenia Forum",
+    "...",
+    "Hybrids",
+    "S. x Dixie Lace"
+  ],
+  "page": 1,
+  "total_pages": 1,
+  "posts": [
+    {
+      "post_id": 1539,
+      "author_username": "meizzwang",
+      "author_user_id": 11,
+      "timestamp_iso": "2012-08-26T06:31:43+00:00",
+      "timestamp_epoch_ms": 1345962703000,
+      "timestamp_raw": "Aug 26, 2012 1:31:43 GMT -5",
+      "body_html": "Here's a hybrid that's been around a while and was once mass tissue cultured many years back.  This clone produces nice specimen sized plants over time, and has great color:<br/><br/><img src=\"http://i1110.photobucket.com/albums/h443/meizzwang/IMG_8892.jpg\" style=\"max-width: 100%;\"/><br/><br/><img src=\"http://i1110.photobucket.com/albums/h443/meizzwang/IMG_8893.jpg\" style=\"max-width: 100%;\"/><br/><br/><img src=\"http://i1110.photobucket.com/albums/h443/meizzwang/IMG_8891.jpg\" style=\"max-width: 100%;\"/><br/>",
+      "body_text": "Here's a hybrid that's been around a while and was once mass tissue cultured many years back.  This clone produces nice specimen sized plants over time, and has great color:",
+      "image_urls": [
+        "http://i1110.photobucket.com/albums/h443/meizzwang/IMG_8892.jpg",
+        "http://i1110.photobucket.com/albums/h443/meizzwang/IMG_8893.jpg",
+        "http://i1110.photobucket.com/albums/h443/meizzwang/IMG_8891.jpg"
+      ],
+      "quoted_post_ids": []
+    },
+    {
+      "post_id": 1543,
+      "author_username": "kiwiearl",
+      "author_user_id": 27,
+      "timestamp_iso": "2012-08-26T20:34:45+00:00",
+      "timestamp_epoch_ms": 1346013285000,
+      "timestamp_raw": "Aug 26, 2012 15:34:45 GMT -5",
+      "body_html": "That's one healthy individual! Plenty of hybrid vigour. A timeless classic.",
+      "body_text": "That's one healthy individual! Plenty of hybrid vigour. A timeless classic.",
+      "image_urls": [],
+      "quoted_post_ids": []
+    }
+  ],
+  "parser_warnings": [],
+  "source_url": "https://sarracenia.proboards.com/thread/368/dixie-lace",
+  "parsed_at_iso": "2026-05-03T23:11:25.480419+00:00"
+}

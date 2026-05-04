@@ -45,3 +45,6 @@ data/images/
 
 # Python venv (also in earlier section but explicit)
 .venv/
+
+# Claude Code session state
+.claude/

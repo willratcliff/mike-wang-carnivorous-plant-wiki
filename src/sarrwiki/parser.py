@@ -264,7 +264,21 @@ def parse_thread_page(
                 author_username = title.removeprefix("@")
             author_user_id = _int_or_none(user_link.get("data-id"))
         else:
-            warnings.append(f"post {post_id}: no o-user-link found")
+            # Deleted forum users have a mini-profile of class
+            # "deleted-mini-profile" with no user link. The post body
+            # itself is preserved.
+            if node.find(class_="deleted-mini-profile") or node.find(class_="user-deleted"):
+                author_username = "[deleted user]"
+            elif node.find(class_="guest-mini-profile") or node.find(class_="user-guest"):
+                # Guest posts: not-logged-in users. Their display name
+                # lives in span.user-guest.
+                guest_name = node.find(class_="user-guest")
+                if guest_name:
+                    author_username = f"[guest] {guest_name.get_text(strip=True)}"
+                else:
+                    author_username = "[guest]"
+            else:
+                warnings.append(f"post {post_id}: no o-user-link found")
 
         # Timestamp — first abbr.o-timestamp inside the post
         timestamp_epoch_ms = None

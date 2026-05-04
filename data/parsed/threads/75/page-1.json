@@ -1,0 +1,58 @@
+{
+  "thread_id": 75,
+  "thread_slug": "flava-rugelii-huge-field",
+  "thread_title": "S. flava rugelii huge field!",
+  "board_id": 26,
+  "board_slug": "sarracenia-wild",
+  "board_title": "Sarracenia In The Wild",
+  "breadcrumb": [
+    "The Sarracenia Forum",
+    "Sarracenia In The Wild",
+    "S. flava rugelii huge field!"
+  ],
+  "page": 1,
+  "total_pages": 1,
+  "posts": [
+    {
+      "post_id": 216,
+      "author_username": "meizzwang",
+      "author_user_id": 11,
+      "timestamp_iso": "2011-12-08T03:24:59+00:00",
+      "timestamp_epoch_ms": 1323314699000,
+      "timestamp_raw": "Dec 7, 2011 22:24:59 GMT -5",
+      "body_html": "Photo courtesy of Brooks Garcia.  He informed me this population of flavas is from Leah Wilkerson's property in NW Florida.  There's another family member, Bud Wilkerson, who also had a property loaded with Sarracenias.  Unfortunately, Bud passed away a few years ago, and there's no knowing if this population is being managed.  Only hope is that they're still burning the site every so often...<br/><br/><img src=\"http://i1110.photobucket.com/albums/h443/meizzwang/Sarrancinaflava1.jpg\" style=\"max-width: 100%;\"/>",
+      "body_text": "Photo courtesy of Brooks Garcia.  He informed me this population of flavas is from Leah Wilkerson's property in NW Florida.  There's another family member, Bud Wilkerson, who also had a property loaded with Sarracenias.  Unfortunately, Bud passed away a few years ago, and there's no knowing if this population is being managed.  Only hope is that they're still burning the site every so often...",
+      "image_urls": [
+        "http://i1110.photobucket.com/albums/h443/meizzwang/Sarrancinaflava1.jpg"
+      ],
+      "quoted_post_ids": []
+    },
+    {
+      "post_id": 1130,
+      "author_username": "sarraceniaobsessed",
+      "author_user_id": 50,
+      "timestamp_iso": "2012-06-26T01:56:16+00:00",
+      "timestamp_epoch_ms": 1340675776000,
+      "timestamp_raw": "Jun 25, 2012 20:56:16 GMT -5",
+      "body_html": "Correction: This is Leah Wilkerson's front yard! This photo never fails to amaze me. THIS is why I fell in love with these plants.",
+      "body_text": "Correction: This is Leah Wilkerson's front yard! This photo never fails to amaze me. THIS is why I fell in love with these plants.",
+      "image_urls": [],
+      "quoted_post_ids": []
+    },
+    {
+      "post_id": 1138,
+      "author_username": "meizzwang",
+      "author_user_id": 11,
+      "timestamp_iso": "2012-06-26T15:58:00+00:00",
+      "timestamp_epoch_ms": 1340726280000,
+      "timestamp_raw": "Jun 26, 2012 10:58:00 GMT -5",
+      "body_html": "Correction made-thanks Brooks!",
+      "body_text": "Correction made-thanks Brooks!",
+      "image_urls": [],
+      "quoted_post_ids": []
+    }
+  ],
+  "parser_warnings": [],
+  "source_url": "https://sarracenia.proboards.com/thread/75/flava-rugelii-huge-field",
+  "parsed_at_iso": "2026-05-03T22:53:37.250169+00:00"
+}

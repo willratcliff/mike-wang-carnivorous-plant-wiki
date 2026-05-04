@@ -1,0 +1,35 @@
+{
+  "thread_id": 5303,
+  "thread_slug": "sarracenia-godzuki",
+  "thread_title": "Sarracenia 'Godzuki'",
+  "board_id": 9,
+  "board_slug": "hybrids",
+  "board_title": "Hybrids",
+  "breadcrumb": [
+    "The Sarracenia Forum",
+    "...",
+    "Hybrids",
+    "Sarracenia 'Godzuki'"
+  ],
+  "page": 1,
+  "total_pages": 1,
+  "posts": [
+    {
+      "post_id": 46885,
+      "author_username": "meizzwang",
+      "author_user_id": 11,
+      "timestamp_iso": "2021-08-15T16:13:40+00:00",
+      "timestamp_epoch_ms": 1629044020000,
+      "timestamp_raw": "Aug 15, 2021 11:13:40 GMT -5",
+      "body_html": "I don't think there's a thread on this clone, so it's probably time to get it documented up in this forum!  Here's a link to the cultivar description: <a href=\"https://legacy.carnivorousplants.org/cpn/Species/v40n3p95_98.html\" rel=\"nofollow\" target=\"_blank\">legacy.carnivorousplants.org/cpn/Species/v40n3p95_98.html</a><br/><br/>And here is a pic, taken 8/15/21:<br/><img src=\"https://live.staticflickr.com/65535/51380664719_067b5c58ba_c.jpg\" style=\"max-width: 100%;\"/>",
+      "body_text": "I don't think there's a thread on this clone, so it's probably time to get it documented up in this forum!  Here's a link to the cultivar description:\nlegacy.carnivorousplants.org/cpn/Species/v40n3p95_98.html\nAnd here is a pic, taken 8/15/21:",
+      "image_urls": [
+        "https://live.staticflickr.com/65535/51380664719_067b5c58ba_c.jpg"
+      ],
+      "quoted_post_ids": []
+    }
+  ],
+  "parser_warnings": [],
+  "source_url": "https://sarracenia.proboards.com/thread/5303/sarracenia-godzuki",
+  "parsed_at_iso": "2026-05-04T00:29:17.762273+00:00"
+}
