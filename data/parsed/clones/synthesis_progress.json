@@ -223,6 +223,15 @@
       "completed_at_iso": "2026-05-04T21:30:00Z",
       "notes": "First entry under wiki/sarracenia/hybrids/. Reverse-color habit documented as a recognized trait of S. x areolata more broadly."
     },
+    "C0020": {
+      "candidate_name": "Sarracenia purpurea ssp. purpurea 'Marl Bog form' Bruce Co, ON",
+      "source_thread_ids": [98],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/purpurea/marl-bog-form-bruce-on/index.md"],
+      "split_decision": "Single accession (treated as one entry though it's a seed-grown population with multiple individuals — Mike treats them collectively as 'Marl Bog form'). Added accession_type: 'population' field; logged open question about whether the schema should formalize this. 35 Mike photos + 5 by Rob Co (in Mike's first post, properly attributed). Spans 2011-2023.",
+      "completed_at_iso": "2026-05-04T21:50:00Z",
+      "notes": "Schema novelty: population-level entry. Reviewer should validate the approach."
+    },
     "C0221": {
       "candidate_name": "Sarracenia montana 'best clone' Transylvania Co, NC",
       "source_thread_ids": [957, 5291],
