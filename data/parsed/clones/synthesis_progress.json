@@ -389,6 +389,15 @@
       "completed_at_iso": "2026-05-05T01:05:00Z",
       "notes": "Hosted on anonymous landowner's property in TaylorCo. Wild-origin status of AF unconfirmed."
     },
+    "C0348": {
+      "candidate_name": "Sarracenia flava var. ornata 'black veins' Okaloosa Co, FL",
+      "source_thread_ids": [3329],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/flava/var-ornata/black-veins-okaloosa-fl/index.md"],
+      "split_decision": "Single clone. 4 Mike photos. Distinct genetic origin from the dominant Bulloch Co black-veins lineage.",
+      "completed_at_iso": "2026-05-05T01:15:00Z",
+      "notes": ""
+    },
     "C0221": {
       "candidate_name": "Sarracenia montana 'best clone' Transylvania Co, NC",
       "source_thread_ids": [957, 5291],
