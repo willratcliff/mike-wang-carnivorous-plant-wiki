@@ -169,6 +169,24 @@
       "completed_at_iso": "2026-05-04T20:10:00Z",
       "notes": ""
     },
+    "C0262": {
+      "candidate_name": "Sarracenia leucophylla 'Manny's Dark Red' Franklin Co, FL",
+      "source_thread_ids": [1640],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/leucophylla/mannys-dark-red-franklin-fl/index.md"],
+      "split_decision": "Single clone. 13 Mike photos spanning 2014-2018. Named for Manny H. ('mannyh' on the forum, who replied to the thread). Mike notes 'deep red' would have been a more accurate descriptor than 'Dark Red' as it's not as dark as the separate 'dark red' Franklin Co, FL clone (thread 3382).",
+      "completed_at_iso": "2026-05-04T20:25:00Z",
+      "notes": ""
+    },
+    "C0232": {
+      "candidate_name": "Sarracenia leucophylla 'RED' Franklin Co, FL clone B",
+      "source_thread_ids": [1246],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/leucophylla/red-clone-b-franklin-fl/index.md"],
+      "split_decision": "Single clone. 3 Mike photos. Sunbelle Exotics origin. Reportedly the southeasternmost stand of S. leucophylla (no psittacina at the site). Mike used it as a father plant in a notable cross documented in thread 914 (a separate clone-select hybrid).",
+      "completed_at_iso": "2026-05-04T20:35:00Z",
+      "notes": "Population reportedly threatened by pine encroachment / shading per Sunbelle 2014. Reviewer should ask about post-2014 status."
+    },
     "C0221": {
       "candidate_name": "Sarracenia montana 'best clone' Transylvania Co, NC",
       "source_thread_ids": [957, 5291],
