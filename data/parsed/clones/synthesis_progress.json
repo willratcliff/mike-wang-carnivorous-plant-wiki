@@ -52,6 +52,15 @@
       "completed_at_iso": "2026-05-04T17:15:00Z",
       "notes": "Open question for Mike: (a) Should each hybrid-batch thread get a 'breeding line' wiki page? (b) Have the 2 selected seedlings from thread 5233 been named, and should they get clone pages? (c) Is there source material for the Rod's Favorite parent clone elsewhere?"
     },
+    "C0607": {
+      "candidate_name": "Sarracenia rosea 'red lips' Southern Baldwin Co, AL",
+      "source_thread_ids": [5596, 5768],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/rosea/red-lips-southern-baldwin-al/index.md"],
+      "split_decision": "Single clone. Both threads describe the same plant — same locality (Southern Baldwin Co, AL), same clone name, same standout side-shoot trait, both posted by Mike in 2022 (~4 months apart). Cross-thread integration: the 'plant kept green ~10 years under shade' history from thread 5596 + the 'private property' provenance and side-shoot framing from thread 5768.",
+      "completed_at_iso": "2026-05-04T17:25:00Z",
+      "notes": ""
+    },
     "C0221": {
       "candidate_name": "Sarracenia montana 'best clone' Transylvania Co, NC",
       "source_thread_ids": [957, 5291],
