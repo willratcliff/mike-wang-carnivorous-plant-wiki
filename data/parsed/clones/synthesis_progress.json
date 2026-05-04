@@ -344,6 +344,15 @@
       "completed_at_iso": "2026-05-05T00:10:00Z",
       "notes": ""
     },
+    "C0336": {
+      "candidate_name": "Sarracenia leucophylla var. alba 'select clone' Washington Co, AL",
+      "source_thread_ids": [3153],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/leucophylla/var-alba/select-clone-washington-al/index.md"],
+      "split_decision": "Single clone. 4 Mike photos. Distinct from MKL042 (the other Wash. Co AL alba). Believed yellow-flowered.",
+      "completed_at_iso": "2026-05-05T00:20:00Z",
+      "notes": "Includes Mike's general acclimation recipe for fussy alba clones."
+    },
     "C0221": {
       "candidate_name": "Sarracenia montana 'best clone' Transylvania Co, NC",
       "source_thread_ids": [957, 5291],
