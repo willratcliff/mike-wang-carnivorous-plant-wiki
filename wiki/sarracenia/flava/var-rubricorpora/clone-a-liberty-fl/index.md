@@ -38,11 +38,20 @@ cultivation_notes: |
     that.
 
 source_threads:
+  - thread_id: 238
+    url: "https://sarracenia.proboards.com/thread/238/flava-var-rubricorpora-liberty-clone"
+    role: "primary"
+    note: "First-described thread, 2012-05-26 (augmented from cluster C0056)."
   - thread_id: 5234
     url: "https://sarracenia.proboards.com/thread/5234/flava-var-rubricorpora-clone-liberty"
-    role: "primary"
+    role: "update"
 
 photos:
+  - { path: "aa/aa8a034bdaa9502b4165e6c8c6b55a3449b85c8afea5aa896a5a5d9d1d35f17d.jpg", caption: "rubricorpora clone A, 2012-05-26 (thread 238 — earliest)", photographer: "Mike Wang", source_post_id: 932, favorite: false }
+  - { path: "33/33fded94a636357a5ac797e6505bf32afd16352a2c017f9256ee9a070fc4e6ce.jpg", caption: "rubricorpora clone A, 2012-05-26 (thread 238)", photographer: "Mike Wang", source_post_id: 932, favorite: false }
+  - { path: "7e/7ea41ac1d32d5ebe2d284c9a05bf9c6b29e922b66be6a069e23738e406337704.jpg", caption: "rubricorpora clone A, 2012-05-26 (thread 238)", photographer: "Mike Wang", source_post_id: 932, favorite: false }
+  - { path: "56/563c3d1a35f0c124c3643c21d05b2f21dbfabf98ffd788c08d7859b797add27d.jpg", caption: "rubricorpora clone A, 2012-05-26 (thread 238)", photographer: "Mike Wang", source_post_id: 932, favorite: false }
+  - { path: "4f/4f2e282bcd1d332ae6aefc193e2c8155358a610a1430ef4e748cf6a53e2c246e.jpg", caption: "rubricorpora clone A, 2012-05-26 (thread 238)", photographer: "Mike Wang", source_post_id: 932, favorite: false }
   - { path: "72/7215936ad09ee5748befc030f84c2ca4043b53d3ceaa7852a4cdb682181d7d75.jpg", caption: "rubricorpora clone A, 2021-06-11", photographer: "Mike Wang", source_post_id: 46481, favorite: false }
   - { path: "a9/a9a37b43152f346dffd8788d8e5e49d3bed48391f056e05d91367422578b3ec9.jpg", caption: "rubricorpora clone A, 2021-06-11", photographer: "Mike Wang", source_post_id: 46481, favorite: false }
   - { path: "53/530d90de32e7deeaa38018b2c77e499f28f210e77f2120867cf713d029847a73.jpg", caption: "rubricorpora clone A, 2021-06-11", photographer: "Mike Wang", source_post_id: 46481, favorite: false }

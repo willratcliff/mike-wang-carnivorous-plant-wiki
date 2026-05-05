@@ -49,12 +49,36 @@ source_threads:
   - thread_id: 45
     url: "https://sarracenia.proboards.com/thread/45/minor-var-okefenokeensis-ware-ga"
     role: "primary"
+  - thread_id: 240
+    url: "https://sarracenia.proboards.com/thread/240/minor-var-okefenokeensis-ware-clone"
+    role: "update"
+    note: "Clone-N-specific thread, 2012-2013 (augmented from cluster C0058). Includes side-by-side with Clone C."
 
 photos:
   - path: "2e/2e38215253ea96e4a08f7f37ed0252357a729250d903e9753f0c764ceaf1305f.jpg"
     caption: "Clone N, 2011."
     photographer: "Mike Wang"
     source_post_id: 108
+    favorite: false
+  - path: "52/529f8a232b9625b69aede6d1d66c2dec734b3f2af4ff03839ce9291ea76f4d04.jpg"
+    caption: "Clone N, 2012-05-27 (thread 240)."
+    photographer: "Mike Wang"
+    source_post_id: 944
+    favorite: false
+  - path: "59/5945e267934a7cfdb029867a8e8ffa94a06d6e93257cd1de019f4e0c96fd2ee7.jpg"
+    caption: "Clone N, 2012-05-27 (thread 240)."
+    photographer: "Mike Wang"
+    source_post_id: 944
+    favorite: false
+  - path: "76/76e59e198f2616b02ca5fad68b5c1b8d29a011f8ba15cb15ae1ad213f5353d83.jpg"
+    caption: "Clone C foreground (dark red) + Clone N background — extreme color differences in the population, 2012-05-27 (thread 240)."
+    photographer: "Mike Wang"
+    source_post_id: 944
+    favorite: true
+  - path: "49/498e9f96ffac43189012e483c89c513470f26fe59ed7dc87476d5e0c6ffde67c.jpg"
+    caption: "Clone N — skinny trap front profile, 2012-05-27 (thread 240)."
+    photographer: "Mike Wang"
+    source_post_id: 944
     favorite: false
   - path: "25/253bf545d005de2a76e4289293dfe10e1af5d1496f6bd2b92f2538898754fc5d.jpg"
     caption: "Clone S — classic textbook okee giant, 2011."
