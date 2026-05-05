@@ -55,12 +55,21 @@ cultivation_notes: |
 
 # Sources
 source_threads:
+  - thread_id: 39
+    url: "https://sarracenia.proboards.com/thread/39/psittacina-large-red-form"
+    role: "earliest-mention"
+    note: "2011-12-04 — Mike's earliest forum reference to this clone (cluster C0005). Identifies the plant as 'a giant form — it can get bigger than this.'"
   - thread_id: 251
     url: "https://sarracenia.proboards.com/thread/251/psitt-large-calhoun-county-updte"
     role: "primary"
 
 # Photographs
 photos:
+  - path: "39/395225c6b3a37c5fc757e7a08512cfbc730caec24e7339c8336e85ac047e077b.jpg"
+    caption: "'large red' Calhoun (plant front-right, with US quarter for scale) — earliest forum photo, 2011-12-04 (thread 39)."
+    photographer: "Mike Wang"
+    source_post_id: 102
+    favorite: true
   - path: "47/47ecb76104f9eb7d3fb5bcd7de91e4ae61b50ade19357892d84e47172c777b04.jpg"
     caption: "'Large Red', spring 2012 — first forum documentation"
     photographer: "Mike Wang"

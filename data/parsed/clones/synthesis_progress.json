@@ -4029,6 +4029,62 @@
       "wiki_path": "wiki/sarracenia/flava/var-rugelii/giant-2at-x-bob-hanrahan/index.md",
       "session": "2026-05-05",
       "notes": "rugelii GIANT (2AT Genetic Giant x Bob Hanrahan) \u2014 Mike's controlled cross; both parents genetic giants; 1-of-40 standout from neglected community-tray; passes all 3 Mike giant-clone diagnostic tests; hybrid-vigor vs slow-genetic question pending."
+    },
+    "C0787": {
+      "status": "done",
+      "wiki_path": "wiki/cephalotus/follicularis/walpole-ck-christian-klein/index.md",
+      "session": "2026-05-05",
+      "notes": "Cephalotus 'Walpole' (CK / Christian Klein) \u2014 distinct from C0749 Walpole (Allen Lowrie); deep red into trap interior; vigorous + relatively forgiving."
+    },
+    "C0788": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/purpurea/ssp-purpurea/strafford-nh/index.md",
+      "session": "2026-05-05",
+      "notes": "purp Strafford NH \u2014 near-black old traps; ~1/3 of plants survive; '5-year-crash' population type; conservation-by-outcross plan B (per AF venosa precedent)."
+    },
+    "C0789": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/flava/var-ornata/improved-2-0/index.md",
+      "session": "2026-05-05",
+      "notes": "ornata improved 2.0 \u2014 second iteration on Mike's original 'improved' (thread 4112); taller + cleaner veins targets achieved; ~20-yr breeding-program reflection."
+    },
+    "C0790": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/minor/var-okefenokeensis/ultimate-red-giant-ware-ga/index.md",
+      "session": "2026-05-05",
+      "notes": "okee 'Ultimate Red Giant' Ware \u2014 Mike's named standout from the Ware population (C0729); solid red head-to-toe; spring-AND-fall coloration; thousands-of-minors comparison."
+    },
+    "C0791": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/flava/var-maxima/brooks-ga/index.md",
+      "session": "2026-05-05",
+      "notes": "flava maxima Brooks GA \u2014 first reported maxima from rugelii populations in Brooks Co; rare in rugelii (1-2 per hundreds-of-thousands wild); Goldie color comparison; 2027 distribution target."
+    },
+    "C0001": {
+      "status": "deferred-not-a-clone",
+      "session": "2026-05-05",
+      "notes": "Thread 30 'Sarracenia psittacina in the wild (various forms)' \u2014 Sarracenia In The Wild board (26), 2011 wild-site survey of multiple Charlton Co GA sites. Defer per cluster_gotchas wild-site pattern."
+    },
+    "C0002": {
+      "status": "deferred-not-a-clone",
+      "session": "2026-05-05",
+      "notes": "Thread 31 'Sarracenia minor in the wild' \u2014 Sarracenia In The Wild board, 2011 wild-site survey; not a single named accession. Defer per gotchas."
+    },
+    "C0003": {
+      "status": "deferred-not-a-clone",
+      "session": "2026-05-05",
+      "notes": "Thread 32 'S. leucophylla in the wild, Sept. 2011' \u2014 Sarracenia In The Wild board, 2011 wild-site survey of multiple sites; not a single named accession. Defer per gotchas."
+    },
+    "C0004": {
+      "status": "deferred-not-a-clone",
+      "session": "2026-05-05",
+      "notes": "Thread 33 'S. flava variants in the wild, Sept. 2011' \u2014 Sarracenia In The Wild board, 2011 wild-site survey across multiple sites/variants; not a single named accession. Defer per gotchas."
+    },
+    "C0005": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/psittacina/large-red-calhoun-fl/index.md",
+      "session": "2026-05-05",
+      "notes": "psitt 'large red' Calhoun (thread 39, 2011-12-04 earliest mention) \u2014 same accession as the existing C0067 wiki entry for thread 251 (2012+). Augmented existing index.md with thread 39 source-thread reference + 2011 photo. No separate wiki page."
     }
   }
 }
