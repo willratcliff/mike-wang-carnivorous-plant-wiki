@@ -3342,6 +3342,65 @@
       "wiki_path": "wiki/sarracenia/alata/lamar-ms/index.md",
       "session": "2026-05-05",
       "notes": "Lamar Co MS alata (POKR bog via ryattt) \u2014 alabamensis-like; conservation-significant (sister bog being destroyed); mahlon F1 ex-situ preservation."
+    },
+    "C0671": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/flava/var-rugelii/yellow-giant/index.md",
+      "session": "2026-05-05",
+      "notes": "rugelii YELLOW GIANT \u2014 Mike-bred F1 of two giant rugeliis; striking yellow color; classic giant signal (3-inch mouth on foot-tall trap)."
+    },
+    "C0672": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/alata/var-nigropurpurea/black-mw-stone-ms/index.md",
+      "session": "2026-05-05",
+      "notes": "BLACK MW Stone \u2014 Mike-selected; possibly the best black alata in cultivation; colors despite shading; key black-hybrid breeding parent."
+    },
+    "C0673": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/hybrids/moorei-pink-peak/index.md",
+      "session": "2026-05-05",
+      "notes": "moorei un-named (Pink Peak suggested) \u2014 alexis-suggested name not adopted; thread also captures cross-contaminated Adrian Slack hybrid."
+    },
+    "C0674": {
+      "status": "deferred-not-a-clone",
+      "session": "2026-05-05",
+      "notes": "Thread 5887 \u2014 'Beautiful Butterflies and insects associated with Sarracenia' is a Science of Sarracenia board discussion thread, not a clone documentation. Defer per gotchas (sharing-thread for insect photos)."
+    },
+    "C0675": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/alata/black-mk-a28-stone-ms/index.md",
+      "session": "2026-05-05",
+      "notes": "MK A28 Stone \u2014 Mike King's accession, proven black alata; near-identical to A58 (with mouth-opening differences)."
+    },
+    "C0676": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/minor/var-minor/red-windows-old-dock-columbus-nc/index.md",
+      "session": "2026-05-05",
+      "notes": "minor 'red windows' Old Dock \u2014 striking red windows; ~20y in collection, ~10y neglected then revived; adaetz100 has division."
+    },
+    "C0677": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/hybrids/x-mitchelliana-neon-pink-baldwin-al/index.md",
+      "session": "2026-05-05",
+      "notes": "\u00d7 Mitchelliana 'neon pink' Baldwin \u2014 natural leuco \u00d7 purp hybrid, neon-pink dominant breeding parent vision."
+    },
+    "C0678": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/leucophylla/var-alba/stretchercize-washington-al/index.md",
+      "session": "2026-05-05",
+      "notes": "alba 'stretchercize' Washington \u2014 best of <1000 seedlings; long white-stretch character."
+    },
+    "C0679": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/hybrids/moorei-ert-improved-2-0/index.md",
+      "session": "2026-05-05",
+      "notes": "moorei ERT improved 2.0 \u2014 sticks to classic moorei shape (vs alata-esque v1.0); well-defined red throat."
+    },
+    "C0680": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/alata/var-atrorubra/early-red-stone-ms/index.md",
+      "session": "2026-05-05",
+      "notes": "atrorubra 'early red' Stone \u2014 colors up earlier than population peers; like glorified 'Night' but easier."
     }
   }
 }
