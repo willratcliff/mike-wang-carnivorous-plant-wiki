@@ -578,6 +578,60 @@
       "completed_at_iso": "2026-05-05T04:35:00Z",
       "notes": ""
     },
+    "C0377": {
+      "candidate_name": "Sarracenia flava var. rugelii '2AT GIANT' Okaloosa Co, FL",
+      "source_thread_ids": [3768],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/flava/var-rugelii/2at-giant-okaloosa-fl/index.md"],
+      "split_decision": "Single clone. 10 Mike photos (2017 + 2020). Slow grower with giant-lid genetics.",
+      "completed_at_iso": "2026-05-05T04:50:00Z",
+      "notes": ""
+    },
+    "C0372": {
+      "candidate_name": "Sarracenia flava 'all red' (L x best clone) Liberty Co, FL",
+      "source_thread_ids": [3740],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/flava/all-red-l-x-best-clone-liberty-fl/index.md"],
+      "split_decision": "Single Mike-bred selection. 4 Mike photos (2017 only). 1 of 2 solid-red plants from a 200+ seedling rubricorpora x rubricorpora cross.",
+      "completed_at_iso": "2026-05-05T05:00:00Z",
+      "notes": ""
+    },
+    "C0409": {
+      "candidate_name": "Sarracenia flava var. rubricorpora 'black throat' Liberty Co, FL",
+      "source_thread_ids": [4154],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/flava/var-rubricorpora/black-throat-liberty-fl/index.md"],
+      "split_decision": "Single clone (one of 3 sibling black-throated individuals in Mike's tray). 9 Mike photos (2018-2025). Black throat trait confirmed genetic by neighboring red-throated plants.",
+      "completed_at_iso": "2026-05-05T05:10:00Z",
+      "notes": "Thin-necked sibling photographed but not given a separate entry."
+    },
+    "C0405": {
+      "candidate_name": "Sarracenia flava var. ornata 'dipped lip' Liberty Co, FL",
+      "source_thread_ids": [4130],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/flava/var-ornata/dipped-lip-liberty-fl/index.md"],
+      "split_decision": "Single clone. 30 Mike photos (2018-2023). Dipped lip + vertical red throat line (previously thought unique to Bulloch Co black-veined ornatas).",
+      "completed_at_iso": "2026-05-05T05:25:00Z",
+      "notes": ""
+    },
+    "C0404": {
+      "candidate_name": "Sarracenia leucophylla var. alba 'original yellow' Washington Co, AL",
+      "source_thread_ids": [4126],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/leucophylla/var-alba/original-yellow-washington-al/index.md"],
+      "split_decision": "Single clone. 36 Mike photos (2018-2024). Mike's canonical Wash. Co yellow-flower alba — amazing breeder with dominant-white offspring.",
+      "completed_at_iso": "2026-05-05T05:40:00Z",
+      "notes": ""
+    },
+    "C0403": {
+      "candidate_name": "Sarracenia x naczii 'red throat, green body' Okaloosa Co, FL",
+      "source_thread_ids": [4114],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/hybrids/naczii-red-throat-green-body-okaloosa-fl/index.md"],
+      "split_decision": "Single Mike-bred selection. 7 Mike photos (2018, 2021). Both parents from Okaloosa Co, FL.",
+      "completed_at_iso": "2026-05-05T05:55:00Z",
+      "notes": ""
+    },
     "C0221": {
       "candidate_name": "Sarracenia montana 'best clone' Transylvania Co, NC",
       "source_thread_ids": [957, 5291],
