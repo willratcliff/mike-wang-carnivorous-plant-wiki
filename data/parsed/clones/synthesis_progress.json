@@ -3146,6 +3146,76 @@
       "wiki_path": "wiki/sarracenia/alata/var-atrorubra/elegant-stone-ms/index.md",
       "session": "2026-05-05",
       "notes": "atrorubra 'elegant' Stone Co \u2014 possibly heading toward nigropurpurea; held color through wind/hail/rain."
+    },
+    "C0638": {
+      "status": "deferred-not-a-clone",
+      "session": "2026-05-05",
+      "notes": "Thread 5815 \u2014 Darlingtonia 'Bonzai Island' Del Norte Co, CA is a wild-site (in-situ) field-trip report on the Carnivores board. Site name, not a cultivation accession. Defer per cluster_gotchas (wild-site documentation)."
+    },
+    "C0639": {
+      "status": "deferred-not-a-clone",
+      "session": "2026-05-05",
+      "notes": "Thread 5816 \u2014 Darlingtonia 'Mountain Plateau' Curry Co, OR is a wild-site (in-situ) field-trip report on the Carnivores board. 'Mountain Plateau' is Mike's site label; lemon-yellow trait may merit cultivation accession in future. Defer per cluster_gotchas."
+    },
+    "C0640": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/flava/var-flava/cumberland-nc/index.md",
+      "session": "2026-05-05",
+      "notes": "Cumberland Co flava \u2014 likely-extirpated NC site, NASC acquisition; Mike documents NASC restrictive distribution policy."
+    },
+    "C0641": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/rosea/white-flower-liberty-fl/index.md",
+      "session": "2026-05-05",
+      "notes": "Liberty Co rosea 'white flower' \u2014 extremely rare white-petaled rosea (vegetatively indistinguishable from pink); pulled from massive Liberty Co colony pop."
+    },
+    "C0642": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/flava/var-ornata/black-veins-extreme-red-throat/index.md",
+      "session": "2026-05-05",
+      "notes": "ornata black veins ERT \u2014 best-of-both-worlds vein + ERT; mad amount of lids; vigorous, productive."
+    },
+    "C0643": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/flava/var-rugelii/jh319-okaloosa-fl/index.md",
+      "session": "2026-05-05",
+      "notes": "Jeremiah Harris 'JH319' rugelii Okaloosa \u2014 promising young batch, ERT as juveniles (rare for rugelii)."
+    },
+    "C0644": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/montana/henderson-nc/index.md",
+      "session": "2026-05-05",
+      "notes": "Henderson Co montana \u2014 bulbous form, classic montana lid-fold; winter morphology shifts dramatically."
+    },
+    "C0645": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/flava/var-rugelii/clone-b/index.md",
+      "session": "2026-05-05",
+      "notes": "rugelii clone B \u2014 acquired ICPS 1997 Atlanta; locality uncertain (Ben Hill GA or Liberty FL); strong outcross parent."
+    },
+    "C0646": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/flava/var-cuprea/bill-hoyer-x-botanique/index.md",
+      "session": "2026-05-05",
+      "notes": "(Bill Hoyer x Botanique) cuprea \u2014 Mike-bred cross; vigorous, freeze-tolerant to 21F, well-defined coppery lids."
+    },
+    "C0647": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/flava/var-flava/giant-don-schnell/index.md",
+      "session": "2026-05-05",
+      "notes": "GIANT Don Schnell \u2014 25y to size up; oreophila-like growth habit; chain Don Schnell -> Art Junier -> Mike."
+    },
+    "C0648": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/flava/var-cuprea/berkeley-sc/index.md",
+      "session": "2026-05-05",
+      "notes": "Berkeley Co cuprea via Jerry Addington (Courting Frogs) \u2014 green body, no red, atypical for cupreas."
+    },
+    "C0649": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/flava/var-maxima/montgomery-nc/index.md",
+      "session": "2026-05-05",
+      "notes": "Montgomery Co NC maxima population \u2014 hilly habitat (atypical for flavas); consistently very yellow; one clone now individually labeled."
     }
   }
 }
