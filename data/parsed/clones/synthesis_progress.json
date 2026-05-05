@@ -2215,6 +2215,240 @@
       "split_decision": "Single clone \u2014 funky shape (puffy body, small head). Conservation-significant \u2014 bog destroyed. Cross-link to C0487. 5 Mike photos.",
       "completed_at_iso": "2026-05-05T23:10:00Z",
       "notes": ""
+    },
+    "C0516": {
+      "candidate_name": "Sarracenia alata 'RED FLAME' Stone Co, MS",
+      "source_thread_ids": [
+        4905
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/alata/red-flame-stone-ms/index.md"
+      ],
+      "split_decision": "Single Mike-bred clone with vertical lid angle. 19 Mike photos.",
+      "completed_at_iso": "2026-05-05T23:30:00Z",
+      "notes": ""
+    },
+    "C0517": {
+      "candidate_name": "Sarracenia purpurea ssp. purpurea f. heterophylla F1",
+      "source_thread_ids": [
+        4912
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/purpurea/heterophylla-f1/index.md"
+      ],
+      "split_decision": "Single Mike-bred F1 vigorous heterophylla. 4 Mike photos.",
+      "completed_at_iso": "2026-05-05T23:35:00Z",
+      "notes": ""
+    },
+    "C0518": {
+      "candidate_name": "Sarracenia alata 'green face' Jackson Co, MS",
+      "source_thread_ids": [
+        4915
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/alata/green-face-jackson-ms/index.md"
+      ],
+      "split_decision": "Single Jackson Co alata with minor-okee-style green-face trait (first in alata for Mike). 7 Mike photos.",
+      "completed_at_iso": "2026-05-05T23:38:00Z",
+      "notes": ""
+    },
+    "C0519": {
+      "candidate_name": "Sarracenia leucophylla 'vigorous, outstanding' Washington Co, AL",
+      "source_thread_ids": [
+        4917
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/vigorous-outstanding-washington-al/index.md"
+      ],
+      "split_decision": "Single Wash. Co leuco. 7 Mike photos.",
+      "completed_at_iso": "2026-05-05T23:42:00Z",
+      "notes": ""
+    },
+    "C0520": {
+      "candidate_name": "Sarracenia rosea Okaloosa Co, FL",
+      "source_thread_ids": [
+        4925
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/rosea/okaloosa-fl/index.md"
+      ],
+      "split_decision": "Population accession with diverse individuals (tubby, near-yellow). 15 Mike photos.",
+      "completed_at_iso": "2026-05-05T23:46:00Z",
+      "notes": ""
+    },
+    "C0521": {
+      "candidate_name": "Sarracenia flava var. rubricorpora 'Back Row Giant' Liberty Co, FL",
+      "source_thread_ids": [
+        4933
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-rubricorpora/back-row-giant-liberty-fl/index.md"
+      ],
+      "split_decision": "Single 3+ ft year-after-year giant clone. Cross with Burgundy yielded notable F1. 18 Mike photos (2020-2024).",
+      "completed_at_iso": "2026-05-05T23:55:00Z",
+      "notes": ""
+    },
+    "C0522": {
+      "candidate_name": "Sarracenia leucophylla 'light red' Baldwin Co, AL",
+      "source_thread_ids": [
+        4935
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/light-red-baldwin-al/index.md"
+      ],
+      "split_decision": "Single Mike-found 'hidden gem' clone. 6 Mike photos.",
+      "completed_at_iso": "2026-05-05T23:58:00Z",
+      "notes": ""
+    },
+    "C0523": {
+      "candidate_name": "Sarracenia alata clone A Stone Co, MS",
+      "source_thread_ids": [
+        4953
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/alata/clone-a-stone-ms/index.md"
+      ],
+      "split_decision": "Single old vigorous Stone Co alata, 3 ft tall. 8 Mike photos including 2011 archive.",
+      "completed_at_iso": "2026-05-06T00:02:00Z",
+      "notes": ""
+    },
+    "C0524": {
+      "candidate_name": "Sarracenia rubra 'Ancestral' Emanuel Co, GA",
+      "source_thread_ids": [
+        4957
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/rubra/ancestral-emanuel-ga/index.md"
+      ],
+      "split_decision": "Population accession. Possibly only Mike's stock in cultivation. Notable individuals: long-lid, dark-red, red-interior, dark-lip. 27 Mike photos (2020-2025).",
+      "completed_at_iso": "2026-05-06T00:08:00Z",
+      "notes": "Sub-clones could split out"
+    },
+    "C0525": {
+      "candidate_name": "Sarracenia leucophylla 'Hurricane Creek White' clone G Baldwin Co, AL",
+      "source_thread_ids": [
+        4960
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/var-alba/hcw-clone-g-baldwin-al/index.md"
+      ],
+      "split_decision": "Single original-site HCW clone, distinctive lip. 5 Mike photos.",
+      "completed_at_iso": "2026-05-06T00:12:00Z",
+      "notes": ""
+    },
+    "C0526": {
+      "candidate_name": "Sarracenia rosea 'veinless' Bay Co, FL",
+      "source_thread_ids": [
+        4961
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/rosea/veinless-bay-fl/index.md"
+      ],
+      "split_decision": "Single veinless rosea, likely Melissa Mazur lineage. 11 Mike photos. Important provenance discussion (Melissa Mazur vs Candlewax) in podunk's post.",
+      "completed_at_iso": "2026-05-06T00:18:00Z",
+      "notes": ""
+    },
+    "C0527": {
+      "candidate_name": "Sarracenia minor var. okefenokeensis 'RED + RED WINDOWS' Ware Co, GA",
+      "source_thread_ids": [
+        4964
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/minor/var-okefenokeensis/red-red-windows-ware-ga/index.md"
+      ],
+      "split_decision": "Single clone with red body + red windows combo. 3 Mike photos.",
+      "completed_at_iso": "2026-05-06T00:22:00Z",
+      "notes": ""
+    },
+    "C0528": {
+      "candidate_name": "Sarracenia rubra ssp. gulfensis RED (ABG)",
+      "source_thread_ids": [
+        4966
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/rubra/var-gulfensis/red-abg/index.md"
+      ],
+      "split_decision": "Single ABG-origin red gulfensis. 8 Mike photos.",
+      "completed_at_iso": "2026-05-06T00:30:00Z",
+      "notes": ""
+    },
+    "C0529": {
+      "candidate_name": "Sarracenia alata 'veinless' Harrison Co, MS",
+      "source_thread_ids": [
+        5033
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/alata/veinless-harrison-ms/index.md"
+      ],
+      "split_decision": "Single Mike-bred Harrison Co veinless alata \u2014 first documented from this site. ~3' tall. 25 Mike photos.",
+      "completed_at_iso": "2026-05-06T00:42:00Z",
+      "notes": ""
+    },
+    "C0530": {
+      "candidate_name": "VARIEGATED Sarracenia purpurea ssp. purpurea",
+      "source_thread_ids": [
+        5036
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/purpurea/variegated-ssp-purpurea/index.md"
+      ],
+      "split_decision": "Single 2020-sown variegated seedling. Yellow streaks. Status uncertain since 2020 (possibly lost like C0497). 8 Mike photos.",
+      "completed_at_iso": "2026-05-06T00:48:00Z",
+      "notes": "Status open question"
+    },
+    "C0531": {
+      "candidate_name": "Sarracenia rosea 'eggmouth' Liberty Co, FL",
+      "source_thread_ids": [
+        5037
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/rosea/eggmouth-liberty-fl/index.md"
+      ],
+      "split_decision": "Single egg-shaped Liberty Co rosea. 4 Mike photos.",
+      "completed_at_iso": "2026-05-06T00:52:00Z",
+      "notes": ""
+    },
+    "C0532": {
+      "candidate_name": "Sarracenia leucophylla 'neat lip' Baldwin Co, AL",
+      "source_thread_ids": [
+        5040
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/neat-lip-baldwin-al/index.md"
+      ],
+      "split_decision": "Single Baldwin leuco with pointy/neat lip. 5 Mike photos.",
+      "completed_at_iso": "2026-05-06T00:55:00Z",
+      "notes": ""
+    },
+    "C0533": {
+      "candidate_name": "Sarracenia leucophylla var. alba 'Mohawk'",
+      "source_thread_ids": [
+        5041
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/var-alba/mohawk/index.md"
+      ],
+      "split_decision": "Single Mike-bred alba with curved-back Mohawk lid (genetic trait confirmed). Very white. 9 Mike photos.",
+      "completed_at_iso": "2026-05-06T01:00:00Z",
+      "notes": ""
     }
   }
 }
