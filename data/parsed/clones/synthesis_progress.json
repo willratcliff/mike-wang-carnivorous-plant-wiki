@@ -2603,6 +2603,78 @@
       "split_decision": "Single best-VA red-throated flava clone Mike has seen. Waccamaw-class vigor. ~26 photos: 24 Mike + 2 Luca Leeser.",
       "completed_at_iso": "2026-05-06T02:25:00Z",
       "notes": ""
+    },
+    "C0546": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/flava/var-rugelii/cooks-bayou-bay-fl/index.md",
+      "session": "2026-05-05",
+      "notes": "Cook's Bayou rugelii \u2014 sibling site of Cook's Bayou flava clones."
+    },
+    "C0547": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/rubra/var-gulfensis/yellow-flower-okaloosa-fl/index.md",
+      "session": "2026-05-05",
+      "notes": "Yellow-flower gulfensis \u2014 uncommon trait."
+    },
+    "C0548": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/leucophylla/var-alba/punto-blanco-washington-al/index.md",
+      "session": "2026-05-05",
+      "notes": "Punto blanco \u2014 selected white-lipped alba."
+    },
+    "C0549": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/flava/var-rubricorpora/clone-c-liberty-fl/index.md",
+      "session": "2026-05-05",
+      "notes": "Liberty Co rubricorpora clone C."
+    },
+    "C0550": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/hybrids/areolata-lemon-yellow-x-hcw-f/index.md",
+      "session": "2026-05-05",
+      "notes": "Mike-bred areolata \u00d7 HCW F hybrid."
+    },
+    "C0551": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/flava/var-ornata/iredell-nc/index.md",
+      "session": "2026-05-05",
+      "notes": "Iredell Co ornata \u2014 last-known-clone status."
+    },
+    "C0552": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/flava/var-cuprea/clone-3-brunswick-nc/index.md",
+      "session": "2026-05-05",
+      "notes": "Brunswick cuprea clone#3 \u2014 cut-throat trait."
+    },
+    "C0553": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/flava/anthocyanin-free-brunswick-nc/index.md",
+      "session": "2026-05-05",
+      "notes": "Confirmed AF Brunswick flava \u2014 extremely rare."
+    },
+    "C0554": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/flava/var-atropurpurea/ert-okaloosa-fl/index.md",
+      "session": "2026-05-05",
+      "notes": "Mike-bred F1 \u2014 proves ERT trait originates from atropurpureas."
+    },
+    "C0555": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/flava/var-ornata/un-named-clone-horry-sc/index.md",
+      "session": "2026-05-05",
+      "notes": "Un-named Horry Co ornata clone."
+    },
+    "C0556": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/flava/var-rubricorpora/clone-a-liberty-fl/index.md",
+      "session": "2026-05-05",
+      "notes": "Liberty Co rubricorpora clone A \u2014 Art Junier origin ~2000."
+    },
+    "C0557": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/purpurea/centre-pa/index.md",
+      "session": "2026-05-05",
+      "notes": "Centre Co PA purpurea population \u2014 vigorous, diverse, dark."
     }
   }
 }
