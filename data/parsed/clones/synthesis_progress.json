@@ -2926,6 +2926,42 @@
       "wiki_path": "wiki/sarracenia/rosea/calhoun-fl/index.md",
       "session": "2026-05-05",
       "notes": "Calhoun Co rosea population recovered from neglect."
+    },
+    "C0600": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/flava/var-flava/duplin-nc/index.md",
+      "session": "2026-05-05",
+      "notes": "Conservation-significant rare disjunct Duplin Co flava \u2014 likely extirpated."
+    },
+    "C0601": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/purpurea/var-venosa/brunswick-beauty-brunswick-nc/index.md",
+      "session": "2026-05-05",
+      "notes": "Famous BB cultivar; current circulating clone differs from Mike's pre-2014 original. Includes 'Big Fib' rediscovery."
+    },
+    "C0602": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/purpurea/york-me/index.md",
+      "session": "2026-05-05",
+      "notes": "York Co ME purp.purp. population \u2014 vigorous, less rot-prone, threatened in situ."
+    },
+    "C0603": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/flava/var-rubricorpora/best-clone-liberty-fl/index.md",
+      "session": "2026-05-05",
+      "notes": "Mike's historically-significant Liberty rubricorpora \u2014 used in breeding."
+    },
+    "C0604": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/alata/var-nigropurpurea/stone-ms/index.md",
+      "session": "2026-05-05",
+      "notes": "Stone Co alata 'black' clones \u2014 near-pure black trap interiors."
+    },
+    "C0605": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/flava/var-flava/horry-sc/index.md",
+      "session": "2026-05-05",
+      "notes": "Horry Co flava population \u2014 same as un-named ornata clone (C0555) and giant maximas."
     }
   }
 }
