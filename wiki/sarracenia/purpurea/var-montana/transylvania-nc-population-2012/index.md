@@ -55,6 +55,10 @@ source_threads:
   - thread_id: 133
     url: "https://sarracenia.proboards.com/thread/133/nice-colors-sarracenia-montana-transylvania"
     role: "primary"
+  - thread_id: 213
+    url: "https://sarracenia.proboards.com/thread/213/montana-5-10-12"
+    role: "photos"
+    note: "2012-05-10 multi-clone photo set documenting the same Transylvania population — augmented from cluster C0038."
 
 photos:
   - path: "12/12be5e3ebb1136a6ed306b59b0d9e2f48d39f81ad0f32a764b95c465aaa2577a.jpg"
@@ -111,6 +115,26 @@ photos:
     caption: "Earliest archive photo — Transylvania montana, 2011-06-18 (posted 2023)."
     photographer: "Mike Wang"
     source_post_id: 49568
+    favorite: false
+  - path: "20/20c680284978d6be4cf4ec858930c4dae1087e60fe4f0fa6427f0f3d663edbc8.jpg"
+    caption: "Transylvania population, 2012-05-10 (thread 213)."
+    photographer: "Mike Wang"
+    source_post_id: 825
+    favorite: false
+  - path: "6e/6e29caf27be5edb90fad1c26ffa28b647298feba5ea3351f34c099b0c97bf520.jpg"
+    caption: "Transylvania population, 2012-05-10 (thread 213)."
+    photographer: "Mike Wang"
+    source_post_id: 825
+    favorite: false
+  - path: "91/91a0d4cf4c24ed380339821c71fc88671749920ae95e1c83e4dea9f852dbfa73.jpg"
+    caption: "Transylvania population, 2012-05-10 (thread 213)."
+    photographer: "Mike Wang"
+    source_post_id: 825
+    favorite: false
+  - path: "a5/a593746c8a9f559de9cfeb6f1630824d43218e4cb0868c90922ae14ba72b3332.jpg"
+    caption: "Transylvania population, 2012-05-10 (thread 213)."
+    photographer: "Mike Wang"
+    source_post_id: 825
     favorite: false
 
 review:
