@@ -4259,6 +4259,78 @@
       "wiki_path": "wiki/sarracenia/purpurea/var-montana/transylvania-nc-population-2012/index.md",
       "session": "2026-05-05",
       "notes": "Augmented C0024 (Transylvania population entry) with thread 213 as 'photos' source-thread + 4 additional 2012-05-10 multi-clone photos. Same Transylvania population already documented under C0024."
+    },
+    "C0039": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/oreophila/clone-4-cal-carn/index.md",
+      "session": "2026-05-05",
+      "notes": "oreophila Clone #4 (CalCarn 1990s); possibly Sand Mountain (Mike rejects label endorsement); CalCarn numbered series (#1-#5); now widely distributed."
+    },
+    "C0040": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/oreophila/purple-throat-mk017/index.md",
+      "session": "2026-05-05",
+      "notes": "oreophila MK-O17 'purple throat' Mike-King-source; dramatic late-season ornate purple-throat traps after phyllodia stage; under-utilized breeding parent."
+    },
+    "C0041": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/purpurea/ssp-purpurea/marl-bog-dorcus-bay-on/index.md",
+      "session": "2026-05-05",
+      "notes": "purp ssp purpurea marl bog Dorcus Bay Bruce ON Canada; rare marl-fen substrate; Mike grows in standard acidic substrate (no basic-pH cultivation media available); very dark red potential."
+    },
+    "C0042": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/flava/var-flava/sneads-ferry-onslow-nc-population/index.md",
+      "session": "2026-05-05",
+      "notes": "flava var flava Snead's Ferry Onslow NC population; ~9 yrs no-repot neglect 2011-2020 then rehabbed; very-yellow gene pool (goldie-equivalent); ALMIGHTYDOLLA inspiration."
+    },
+    "C0043": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/flava/var-rugelii/clone-d-very-red-throat/index.md",
+      "session": "2026-05-05",
+      "notes": "rugelii Clone D 'very red throat'; consistent-red-throat clone in lettered series (A, AxB, B, D, F); 2021 phenotype-flex year (very yellow)."
+    },
+    "C0044": {
+      "status": "already-done",
+      "wiki_path": "wiki/sarracenia/flava/var-rubricorpora/clone-l-liberty-fl/index.md",
+      "session": "2026-05-05",
+      "notes": "Same plant as C0030 \u2014 thread 219 'darkest clone' is just another title for Clone L. Folded into C0030 entry as secondary source thread (already includes thread 219 photo)."
+    },
+    "C0045": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/leucophylla/var-alba/hcw-clone-f-baldwin-al/index.md",
+      "session": "2026-05-05",
+      "notes": "HCW Clone F Baldwin AL \u2014 most-distributed authentic HCW clone (~200 divisions by 2015); Bristol's photos as benchmark; Mike's full cultivation guide post #87 2017-09-25."
+    },
+    "C0046": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/purpurea/var-venosa/brunswick-co-nc-population/index.md",
+      "session": "2026-05-05",
+      "notes": "venosa Brunswick Co NC population \u2014 lost in 2014 move, recovered via sib-cross seed backup; surprise F1 result: every seedling turned RED (resembles 'Brunswick Red')."
+    },
+    "C0047": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/flava/bronze-sheridan/index.md",
+      "session": "2026-05-05",
+      "notes": "flava 'Bronze' Sheridan-source; 'jack-o-lantern' bronze-orange coloration; gigantic ~120mm lid; orange flowers; NOT same as Mike-King F196 'Bronze' UK clone; origin uncertain (Sheridan: Santa Rosa/Okaloosa OR W of Liberty Co)."
+    },
+    "C0048": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/flava/var-rugelii/clone-f/index.md",
+      "session": "2026-05-05",
+      "notes": "rugelii Clone F \u2014 minimal documentation; comparison reference for inconsistent-red-throat tier in lettered rugelii series."
+    },
+    "C0049": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/purpurea/var-venosa/old-dock-columbus-nc/index.md",
+      "session": "2026-05-05",
+      "notes": "purp venosa Old Dock Columbus Co NC population; multi-clone diversity; jasonksepka in-situ confirmation 2012-09-13; thread inactive after 2012."
+    },
+    "C0050": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/alata/var-rubrioperculata/perry-co-ms-population/index.md",
+      "session": "2026-05-05",
+      "notes": "alata var rubrioperculata Perry Co MS population; 'robin-hood' lid morphology; phenotype-flexible (rubrioperculata in summer, atrorubra in late fall) \u2014 Mike's nomenclature critique of Stewie/Donnie 2011 here; possible jonesii historic relationship."
     }
   }
 }
