@@ -4144,6 +4144,61 @@
       "wiki_path": "wiki/sarracenia/purpurea/ssp-venosa/tattnall-ga-montana-intermediate/index.md",
       "session": "2026-05-05",
       "notes": "venosa Tattnall GA \u2014 southernmost-GA-coastal-plain venosa, recurved-hood seedlings (montana-intermediate hypothesis); 6-page thread; 2011 painfully slow -> 2012 momentum; later-pages content not fully synthesized."
+    },
+    "C0017": {
+      "status": "deferred-not-a-clone",
+      "session": "2026-05-05",
+      "notes": "Thread 75 'S. flava rugelii huge field!' \u2014 Sarracenia In The Wild board (26); Brooks Garcia photo of Leah Wilkerson NW FL property; not a cultivation accession. Defer per cluster_gotchas wild-site pattern."
+    },
+    "C0018": {
+      "status": "deferred-not-a-clone",
+      "session": "2026-05-05",
+      "notes": "Thread 81 'S. flava var. rubricorpora photo by Brooks Garcia' \u2014 Sarracenia In The Wild board, single Brooks Garcia in-situ photo near Sumatra Liberty Co; not a single named cultivation accession. Defer."
+    },
+    "C0019": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/flava/var-rubricorpora/sumatra-liberty-fl-population/index.md",
+      "session": "2026-05-05",
+      "notes": "rubricorpora Sumatra Liberty population \u2014 Mike's lettered-clone series (G, H, L, T); Clone L darkest; Clone T classic-reference (own entry C0028); seedlings outperform parents pattern."
+    },
+    "C0021": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/flava/var-ornata/improved-prince-george-x-bulloch/index.md",
+      "session": "2026-05-05",
+      "notes": "ornata 'improved' (Prince George VA x Bulloch GA) \u2014 foundation generation of Mike's improved-ornata breeding line; PG-VA mother venation + Bulloch-GA father shape; ancestor of C0789 'improved 2.0'."
+    },
+    "C0022": {
+      "status": "deferred-not-a-clone",
+      "session": "2026-05-05",
+      "notes": "Thread 104 'Australian sarracenia blog' \u2014 Recommendations board; just a blog link with no clone documentation. Defer."
+    },
+    "C0023": {
+      "status": "deferred-not-a-clone",
+      "session": "2026-05-05",
+      "notes": "Thread 114 'sarracenia seedling pictures' \u2014 Propagation and Cultivation board; mixed-species seedling-tray methodology / dormancy-acclimation guide, not a single accession. Defer."
+    },
+    "C0024": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/purpurea/var-montana/transylvania-nc-population-2012/index.md",
+      "session": "2026-05-05",
+      "notes": "montana Transylvania population \u2014 multi-clone, multi-year (2011-2023); 'little hat' hood-curving clone; F1 outcross 'Bulbophyllum ROUNDII' bulbous-trap shot 2020; ancestor population for C0717 AAxA select + C0692 best clone + earlier session entries."
+    },
+    "C0025": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/oreophila/alabama/index.md",
+      "session": "2026-05-05",
+      "notes": "oreophila 'Alabama' \u2014 locality-only working name; multi-stage trap photography 2012-04; sister oreophila seedling documented same thread."
+    },
+    "C0026": {
+      "status": "deferred-not-a-clone",
+      "session": "2026-05-05",
+      "notes": "Thread 188 '2012 S. flava var. rugelii flowers, etc.' \u2014 multi-clone flower-photo update post (clone B flowers, clone A flowers, etc.); seasonal/methodology rather than a single named accession. Defer."
+    },
+    "C0028": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/flava/var-rubricorpora/clone-t-liberty-fl/index.md",
+      "session": "2026-05-05",
+      "notes": "rubricorpora Clone T Liberty \u2014 Mike's reference-standard rubricorpora; classic yellow-lid + red-body contrast; trap-color cycle illustrates rubricorpora-atropurpurea continuum; multi-year doc 2012-2020."
     }
   }
 }
