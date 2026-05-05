@@ -4391,6 +4391,75 @@
       "wiki_path": "wiki/sarracenia/flava/var-cuprea/mcclellanville-sc/index.md",
       "session": "2026-05-05",
       "notes": "flava var. cuprea McClellanville SC \u2014 phyllodia-retention rule discovered (cutting suppresses coppery lid expression); winter no-repot for color preservation; defined red neck blotch."
+    },
+    "C0062": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/minor/var-okefenokeensis/clone-c-red-ware-ga/index.md",
+      "session": "2026-05-05",
+      "notes": "minor okee Ware Co Clone C 'red clone' \u2014 prized red form; solid dark red in fall; high distribution demand reduced to 2 mother plants 2025-01."
+    },
+    "C0063": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/minor/var-okefenokeensis/clone-4-green-yellow-ware-ga/index.md",
+      "session": "2026-05-05",
+      "notes": "minor okee Ware Co Clone #4 \u2014 green-body with yellow shift; ~2-ft trap height by July; warm-day/warm-night fall conditions for gigantic traps."
+    },
+    "C0064": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/hybrids/x-excellens-leuco-okee-crosses/index.md",
+      "session": "2026-05-05",
+      "notes": "x excellens \u2014 Mike's two crosses: leuco RED x okee, and leuco Burgundy x okee (incl. fall-only green-face clone)."
+    },
+    "C0065": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/leucophylla/red-cal-carn/index.md",
+      "session": "2026-05-05",
+      "notes": "leucophylla 'RED' CalCarn-source; slow grower; used as seed parent in C0064 x excellens crosses."
+    },
+    "C0066": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/psittacina/green-rosette-anthocyanin-free-gulf-fl/index.md",
+      "session": "2026-05-05",
+      "notes": "psittacina 'Green Rosette' AF Gulf Co FL; possibly the original AF psittacina cultivar; Mike enumerates 4 known AF wild sites (Gulf, Bay, Baldwin, Okefenokee)."
+    },
+    "C0068": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/purpurea/ssp-purpurea/veinless-fort-nelson-bc/index.md",
+      "session": "2026-05-05",
+      "notes": "purp ssp purpurea 'veinless' Fort Nelson BC; western terminal range; veinless-not-AF; bullet-proof old-faithful clone (vs fresh accession ~100-plant near-loss); all-green summer to all-red winter."
+    },
+    "C0071": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/leucophylla/chuck-powell-clone/index.md",
+      "session": "2026-05-05",
+      "notes": "leucophylla 'Chuck Powell clone' \u2014 Mike's first-ever Sarracenia (Bay Area CP Society source); decade-neglect-and-recovery story; cloned but never distributed (tag-buried for years)."
+    },
+    "C0072": {
+      "status": "deferred-not-a-clone",
+      "session": "2026-05-05",
+      "notes": "Thread 258 'Drew Martinez's Huge Nepenthes Collection' \u2014 collection-survey of another grower's Nepenthes greenhouse; not Mike's accession. Defer per cluster_gotchas."
+    },
+    "C0073": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/flava/var-rubricorpora/mw-f1-liberty-fl/index.md",
+      "session": "2026-05-05",
+      "notes": "rubricorpora 'MW F-1' Liberty Co FL \u2014 Mike-bred F1 from two Liberty Co rubricorpora parents; most-vigorous of seed batch; multiple distributed siblings via 'Josh'; rubricorpora/atropurpurea morphology boundary."
+    },
+    "C0074": {
+      "status": "deferred-not-a-clone",
+      "session": "2026-05-05",
+      "notes": "Thread 260 'Drew's Sarracenia collection' \u2014 Mike's tour of Drew Martinez's Sarracenia collection; not Mike's accession. Defer per cluster_gotchas."
+    },
+    "C0075": {
+      "status": "deferred-not-a-clone",
+      "session": "2026-05-05",
+      "notes": "Thread 261 'Drew's Heliamphora, ceph, and droseras' \u2014 collection-tour photos of another grower; not Mike's accession. Defer per cluster_gotchas."
+    },
+    "C0076": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/oreophila/mk05-dekalb-al/index.md",
+      "session": "2026-05-05",
+      "notes": "oreophila MK-05 Dekalb Co AL (Mike King source) \u2014 watermelon scent (singular among Mike's oreophilas); ESA-restricted to CA-only sales; ICPS donation pathway for legal availability via Cherokee Co AL seeds (rhisiart 2025-12-27)."
     }
   }
 }
