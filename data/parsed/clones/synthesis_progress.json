@@ -4085,6 +4085,65 @@
       "wiki_path": "wiki/sarracenia/psittacina/large-red-calhoun-fl/index.md",
       "session": "2026-05-05",
       "notes": "psitt 'large red' Calhoun (thread 39, 2011-12-04 earliest mention) \u2014 same accession as the existing C0067 wiki entry for thread 251 (2012+). Augmented existing index.md with thread 39 source-thread reference + 2011 photo. No separate wiki page."
+    },
+    "C0006": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/leucophylla/hurricane-creek-white-baldwin-al/index.md",
+      "session": "2026-05-05",
+      "notes": "leuco HCW Baldwin \u2014 extirpated wild site (paper company, pine plantation); ~12 distinct clones (D, E, F documented); Barry Rice seed-collected; HCW is locality not registered cultivar; NOT anthocyanin-free."
+    },
+    "C0007": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/flava/var-rubricorpora/burgundy-imported-european/index.md",
+      "session": "2026-05-05",
+      "notes": "rubricorpora 'Burgundy' \u2014 imported from Europe; very slow growing; one of Mike's best rubricorporas. Distinct from leucophylla 'Burgundy' (C0015)."
+    },
+    "C0008": {
+      "status": "deferred-not-a-clone",
+      "session": "2026-05-05",
+      "notes": "Thread 44 'S. oreophila collection' \u2014 collection-overview thread (2011 lost-pics edit + 2023 update photos), no specific named clone documented. Defer per gotchas."
+    },
+    "C0009": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/minor/var-okefenokeensis/clone-j-n-s-ware-ga/index.md",
+      "session": "2026-05-05",
+      "notes": "okee Ware J/N/S \u2014 Mike's earliest Ware Co letter-designation clones (2011); Clone J bronzy-red, Clone S textbook-okee-giant; precursor to C0729 population overview + C0790 'Ultimate Red Giant'."
+    },
+    "C0010": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/purpurea/ssp-purpurea/muskoka-on/index.md",
+      "session": "2026-05-05",
+      "notes": "purp Muskoka ON \u2014 Art Junier source; foot-long pitchers in Junier's hands; Mike's 2011 'most vigorous purp purp'; idontlikeforums BACPS-purchased plants flowered in CA."
+    },
+    "C0012": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/hybrids/adrian-slack-bob-hanrahan-original/index.md",
+      "session": "2026-05-05",
+      "notes": "S. x 'Adrian Slack' \u2014 wild-collected from Bob Hanrahan AL property; likely natural S. x moorei; 2011 eBay $160+ pricing context; alternative-source advice (paulbarden)."
+    },
+    "C0013": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/flava/var-rugelii/clone-a-x-clone-b-seedlings/index.md",
+      "session": "2026-05-05",
+      "notes": "rugelii Clone A/B/F \u2014 Mike's 2011 earliest rugelii lettered-clone series; A x B controlled cross seedlings; Clone F red-blotch; precursor to GIANT 2AT x Bob Hanrahan (C0786)."
+    },
+    "C0014": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/rubra/ssp-gulfensis/okaloosa-fl-population/index.md",
+      "session": "2026-05-05",
+      "notes": "gulfensis Okaloosa population \u2014 multi-clone, multi-phenotype (env-red, genetic-red, green-face, peachy-veinless); 2011-2021 multi-year cadence; genetic-red mid-summer-color individual breeding-stock candidate."
+    },
+    "C0015": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/leucophylla/burgundy-meadowview/index.md",
+      "session": "2026-05-05",
+      "notes": "leuco 'Burgundy' (Meadowview source ~early-2000s) \u2014 atypical summer-pitcher production, fall flush; color develops over weeks of sun + cold nights; likely seed parent of C0781 Burgundy x dark pink cross. Distinct from rubricorpora 'Burgundy' (C0007)."
+    },
+    "C0016": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/purpurea/ssp-venosa/tattnall-ga-montana-intermediate/index.md",
+      "session": "2026-05-05",
+      "notes": "venosa Tattnall GA \u2014 southernmost-GA-coastal-plain venosa, recurved-hood seedlings (montana-intermediate hypothesis); 6-page thread; 2011 painfully slow -> 2012 momentum; later-pages content not fully synthesized."
     }
   }
 }
