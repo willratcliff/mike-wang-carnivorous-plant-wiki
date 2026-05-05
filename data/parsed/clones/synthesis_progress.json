@@ -2449,6 +2449,160 @@
       "split_decision": "Single Mike-bred alba with curved-back Mohawk lid (genetic trait confirmed). Very white. 9 Mike photos.",
       "completed_at_iso": "2026-05-06T01:00:00Z",
       "notes": ""
+    },
+    "C0534": {
+      "candidate_name": "Sarracenia leucophylla 4530 clone#3 Washington Co, AL",
+      "source_thread_ids": [
+        5057
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/4530-cl3-washington-al/index.md"
+      ],
+      "split_decision": "Single Wash. Co clone, possibly alba. 4 Mike photos.",
+      "completed_at_iso": "2026-05-06T01:10:00Z",
+      "notes": ""
+    },
+    "C0535": {
+      "candidate_name": "Sarracenia \u00d7 moorei (Wilkerson's White Knight \u00d7 'bouquet') breeding line",
+      "source_thread_ids": [
+        5062
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/hybrids/moorei-wwk-x-bouquet/index.md"
+      ],
+      "split_decision": "Multi-clone polyhybrid x polyhybrid breeding batch. Multiple keepers including 'Chapped Lips' candidate. 10 Mike photos.",
+      "completed_at_iso": "2026-05-06T01:18:00Z",
+      "notes": ""
+    },
+    "C0536": {
+      "candidate_name": "Sarracenia rosea 'Tubby AF' Liberty Co, FL",
+      "source_thread_ids": [
+        5064
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/rosea/tubby-af-liberty-fl/index.md"
+      ],
+      "split_decision": "Single tubby/bulbous Liberty Co rosea. 7 Mike photos.",
+      "completed_at_iso": "2026-05-06T01:22:00Z",
+      "notes": ""
+    },
+    "C0537": {
+      "candidate_name": "Sarracenia rosea clone C Mobile Co, AL",
+      "source_thread_ids": [
+        5068
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/rosea/clone-c-mobile-al/index.md"
+      ],
+      "split_decision": "Single Mobile Co rosea \u2014 wild source extirpated. Decades in cultivation. 6 Mike photos.",
+      "completed_at_iso": "2026-05-06T01:28:00Z",
+      "notes": ""
+    },
+    "C0538": {
+      "candidate_name": "Sarracenia rosea 'BULBZ' Liberty Co, FL",
+      "source_thread_ids": [
+        5073
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/rosea/bulbz-liberty-fl/index.md"
+      ],
+      "split_decision": "Single bulbous Liberty Co rosea selection. 8 Mike photos.",
+      "completed_at_iso": "2026-05-06T01:32:00Z",
+      "notes": ""
+    },
+    "C0539": {
+      "candidate_name": "Sarracenia psittacina Washington Co, AL (population)",
+      "source_thread_ids": [
+        5074
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/psittacina/washington-al/index.md"
+      ],
+      "split_decision": "Population accession with diverse individuals (white seedling, dark reds). 37 Mike photos.",
+      "completed_at_iso": "2026-05-06T01:42:00Z",
+      "notes": ""
+    },
+    "C0540": {
+      "candidate_name": "Sarracenia \u00d7 excellens (naturally occurring hybrid)",
+      "source_thread_ids": [
+        5081
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/hybrids/excellens-natural/index.md"
+      ],
+      "split_decision": "Single conservation-significant natural \u00d7 excellens. Source site (Thomasville, GA) destroyed by highway. 3 Mike photos.",
+      "completed_at_iso": "2026-05-06T01:55:00Z",
+      "notes": "Only known wild \u00d7 excellens"
+    },
+    "C0541": {
+      "candidate_name": "Sarracenia \u00d7 areolata 'DARK HOOD'",
+      "source_thread_ids": [
+        5097
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/hybrids/areolata-dark-hood/index.md"
+      ],
+      "split_decision": "Single Mike-bred areolata with extreme dark hood + black lips + neon yellow. 24 Mike photos (2020-2025).",
+      "completed_at_iso": "2026-05-06T02:05:00Z",
+      "notes": ""
+    },
+    "C0542": {
+      "candidate_name": "Sarracenia alata 'BLACK HOOD' Harrison Co, MS",
+      "source_thread_ids": [
+        5118
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/alata/black-hood-harrison-ms/index.md"
+      ],
+      "split_decision": "Single Harrison Co alata with black hood underside. 2 Mike photos.",
+      "completed_at_iso": "2026-05-06T02:08:00Z",
+      "notes": ""
+    },
+    "C0543": {
+      "candidate_name": "Sarracenia rubra ssp. gulfensis 'anthocyanin free' Santa Rosa Co, FL",
+      "source_thread_ids": [
+        5124
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/rubra/var-gulfensis/anthocyanin-free-santa-rosa-fl/index.md"
+      ],
+      "split_decision": "Single AF gulfensis from extirpated hurricane-destroyed Santa Rosa site. Cold-hardy. 9 Mike photos.",
+      "completed_at_iso": "2026-05-06T02:14:00Z",
+      "notes": ""
+    },
+    "C0544": {
+      "candidate_name": "Sarracenia flava 'extreme red throat' Okaloosa Co, FL (incomplete thread)",
+      "source_thread_ids": [
+        5204
+      ],
+      "status": "deferred-incomplete",
+      "wrote_to": [],
+      "split_decision": "Mike's only post: 'messed this one up, gonna finish it later...' \u2014 never completed. No photos. Defer.",
+      "completed_at_iso": "2026-05-06T02:20:00Z",
+      "notes": "Mike-acknowledged incomplete thread"
+    },
+    "C0545": {
+      "candidate_name": "Sarracenia flava 'red throat' Sussex Co, VA \u2014 the HOLY GRAIL!",
+      "source_thread_ids": [
+        5205
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/red-throat-sussex-va/index.md"
+      ],
+      "split_decision": "Single best-VA red-throated flava clone Mike has seen. Waccamaw-class vigor. ~26 photos: 24 Mike + 2 Luca Leeser.",
+      "completed_at_iso": "2026-05-06T02:25:00Z",
+      "notes": ""
     }
   }
 }
