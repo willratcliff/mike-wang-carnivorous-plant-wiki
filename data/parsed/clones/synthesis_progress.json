@@ -497,6 +497,87 @@
       "completed_at_iso": "2026-05-05T03:05:00Z",
       "notes": "County label inconsistency in 2019 post 41726 — defaulted to Baldwin per thread title."
     },
+    "C0383": {
+      "candidate_name": "Sarracenia leucophylla var. alba 'yellow flower, solid white' Washington Co, AL",
+      "source_thread_ids": [3873],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/leucophylla/var-alba/yellow-flower-solid-white-washington-al/index.md"],
+      "split_decision": "Single clone. 23 Mike photos (2017-2020). Among Mike's whitest leucos, rivals HCW clone F. Yellow flower; solid-white trait dominant in breeding.",
+      "completed_at_iso": "2026-05-05T03:15:00Z",
+      "notes": ""
+    },
+    "C0386": {
+      "candidate_name": "Sarracenia leucophylla RED 'Oval Mouth' Franklin Co, FL",
+      "source_thread_ids": [3896],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/leucophylla/red-oval-mouth-franklin-fl/index.md"],
+      "split_decision": "Single clone. 16 Mike photos (2017-2020). Distinctive oval mouth + deep red color.",
+      "completed_at_iso": "2026-05-05T03:25:00Z",
+      "notes": ""
+    },
+    "C0387": {
+      "candidate_name": "Sarracenia leucophylla var. alba yellow flower 'Thick Neck' Washington Co, AL",
+      "source_thread_ids": [3897],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/leucophylla/var-alba/thick-neck-yellow-flower-washington-al/index.md"],
+      "split_decision": "Single clone. 11 Mike photos (2017-2020). Yellow-flowered Wash. Co alba with thick neck and year-round trap production.",
+      "completed_at_iso": "2026-05-05T03:35:00Z",
+      "notes": ""
+    },
+    "C0388": {
+      "candidate_name": "Sarracenia leucophylla 'Bright Red' Covington Co, AL",
+      "source_thread_ids": [3910],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/leucophylla/bright-red-covington-al/index.md"],
+      "split_decision": "Single Mike-bred selected seedling. 28 Mike photos (2017-2021). Mike's potential WRR competitor; possibly more disease-resistant.",
+      "completed_at_iso": "2026-05-05T03:45:00Z",
+      "notes": "Proven breeder per Mike's 2020 statement."
+    },
+    "C0390": {
+      "candidate_name": "Sarracenia leucophylla 'Super Pink' Baldwin Co, AL",
+      "source_thread_ids": [3916],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/leucophylla/super-pink-baldwin-al/index.md"],
+      "split_decision": "Single clone. 20 Mike photos (2017-2020). Best pink leuco of ~40 in Mike's collection. Yellow flower (uncommon in leucophylla). Pink-interior trait dominant in breeding. Cultivar-status candidate.",
+      "completed_at_iso": "2026-05-05T03:55:00Z",
+      "notes": ""
+    },
+    "C0391": {
+      "candidate_name": "Sarracenia leucophylla GIANT 'PLI' (Purple Lips Imposter) Franklin Co, FL",
+      "source_thread_ids": [3921],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/leucophylla/giant-pli-franklin-fl/index.md"],
+      "split_decision": "Single clone (the imposter, not the original Purple Lips). 9 Mike photos (2017-2020). Capable of giant traps; heavy phenotypic variance.",
+      "completed_at_iso": "2026-05-05T04:05:00Z",
+      "notes": ""
+    },
+    "C0392": {
+      "candidate_name": "Sarracenia leucophylla RED 'Tall, shapely, fast growing' Franklin Co, FL",
+      "source_thread_ids": [3930],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/leucophylla/red-tall-shapely-fast-franklin-fl/index.md"],
+      "split_decision": "Single clone. 4 Mike photos (2017-09-18). Single Mike post in this thread.",
+      "completed_at_iso": "2026-05-05T04:15:00Z",
+      "notes": ""
+    },
+    "C0393": {
+      "candidate_name": "Sarracenia leucophylla var. alba yellow flower 'Standard Look' Washington Co, AL",
+      "source_thread_ids": [3934],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/leucophylla/var-alba/standard-look-washington-al/index.md"],
+      "split_decision": "Single clone. 11 Mike photos (2017-2019). Mike's reference 'standard' Wash. Co alba. Cross-linked to other Wash. Co alba siblings.",
+      "completed_at_iso": "2026-05-05T04:25:00Z",
+      "notes": ""
+    },
+    "C0374": {
+      "candidate_name": "Sarracenia leucophylla RED 'White Lips' Franklin Co, FL",
+      "source_thread_ids": [3753],
+      "status": "done",
+      "wrote_to": ["wiki/sarracenia/leucophylla/red-white-lips-franklin-fl/index.md"],
+      "split_decision": "Single clone — Mike-selected from a hundreds-of-plants seedling batch. 11 Mike photos (2017-2019). Unique red+white-lip combo. Slow grower but breeding-significant.",
+      "completed_at_iso": "2026-05-05T04:35:00Z",
+      "notes": ""
+    },
     "C0221": {
       "candidate_name": "Sarracenia montana 'best clone' Transylvania Co, NC",
       "source_thread_ids": [957, 5291],
