@@ -1105,6 +1105,520 @@
       "split_decision": "Not a clone \u2014 a curiosity post about a hummingbird bathing in a flava lid that filled with rainwater. Wild observation note, not an accession documentation. All photos are postimg.cc and not mirrored.",
       "completed_at_iso": "2026-05-05T09:15:00Z",
       "notes": "Title-parser caught 'flava' as candidate; thread is on the 'Science of Sarracenia' board."
+    },
+    "C0420": {
+      "candidate_name": "Sarracenia leucophylla var. alba yellow flower 'spring white' Washington Co, AL",
+      "source_thread_ids": [
+        4222
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/var-alba/spring-white-washington-al/index.md"
+      ],
+      "split_decision": "Single yellow-flower alba. 34 Mike photos (2018-2023). Bright spring traps year-after-year.",
+      "completed_at_iso": "2026-05-05T09:35:00Z",
+      "notes": ""
+    },
+    "C0421": {
+      "candidate_name": "Sarracenia alata Harrison Co, MS (color forms)",
+      "source_thread_ids": [
+        4225
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/alata/harrison-ms-color-forms/index.md"
+      ],
+      "split_decision": "Population accession. Multi-individual; recovered red selections via 2-stage selfing. 9 Mike photos directly + 2 ambiguous (Stone Co).",
+      "completed_at_iso": "2026-05-05T09:50:00Z",
+      "notes": ""
+    },
+    "C0422": {
+      "candidate_name": "Sarracenia \u00d7 moorei 'ALBA?!!!' Covington Co, AL",
+      "source_thread_ids": [
+        4230
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/hybrids/moorei-alba-question-covington-al/index.md"
+      ],
+      "split_decision": "Single juvenile moorei seedling \u2014 possibly mixed seed batch. 5 photos. Status uncertain (Mike couldn't locate in 2021).",
+      "completed_at_iso": "2026-05-05T10:00:00Z",
+      "notes": "Plant-status open question."
+    },
+    "C0423": {
+      "candidate_name": "Sarracenia montana Greenville Co, SC",
+      "source_thread_ids": [
+        4242
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/montana/greenville-sc/index.md"
+      ],
+      "split_decision": "Population accession. CITES-restricted. ~52 Mike photos (2018-2025). Likely cataract-bog site.",
+      "completed_at_iso": "2026-05-05T10:20:00Z",
+      "notes": ""
+    },
+    "C0424": {
+      "candidate_name": "Sarracenia leucophylla 'Stretch' Covington Co, AL",
+      "source_thread_ids": [
+        4247
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/stretch-covington-al/index.md"
+      ],
+      "split_decision": "Single clone. 11 Mike photos. Early fall trap producer (cold-climate candidate).",
+      "completed_at_iso": "2026-05-05T10:30:00Z",
+      "notes": ""
+    },
+    "C0425": {
+      "candidate_name": "Sarracenia leucophylla 'tall, white dominant petiole' Okaloosa Co, FL",
+      "source_thread_ids": [
+        4254
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/tall-white-dominant-petiole-okaloosa-fl/index.md"
+      ],
+      "split_decision": "Single clone. 26 Mike photos (2018-2022). Strongly chameleon \u2014 can go near-alba.",
+      "completed_at_iso": "2026-05-05T10:40:00Z",
+      "notes": ""
+    },
+    "C0426": {
+      "candidate_name": "Sarracenia leucophylla Washington Co, AL (population)",
+      "source_thread_ids": [
+        4266
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/washington-al-population/index.md"
+      ],
+      "split_decision": "Population accession. Source for several named selections. 13 Mike photos (2018-2021).",
+      "completed_at_iso": "2026-05-05T10:50:00Z",
+      "notes": ""
+    },
+    "C0427": {
+      "candidate_name": "Sarracenia leucophylla var. alba '2\" stretch' Washington Co, AL",
+      "source_thread_ids": [
+        4274
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/var-alba/2in-stretch-washington-al/index.md"
+      ],
+      "split_decision": "Single clone. Stretchiest leuco alba in collection. Yellow-flowered. 15 Mike photos (2018-2021).",
+      "completed_at_iso": "2026-05-05T10:55:00Z",
+      "notes": ""
+    },
+    "C0428": {
+      "candidate_name": "Sarracenia alata 'DARK' Stone Co, MS",
+      "source_thread_ids": [
+        4275
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/alata/dark-stone-ms/index.md"
+      ],
+      "split_decision": "Single clone. Reliable dark-color expression on aged fall traps. 20 Mike photos (2018-2024).",
+      "completed_at_iso": "2026-05-05T11:00:00Z",
+      "notes": ""
+    },
+    "C0429": {
+      "candidate_name": "Sarracenia leucophylla 3nb 'white Petiole' Santa Rosa Co, FL",
+      "source_thread_ids": [
+        4282
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/3nb-white-petiole-santa-rosa-fl/index.md"
+      ],
+      "split_decision": "Single clone. Stable white-petiole expression; possibly var. alba (unconfirmed). 7 Mike photos.",
+      "completed_at_iso": "2026-05-05T11:05:00Z",
+      "notes": ""
+    },
+    "C0430": {
+      "candidate_name": "Sarracenia leucophylla 'Heavy Veins' Baldwin Co, AL",
+      "source_thread_ids": [
+        4284
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/heavy-veins-baldwin-al/index.md"
+      ],
+      "split_decision": "Single clone (tentative name). 4 Mike photos (single 2018-09-26 post). Reliable big-trap producer.",
+      "completed_at_iso": "2026-05-05T11:15:00Z",
+      "notes": ""
+    },
+    "C0431": {
+      "candidate_name": "Sarracenia leucophylla var. alba 'Relic Hurricane Creek White' Baldwin Co, AL",
+      "source_thread_ids": [
+        4290
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/var-alba/relic-hcw-baldwin-al/index.md"
+      ],
+      "split_decision": "Single clone. Relic-site sibling of John Hummer's HCW. Conservation-significant. 3 Mike photos.",
+      "completed_at_iso": "2026-05-05T11:20:00Z",
+      "notes": ""
+    },
+    "C0432": {
+      "candidate_name": "Sarracenia leucophylla var. alba 'white back' Baldwin Co, AL",
+      "source_thread_ids": [
+        4295
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/var-alba/white-back-baldwin-al/index.md"
+      ],
+      "split_decision": "Single clone. Asymmetric back-side white. 3 Mike photos (single 2018-10-03 post).",
+      "completed_at_iso": "2026-05-05T11:25:00Z",
+      "notes": ""
+    },
+    "C0433": {
+      "candidate_name": "Sarracenia leucophylla #4,520 cl#1 Washington Co, AL",
+      "source_thread_ids": [
+        4317
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/4520-cl1-washington-al/index.md"
+      ],
+      "split_decision": "Single clone with cryptic accession-code name. Tall, alata-influence character. 17 Mike photos (2018-2024).",
+      "completed_at_iso": "2026-05-05T11:35:00Z",
+      "notes": ""
+    },
+    "C0434": {
+      "candidate_name": "Sarracenia 'Adrian Slack' \u00d7 'Judith Hindle' 'Select'",
+      "source_thread_ids": [
+        4318
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/hybrids/adrian-slack-x-judith-hindle-select/index.md"
+      ],
+      "split_decision": "Single Mike-bred F1 hybrid. Cultivar-registration-worthy. ~22 Mike + 4 other-grower photos.",
+      "completed_at_iso": "2026-05-05T11:50:00Z",
+      "notes": ""
+    },
+    "C0435": {
+      "candidate_name": "Sarracenia leucophylla var. alba 'yellow below white' Baldwin Co, AL",
+      "source_thread_ids": [
+        4319
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/var-alba/yellow-below-white-baldwin-al/index.md"
+      ],
+      "split_decision": "Single chameleon clone. Yellow-petiole trait emerges late in trap aging. 8 Mike photos (2018-2020).",
+      "completed_at_iso": "2026-05-05T11:55:00Z",
+      "notes": ""
+    },
+    "C0436": {
+      "candidate_name": "Sarracenia leucophylla 'long white' Baldwin Co, AL",
+      "source_thread_ids": [
+        4320
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/long-white-baldwin-al/index.md"
+      ],
+      "split_decision": "Single clone. Stretchy white pigments on a non-alba leuco. 4 Mike photos (single 2018-10-23 post).",
+      "completed_at_iso": "2026-05-05T12:00:00Z",
+      "notes": ""
+    },
+    "C0437": {
+      "candidate_name": "Sarracenia leucophylla 'old pink' Baldwin Co, AL",
+      "source_thread_ids": [
+        4322
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/old-pink-baldwin-al/index.md"
+      ],
+      "split_decision": "Single clone. Pre-'super pink' best-pink leuco. 4 Mike photos directly + 4 postimg.cc not mirrored. CRITICAL: may be the clone Mike rotted in 2019 (see thread 4178).",
+      "completed_at_iso": "2026-05-05T12:05:00Z",
+      "notes": "Open question on rot survival."
+    },
+    "C0438": {
+      "candidate_name": "Sarracenia leucophylla 'red interior' Franklin Co, FL",
+      "source_thread_ids": [
+        4324
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/red-interior-franklin-fl/index.md"
+      ],
+      "split_decision": "Single clone with unique red interior; suspected ancient flava introgression. 24 Mike photos (2018-2024).",
+      "completed_at_iso": "2026-05-05T12:20:00Z",
+      "notes": ""
+    },
+    "C0439": {
+      "candidate_name": "Sarracenia leucophylla 'white abaxial' Baldwin Co, AL",
+      "source_thread_ids": [
+        4329
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/white-abaxial-baldwin-al/index.md"
+      ],
+      "split_decision": "Single clone. Sun-orientation-dependent white-back expression. 13 Mike photos (2018-2022). Surprise red-lips year (2020).",
+      "completed_at_iso": "2026-05-05T12:30:00Z",
+      "notes": ""
+    },
+    "C0440": {
+      "candidate_name": "Sarracenia leucophylla var. alba 'perseverance' Baldwin Co, AL",
+      "source_thread_ids": [
+        4340
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/var-alba/perseverance-baldwin-al/index.md"
+      ],
+      "split_decision": "Single chameleon alba. Defies Mike's fall-trap-induction model: produces fall traps under heavy shading. 12 Mike photos (2018-2020).",
+      "completed_at_iso": "2026-05-05T12:40:00Z",
+      "notes": ""
+    },
+    "C0441": {
+      "candidate_name": "Sarracenia leucophylla var. alba Eastern Alabama",
+      "source_thread_ids": [
+        4344
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/var-alba/eastern-alabama/index.md"
+      ],
+      "split_decision": "Single clone. ALL photos are postimg.cc not mirrored. Stub entry preserves Mike's prose. 10 unmirrored URLs in single post.",
+      "completed_at_iso": "2026-05-05T12:50:00Z",
+      "notes": "0 mirrored photos."
+    },
+    "C0442": {
+      "candidate_name": "Sarracenia 'Lamentations'",
+      "source_thread_ids": [
+        4372
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/hybrids/lamentations/index.md"
+      ],
+      "split_decision": "Single formally-registered cultivar. 6 Mike photos. Long-lasting pitchers; obscure cultivar that Mike documented after ~22 years in his collection.",
+      "completed_at_iso": "2026-05-05T13:00:00Z",
+      "notes": ""
+    },
+    "C0443": {
+      "candidate_name": "S. alata Eastern MS (stunning red forms, etc)",
+      "source_thread_ids": [
+        4386
+      ],
+      "status": "deferred-not-a-clone",
+      "wrote_to": [],
+      "split_decision": "Wild-site documentation thread on 'Sarracenia In The Wild' board. Mike documents many distinct individuals at an Eastern MS alata site; not a Mike accession. Defer per cluster_gotchas.",
+      "completed_at_iso": "2026-05-05T13:05:00Z",
+      "notes": ""
+    },
+    "C0445": {
+      "candidate_name": "S. alata 'DARK' Stone Co, MS (duplicate)",
+      "source_thread_ids": [
+        4390
+      ],
+      "status": "deferred-duplicate",
+      "wrote_to": [],
+      "split_decision": "Mike's only post in this thread is a redirect: 'moved to thread 4275 where it belongs'. Same clone as C0428 (thread 4275). Mike asked the moderator to close. Defer as duplicate.",
+      "completed_at_iso": "2026-05-05T13:05:00Z",
+      "notes": "Mike-redirected duplicate; canonical entry is C0428."
+    },
+    "C0446": {
+      "candidate_name": "S. alata 'Nova Site', MS",
+      "source_thread_ids": [
+        4396
+      ],
+      "status": "deferred-not-a-clone",
+      "wrote_to": [],
+      "split_decision": "Wild-site documentation thread on 'Sarracenia In The Wild' board. Mike's discovery report of a new alata bog network in MS forest. Not a Mike accession. Defer per cluster_gotchas.",
+      "completed_at_iso": "2026-05-05T13:05:00Z",
+      "notes": ""
+    },
+    "C0447": {
+      "candidate_name": "Sarracenia rubra ssp. gulfensis 'THC' (Turkey Hen Creek) Okaloosa Co, FL",
+      "source_thread_ids": [
+        4412
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/rubra/var-gulfensis/thc-okaloosa-fl/index.md"
+      ],
+      "split_decision": "Population accession. ~38 photos including 35 Mike + 3 mahlon. Diverse color forms.",
+      "completed_at_iso": "2026-05-05T13:15:00Z",
+      "notes": "Open question: should fiery-orange clone get a separate cultivar designation?"
+    },
+    "C0448": {
+      "candidate_name": "Sarracenia rosea 'large, vigorous' Liberty Co, FL",
+      "source_thread_ids": [
+        4473
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/rosea/large-vigorous-liberty-fl/index.md"
+      ],
+      "split_decision": "Single Mike-selected clone from a hundreds-of-plants Liberty Co rosea grow-out. 8 Mike photos. Recovered after near-loss; first divisions winter 2024-2025.",
+      "completed_at_iso": "2026-05-05T13:25:00Z",
+      "notes": ""
+    },
+    "C0449": {
+      "candidate_name": "Sarracenia flava var. atropurpurea 2AT clone#2 Okaloosa Co, FL",
+      "source_thread_ids": [
+        4482
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-atropurpurea/2at-clone-2-okaloosa-fl/index.md"
+      ],
+      "split_decision": "Single Mike-bred clone \u2014 Waccamaw-style coloring. 8 photos.",
+      "completed_at_iso": "2026-05-05T13:35:00Z",
+      "notes": ""
+    },
+    "C0450": {
+      "candidate_name": "Sarracenia leucophylla 'yellow flower' Okaloosa Co, FL",
+      "source_thread_ids": [
+        4486
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/yellow-flower-okaloosa-fl/index.md"
+      ],
+      "split_decision": "Single clone \u2014 first reported yellow-flowered leucophylla from Okaloosa Co. 3 Mike photos.",
+      "completed_at_iso": "2026-05-05T13:40:00Z",
+      "notes": ""
+    },
+    "C0451": {
+      "candidate_name": "Sarracenia \u00d7 moorei 'Effini' Okaloosa Co, FL",
+      "source_thread_ids": [
+        4487
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/hybrids/moorei-effini-okaloosa-fl/index.md"
+      ],
+      "split_decision": "Single Mike-bred F2 moorei (both parents Okaloosa Co). Picotee expression confirmed 2026 \u2014 significant breeding cross-link to Leah/Legacy. 12 Mike photos.",
+      "completed_at_iso": "2026-05-05T13:55:00Z",
+      "notes": ""
+    },
+    "C0452": {
+      "candidate_name": "Sarracenia flava var. rugelii 'multi' Liberty Co, FL",
+      "source_thread_ids": [
+        4490
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-rugelii/multi-liberty-fl/index.md"
+      ],
+      "split_decision": "Single Mike-selected clone. Confirmed genetic giant. 3 Mike photos.",
+      "completed_at_iso": "2026-05-05T14:00:00Z",
+      "notes": ""
+    },
+    "C0454": {
+      "candidate_name": "Sarracenia flava var. ornata clone#123 Liberty Co, FL",
+      "source_thread_ids": [
+        4498
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-ornata/clone-123-liberty-fl/index.md"
+      ],
+      "split_decision": "Single Mike-selected ornata from Liberty Co. Heavy red veins, dipped lip. 13 Mike photos.",
+      "completed_at_iso": "2026-05-05T14:10:00Z",
+      "notes": ""
+    },
+    "C0455": {
+      "candidate_name": "Sarracenia flava var. atropurpurea 2AT 'super dark' Okaloosa Co, FL",
+      "source_thread_ids": [
+        4509
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-atropurpurea/2at-super-dark-okaloosa-fl/index.md"
+      ],
+      "split_decision": "Single Mike-bred clone \u2014 darkest atropurpurea in Mike's collection. Waccamaw-easy to color but goes much darker. 23 Mike photos (2019-2024).",
+      "completed_at_iso": "2026-05-05T14:25:00Z",
+      "notes": "Possible future cultivar 'Benny Wang' per Mike 2019."
+    },
+    "C0456": {
+      "candidate_name": "Sarracenia flava var. rugelii 'Bob Hanrahan'",
+      "source_thread_ids": [
+        4510
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-rugelii/bob-hanrahan/index.md"
+      ],
+      "split_decision": "Single formal cultivar (CPN registered). Genetic giant; underperforms in cool climates. 15 photos (Mike + adaetz100 + almightydolla + CC archive).",
+      "completed_at_iso": "2026-05-05T14:35:00Z",
+      "notes": ""
+    },
+    "C0457": {
+      "candidate_name": "Sarracenia flava var. atropurpurea 'GIANT' Okaloosa Co, FL (multi-clone)",
+      "source_thread_ids": [
+        4511
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-atropurpurea/giant-okaloosa-fl/index.md"
+      ],
+      "split_decision": "Multi-clone breeding-line entry \u2014 at least 3 named giants ('Type', 'Elegant') from Mike's Okaloosa Co atropurpurea line. 31 Mike photos. Open question on splitting into per-clone entries.",
+      "completed_at_iso": "2026-05-05T14:50:00Z",
+      "notes": ""
+    },
+    "C0458": {
+      "candidate_name": "Sarracenia flava 'red throat' Brunswick Co, NC",
+      "source_thread_ids": [
+        4517
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/red-throat-brunswick-nc/index.md"
+      ],
+      "split_decision": "Single clone with red-throat phenotype (uncommon in NC). Taxonomic ambiguity flava vs rugelii. 4 Mike photos.",
+      "completed_at_iso": "2026-05-05T14:55:00Z",
+      "notes": ""
+    },
+    "C0459": {
+      "candidate_name": "Sarracenia flava var. cuprea Horry Co, SC",
+      "source_thread_ids": [
+        4524
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-cuprea/horry-sc/index.md"
+      ],
+      "split_decision": "Single classic Carolina cuprea. 11 Mike photos.",
+      "completed_at_iso": "2026-05-05T15:00:00Z",
+      "notes": ""
+    },
+    "C0460": {
+      "candidate_name": "Sarracenia leucophylla DARK RED (WRR \u00d7 DARK RED Covington Co, AL) \u2014 breeding line",
+      "source_thread_ids": [
+        4525
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/wrr-x-dark-red-covington-cross/index.md"
+      ],
+      "split_decision": "Breeding-line entry. F1 of WRR \u00d7 Dark Red Covington with multiple selected offspring (DARK 'best clone', white-lipped, double-flush). 16 photos. Cross-link to white-lipped follow-up thread 4806.",
+      "completed_at_iso": "2026-05-05T15:15:00Z",
+      "notes": ""
+    },
+    "C0461": {
+      "candidate_name": "Sarracenia flava var. cuprea (Botanique \u00d7 'Chocolate Top')",
+      "source_thread_ids": [
+        4529
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-cuprea/botanique-x-chocolate-top/index.md"
+      ],
+      "split_decision": "Single Mike-bred F1 cross of cultivated cupreas. Sole keeper of the batch. 12 Mike photos.",
+      "completed_at_iso": "2026-05-05T15:25:00Z",
+      "notes": ""
     }
   }
 }
