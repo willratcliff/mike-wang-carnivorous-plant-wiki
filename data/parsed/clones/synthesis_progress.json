@@ -2997,6 +2997,30 @@
       "status": "deferred-not-a-clone",
       "session": "2026-05-05",
       "notes": "Platanthera ciliaris (yellow Fringe Orchid) cultivation thread \u2014 outside the Sarracenia clone wiki scope."
+    },
+    "C0613": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/minor/var-minor/charleston-sc/index.md",
+      "session": "2026-05-05",
+      "notes": "Charleston Co minor \u2014 most spectacular windows of any minor in Mike's collection."
+    },
+    "C0614": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/psittacina/okaloosa-fl/index.md",
+      "session": "2026-05-05",
+      "notes": "New Okaloosa Co psittacina population \u2014 early big-red standout."
+    },
+    "C0615": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/hybrids/x-charlesmoorei/index.md",
+      "session": "2026-05-05",
+      "notes": "Natural montana \u00d7 jonesii hybrid \u2014 Larry Mellichamp source."
+    },
+    "C0616": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/hybrids/moorei-ert-improved/index.md",
+      "session": "2026-05-05",
+      "notes": "Mike's open breeding-program thread for ERT moorei whiter-body selections."
     }
   }
 }
