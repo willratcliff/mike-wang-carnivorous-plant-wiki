@@ -2819,6 +2819,41 @@
       "wiki_path": "wiki/sarracenia/leucophylla/var-alba/very-special/index.md",
       "session": "2026-05-05",
       "notes": "Mike's standout from 30+ alba crosses; parents intentionally undisclosed."
+    },
+    "C0582": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/leucophylla/looker-1-baldwin-al/index.md",
+      "session": "2026-05-05",
+      "notes": "Standout Baldwin leuco; all winter divisions lost to May 2022 frost."
+    },
+    "C0583": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/psittacina/santa-rosa-fl/index.md",
+      "session": "2026-05-05",
+      "notes": "Santa Rosa Co psittacina population \u2014 high phenotypic plasticity."
+    },
+    "C0584": {
+      "status": "deferred-not-a-clone",
+      "session": "2026-05-05",
+      "notes": "Methodology thread on freezing-weather Sarracenia care. Not a clone documentation thread; defer per cluster_gotchas."
+    },
+    "C0585": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/flava/var-atropurpurea/surprisingly-dark-liberty-fl/index.md",
+      "session": "2026-05-05",
+      "notes": "Mike-bred \u2014 1 of 2 dark out of several hundred sibs. Decoupled from usual phyllodia/sepal pattern."
+    },
+    "C0586": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/flava/var-rubricorpora/clone-e-liberty-fl/index.md",
+      "session": "2026-05-05",
+      "notes": "Long-cultivated Liberty rubricorpora; atropurpurea breeding potential."
+    },
+    "C0587": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/flava/var-rugelii/evans-ga/index.md",
+      "session": "2026-05-05",
+      "notes": "Conservation-significant relic Evans Co rugelii \u2014 sister population to extirpated Bulloch Co."
     }
   }
 }
