@@ -3972,6 +3972,63 @@
       "status": "deferred-not-a-clone",
       "session": "2026-05-05",
       "notes": "Thread 6176 'D. californica creek site Curry Co OR' \u2014 wild-site Darlingtonia survey (powdery-mildew + adapt-to-unfavorable-substrate observations); not a cultivation accession. Defer per cluster_gotchas wild-site pattern."
+    },
+    "C0777": {
+      "status": "deferred-not-a-clone",
+      "session": "2026-05-05",
+      "notes": "Thread 6177 'Darlingtonia californica Rattlesnake Seep Josephine Co OR' \u2014 wild-site survey (rattlesnake encounter, dicey-road context); not a cultivation accession. Defer per cluster_gotchas wild-site pattern."
+    },
+    "C0778": {
+      "status": "done",
+      "wiki_path": "wiki/platanthera/psycodes/index.md",
+      "session": "2026-05-05",
+      "notes": "Platanthera psycodes \u2014 purple fringed orchid from MI nursery; decade-plus search; 3 yrs to 3 divisions; 1-leaf-per-year vegetative habit; full Mike protocol. New wiki/platanthera/ dir."
+    },
+    "C0779": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/purpurea/ssp-venosa/dark-bred/index.md",
+      "session": "2026-05-05",
+      "notes": "venosa DARK (Mike-bred candidate) \u2014 1 of ~8 venosa crosses produced this; passes Mike's outdoor-no-LED genetic-dark diagnostic; benchmarks vs Jeremiah Harris's near-black."
+    },
+    "C0780": {
+      "status": "deferred-not-a-clone",
+      "session": "2026-05-05",
+      "notes": "Thread 6190 'Darlingtonia californica last site, lower Josephine Co OR' \u2014 wild-site survey (steep cliff descent); not a cultivation accession. Defer per cluster_gotchas wild-site pattern."
+    },
+    "C0781": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/leucophylla/burgundy-x-dark-pink-2012/index.md",
+      "session": "2026-05-05",
+      "notes": "leuco Burgundy x dark pink \u2014 11-year community-pot survivor from 2012 sowing; Mike's wife approval-passed; isolated for distribution Sept 2026; water-not-space is Mike's binding constraint now."
+    },
+    "C0782": {
+      "status": "deferred-not-a-clone",
+      "session": "2026-05-05",
+      "notes": "Thread 6194 'Sabatia in the wild' \u2014 companion-plant wild-survey, multiple Sabatia species at Sarracenia sites; not a documented cultivation accession of a single named clone. Defer."
+    },
+    "C0783": {
+      "status": "done",
+      "wiki_path": "wiki/cephalotus/follicularis/david-svarc-black/index.md",
+      "session": "2026-05-05",
+      "notes": "Cephalotus 'David Svarc Black' \u2014 darker than average; possibly related to 'purple black' (gut speculation only); Mike's structural-critique of cephalotus 'mystery plant' provenance vs Sarracenia documentation discipline."
+    },
+    "C0784": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/alata/var-atrorubra/dark-red-st-tammany-la/index.md",
+      "session": "2026-05-05",
+      "notes": "atrorubra 'dark red' St. Tammany \u2014 long-lasting traps (still standing end-Jan when sister alatas brown); breeding stock for evergreen hybrids; in post-division recovery; cf. C0750 population."
+    },
+    "C0785": {
+      "status": "done",
+      "wiki_path": "wiki/cephalotus/follicularis/uc-davis/index.md",
+      "session": "2026-05-05",
+      "notes": "Cephalotus UCD \u2014 Phil Mann seed batch sister to PM1; vigorous, propagates aggressively, can produce blackish lids; HEAT-SENSITIVE (Mike loses divisions yearly); 25%+ collection-loss event after 2025 heat wave documented."
+    },
+    "C0786": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/flava/var-rugelii/giant-2at-x-bob-hanrahan/index.md",
+      "session": "2026-05-05",
+      "notes": "rugelii GIANT (2AT Genetic Giant x Bob Hanrahan) \u2014 Mike's controlled cross; both parents genetic giants; 1-of-40 standout from neglected community-tray; passes all 3 Mike giant-clone diagnostic tests; hybrid-vigor vs slow-genetic question pending."
     }
   }
 }
