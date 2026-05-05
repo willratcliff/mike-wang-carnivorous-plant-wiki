@@ -3913,6 +3913,65 @@
       "wiki_path": "wiki/sarracenia/hybrids/catesbaei-solid-red-onslow-nc/index.md",
       "session": "2026-05-05",
       "notes": "S. \u00d7 catesbaei 'solid red' Onslow NC \u2014 naturally-occurring wild flava \u00d7 venosa hybrid WITH locality data (rare; most catesbaei in trade are man-made); critical to Mike's atropurpurea-recreation project; supports thread-4294 hybrid-origin hypothesis."
+    },
+    "C0767": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/leucophylla/fiber-optic-escambia-fl/index.md",
+      "session": "2026-05-05",
+      "notes": "leuco 'fiber optic' Escambia \u2014 heaviest-veined leuco Mike has seen; NASC seed-source; emerged after dividing/spacing previously crowded plants; pheno-hunt failure-rate context."
+    },
+    "C0768": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/leucophylla/giant-clone-a-escambia-fl/index.md",
+      "session": "2026-05-05",
+      "notes": "leuco GIANT clone A Escambia \u2014 Eric Morrow -> Matt Miller -> Mike chain; confirmed giant 4-yr consistency; cocles flagged 3 distinct Escambia GIANTs (Mike/Matt/Jeremiah Harris); 'swarm of genetics' (flava/purp/psittacina) per Eric."
+    },
+    "C0769": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/leucophylla/var-alba/eval-1/index.md",
+      "session": "2026-05-05",
+      "notes": "leuco alba 'eval #1' \u2014 Mike's straightforward eval-N naming convention; consistently white across seasons; needs full sun + no disturbance + low-N soil for full alba expression."
+    },
+    "C0770": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/leucophylla/dark-purple-white-top-covington-al/index.md",
+      "session": "2026-05-05",
+      "notes": "leuco 'dark purple white top' Covington \u2014 color progression reddish to dark purple as trap ages, white top contrast; best fall in NorCal; deep-south early-season potential."
+    },
+    "C0771": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/leucophylla/red-lips-covington-al/index.md",
+      "session": "2026-05-05",
+      "notes": "leuco 'red lips' Covington \u2014 decade-plus in collection only just recognized 2025-10; widespread trait (Walton/Santa Rosa/Baldwin) but loud expression here; disambiguates from C0734 'red lips white interior' seedling selection."
+    },
+    "C0772": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/purpurea/ssp-purpurea/westmoreland-pa/index.md",
+      "session": "2026-05-05",
+      "notes": "venosa Westmoreland PA \u2014 small population, higher-elevation site; genetically distinct from Centre Co PA; challenging in Mike's NorCal microclimate (high-40s F summer nights burn leaves); in-situ photographer uncredited."
+    },
+    "C0773": {
+      "status": "done",
+      "wiki_path": "wiki/delphinium/variegatum/mike-family-property-bay-area-ca/index.md",
+      "session": "2026-05-05",
+      "notes": "Delphinium variegatum (Mike's family property) \u2014 extirpated Bay Area site (turned into a home); Mike collected entire population's seed; planted across NorCal property as backup; first Delphinium entry, new wiki/delphinium/ dir; full Mike-protocol published."
+    },
+    "C0774": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/rosea/giant-mobile-x-liberty/index.md",
+      "session": "2026-05-05",
+      "notes": "rosea GIANT (Mobile x Liberty) \u2014 Mike's controlled cross; single individual 3-4x bigger than batch siblings; Mike's giant-clone diagnostic ('every giant clone started off this way'); rest of batch culled."
+    },
+    "C0775": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/psittacina/charlton-ga-17yr-seed/index.md",
+      "session": "2026-05-05",
+      "notes": "psitt Charlton GA \u2014 17-yr acquisition-to-photo; 11-yr-refrigerated seed; Mike's hardest-ever germination case study; 40% germination from 11-yr seed (vs 0% from 5-yr previous record); detailed seed-bank handling notes."
+    },
+    "C0776": {
+      "status": "deferred-not-a-clone",
+      "session": "2026-05-05",
+      "notes": "Thread 6176 'D. californica creek site Curry Co OR' \u2014 wild-site Darlingtonia survey (powdery-mildew + adapt-to-unfavorable-substrate observations); not a cultivation accession. Defer per cluster_gotchas wild-site pattern."
     }
   }
 }
