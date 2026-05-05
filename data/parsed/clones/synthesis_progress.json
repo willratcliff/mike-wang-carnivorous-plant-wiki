@@ -1007,6 +1007,104 @@
       "split_decision": "Population accession (accession_type=population). Genetics from GA's only remaining wild oreophila population; sister to Clay Co, NC. ~42 Mike photos spanning 2018-2025. Includes some ornata-veined individuals; recessive-variegation potential noted by Mike.",
       "completed_at_iso": "2026-05-05T07:55:00Z",
       "notes": ""
+    },
+    "C0411": {
+      "candidate_name": "Sarracenia \u00d7 moorei 'extreme red throat' Select",
+      "source_thread_ids": [
+        4163
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/hybrids/moorei-extreme-red-throat-select/index.md"
+      ],
+      "split_decision": "Single Mike-bred F1 hybrid (flava \u00d7 leucophylla). 'Select' individual emerged from a kept-batch of ~10 seedlings; sibling clone with whiter top still in collection but not detailed. Distinct from S. \u00d7 moorei 'Red Throat' Southern Baldwin Co (C0331). 41 photos (40 Mike + 1 Phil Long, TX) spanning 2018-2025.",
+      "completed_at_iso": "2026-05-05T08:10:00Z",
+      "notes": ""
+    },
+    "C0412": {
+      "candidate_name": "How to prevent ROT in Sarracenia leucophylla",
+      "source_thread_ids": [
+        4178
+      ],
+      "status": "deferred-not-a-clone",
+      "wrote_to": [],
+      "split_decision": "Not a clone \u2014 a cultivation-methodology / discussion thread on rot prevention. Title-parser caught 'leucophylla' as a candidate species but the thread's subject is care advice, not a specific accession. Defer pending decision on whether cultivation-methodology threads belong in a non-clone wiki section.",
+      "completed_at_iso": "2026-05-05T08:15:00Z",
+      "notes": "Open question: should methodology / care threads (rot prevention, pest control, fertilizing, etc.) get their own non-clone wiki section?"
+    },
+    "C0413": {
+      "candidate_name": "Sarracenia \u00d7 moorei 'red body, white top' Eastern AL",
+      "source_thread_ids": [
+        4182
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/hybrids/moorei-red-body-white-top-eastern-al/index.md"
+      ],
+      "split_decision": "Single Mike-bred F1 moorei from Eastern AL parent stock. Mike compares to 'red bodied Adrian Slack' but with no direct AS ancestry. 30 Mike photos spanning 2018-2025. Sibling individual with whiter top still in collection. Treat-like-AS cultivation: don't divide too often.",
+      "completed_at_iso": "2026-05-05T08:25:00Z",
+      "notes": ""
+    },
+    "C0414": {
+      "candidate_name": "S. oreophila Imposter aka FAKE oreophila clone",
+      "source_thread_ids": [
+        4187
+      ],
+      "status": "deferred-not-a-clone",
+      "wrote_to": [],
+      "split_decision": "Not a clone \u2014 a debunking / educational thread documenting an old hybrid (likely S. flava 'heavy veins' \u00d7 oreophila) widely circulated under a false 'pure oreophila' label. Mike's purpose is to warn collectors. Not a Mike accession; the 'imposter' is in fact a real hybrid plant in circulation (multiple growers in EU and US) but is documented here only to expose the misidentification. Defer.",
+      "completed_at_iso": "2026-05-05T08:30:00Z",
+      "notes": "Open question: should the wiki have a 'misidentified clones / imposters' section? The thread provides cultivar-history value even though it's not a Mike-clone documentation."
+    },
+    "C0415": {
+      "candidate_name": "Sarracenia oreophila var. ornata purple throat 'orange tinge'",
+      "source_thread_ids": [
+        4193
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/oreophila/var-ornata/purple-throat-orange-tinge/index.md"
+      ],
+      "split_decision": "Single Mike-bred Sand Mountain ornata selection from MK017 \u00d7 UCB cross. 12 Mike photos (2018-06 and 2018-08). Heavy veins + purple throat + orange tinge as the trap ages.",
+      "completed_at_iso": "2026-05-05T08:40:00Z",
+      "notes": ""
+    },
+    "C0416": {
+      "candidate_name": "Sarracenia flava var. rubricorpora 'ERT Recessive' Bay Co, FL",
+      "source_thread_ids": [
+        4197
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-rubricorpora/ert-recessive-bay-fl/index.md"
+      ],
+      "split_decision": "Single Mike-bred Bay Co rubricorpora \u2014 sibling of 'super extreme red throat' from a Mike (ERT \u00d7 rubricorpora) cross. Atypical immediate-red expression for a Bay Co. 9 Mike photos (2018-2019) directly of this clone. Note: post 41214 contains a long taxonomic-debate essay with photos of OTHER Bay Co rubricorporas not specific to this clone \u2014 not added to this entry's photos[].",
+      "completed_at_iso": "2026-05-05T08:55:00Z",
+      "notes": "Long-form Mike/Calen taxonomy debate preserved in the bundle; reviewer should consider whether to surface it."
+    },
+    "C0418": {
+      "candidate_name": "Sarracenia alata 'dark, bulbous, vigorous' Stone Co, MS",
+      "source_thread_ids": [
+        4215
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/alata/dark-bulbous-vigorous-stone-ms/index.md"
+      ],
+      "split_decision": "Single Stone Co, MS alata. Chameleon expression (year-over-year color/bulbousness variance). Favorite breeding parent per Mike. 20 Mike photos (2018-2023) including post-deep-freeze survival shots.",
+      "completed_at_iso": "2026-05-05T09:10:00Z",
+      "notes": ""
+    },
+    "C0419": {
+      "candidate_name": "Sarracenia flava bird bath",
+      "source_thread_ids": [
+        4218
+      ],
+      "status": "deferred-not-a-clone",
+      "wrote_to": [],
+      "split_decision": "Not a clone \u2014 a curiosity post about a hummingbird bathing in a flava lid that filled with rainwater. Wild observation note, not an accession documentation. All photos are postimg.cc and not mirrored.",
+      "completed_at_iso": "2026-05-05T09:15:00Z",
+      "notes": "Title-parser caught 'flava' as candidate; thread is on the 'Science of Sarracenia' board."
     }
   }
 }
