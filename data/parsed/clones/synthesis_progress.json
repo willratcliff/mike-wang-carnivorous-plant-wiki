@@ -3734,6 +3734,65 @@
       "wiki_path": "wiki/sarracenia/rosea/bulbous-cooks-bayou-bay-fl/index.md",
       "session": "2026-05-05",
       "notes": "rosea 'bulbous' Cook's Bayou Bay FL \u2014 extirpated wild site; cultivation-only survivor population; conservation significance."
+    },
+    "C0737": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/alata/very-yellow-harrison-ms/index.md",
+      "session": "2026-05-05",
+      "notes": "alata 'very yellow' Harrison \u2014 late-season-persistent strong-yellow alata; Mike's winter-tolerance breeding-stock category."
+    },
+    "C0738": {
+      "status": "deferred-not-a-clone",
+      "session": "2026-05-05",
+      "notes": "Thread 6076 'D. californica Burnside Creek Del Norte Co, CA' \u2014 actually a wild-site Darlingtonia survey post-fire (not Drosera; 'D.' prefix tripped the parser). Defer per cluster_gotchas wild-site pattern."
+    },
+    "C0739": {
+      "status": "done",
+      "wiki_path": "wiki/cephalotus/follicularis/wilhelma/index.md",
+      "session": "2026-05-05",
+      "notes": "Cephalotus 'Wilhelma' \u2014 Wilhelma botanical garden Stuttgart Germany origin; imported European; original-clone vs 'Wilhelma SG' selfed-seedling distinction; Mike's 150+-killed-plants Cephalotus heat-stress lesson (soil-temp <85F)."
+    },
+    "C0740": {
+      "status": "done",
+      "wiki_path": "wiki/utricularia/parthenopipes/index.md",
+      "session": "2026-05-05",
+      "notes": "U. parthenopipes \u2014 acquired via blanchetii mislabel; identity-uncertain (synonym/intermediate-form question with white-flowered blanchetii); Mike's outdoor NorCal protocol."
+    },
+    "C0741": {
+      "status": "done",
+      "wiki_path": "wiki/cephalotus/follicularis/brewers-red/index.md",
+      "session": "2026-05-04",
+      "notes": "Cephalotus 'Brewer's Red' \u2014 already written as part of C0741-pre-fix entry (regex bug split: now C0741 = single-thread Brewer's Red, thread 6079). Wiki page already at brewers-red/index.md. No new work needed."
+    },
+    "C0742": {
+      "status": "done",
+      "wiki_path": "wiki/cephalotus/follicularis/denbarker-2/index.md",
+      "session": "2026-05-05",
+      "notes": "Cephalotus Denbarker 2 (D2) \u2014 Phil Mann seed batch sister to D1/D3; possible giant (pending 6+cm trap confirmation); same shoe-shape large traps; within-plant lid-color variation."
+    },
+    "C0743": {
+      "status": "done",
+      "wiki_path": "wiki/utricularia/livida/madagascar/index.md",
+      "session": "2026-05-05",
+      "notes": "U. livida 'Madagascar' \u2014 seed-imported population (not single clone); microcalyx-flower-look question (hcarlton); temperature-driven flower color polymorphism; faint sweet fragrance (first Mike-noted Utric fragrance)."
+    },
+    "C0744": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/hybrids/lit-af/index.md",
+      "session": "2026-05-05",
+      "notes": "S. 'Lit AF' \u2014 Rob Co (Pitcher Plant Project) bred; mitchelliana AF \u00d7 luteola (per adaetz100 in thread); double-meaning name (slang + AF descriptor)."
+    },
+    "C0745": {
+      "status": "done",
+      "wiki_path": "wiki/cephalotus/follicularis/giant-charles-brewer/index.md",
+      "session": "2026-05-05",
+      "notes": "Cephalotus GIANT Charles Brewer \u2014 Charles Brewer 'typical' that Mike upgraded to giant after large-trap-on-small-tuber; possible Hummer's Giant cross (wide midrib + thicker teeth); originally called 'typical #2'."
+    },
+    "C0746": {
+      "status": "done",
+      "wiki_path": "wiki/cephalotus/follicularis/bubble-giant/index.md",
+      "session": "2026-05-05",
+      "notes": "Cephalotus 'Bubble Giant' \u2014 registered cultivar (CPN v44n2); first plant Rainbow CP 2022, lost to sudden cephalotus death syndrome; second plant ongoing; iconic Mike photo stolen by online scammer."
     }
   }
 }
