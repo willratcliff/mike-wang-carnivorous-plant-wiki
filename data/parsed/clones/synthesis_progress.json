@@ -2854,6 +2854,42 @@
       "wiki_path": "wiki/sarracenia/flava/var-rugelii/evans-ga/index.md",
       "session": "2026-05-05",
       "notes": "Conservation-significant relic Evans Co rugelii \u2014 sister population to extirpated Bulloch Co."
+    },
+    "C0588": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/flava/var-rugelii/giant-colquitt-ga/index.md",
+      "session": "2026-05-05",
+      "notes": "Same Colquitt Co source as 'Bob Hanrahan' \u2014 out-performs the registered cultivar in Mike's climate."
+    },
+    "C0589": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/flava/var-flava/montgomery-nc/index.md",
+      "session": "2026-05-05",
+      "notes": "Inland Piedmont flava population \u2014 sympatric with Montgomery venosa (C0570)."
+    },
+    "C0590": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/flava/var-atropurpurea/red-lid-dominant-okaloosa-fl/index.md",
+      "session": "2026-05-05",
+      "notes": "Okaloosa atropurpurea \u2014 lid opens red even in off years."
+    },
+    "C0591": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/hybrids/moorei-benny-wang/index.md",
+      "session": "2026-05-05",
+      "notes": "Mike-bred moorei selection \u2014 red body, white top, flava-esque shape. Named for son."
+    },
+    "C0592": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/flava/killer-2-okaloosa-fl/index.md",
+      "session": "2026-05-05",
+      "notes": "Mike-bred ERT Okaloosa flava breeding line \u2014 namesake of Brooks Garcia 'Killer'."
+    },
+    "C0593": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/flava/var-cuprea/okaloosa-fl/index.md",
+      "session": "2026-05-05",
+      "notes": "FL-type cuprea (genetically distinct from Carolina cupreas) \u2014 likely watered-down atropurpurea."
     }
   }
 }
