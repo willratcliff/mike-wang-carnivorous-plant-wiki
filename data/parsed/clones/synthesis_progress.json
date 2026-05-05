@@ -3401,6 +3401,71 @@
       "wiki_path": "wiki/sarracenia/alata/var-atrorubra/early-red-stone-ms/index.md",
       "session": "2026-05-05",
       "notes": "atrorubra 'early red' Stone \u2014 colors up earlier than population peers; like glorified 'Night' but easier."
+    },
+    "C0681": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/psittacina/var-okefenokeensis/green-giant-covington-al/index.md",
+      "session": "2026-05-05",
+      "notes": "psittacina okee 'green giant' Covington \u2014 large traps; shaded=green, full sun=red; name retained for clarity."
+    },
+    "C0682": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/alabamensis/icps-al0003-super-yellow/index.md",
+      "session": "2026-05-05",
+      "notes": "alabamensis ICPS AL0003 SUPER YELLOW \u2014 Barry Rice/UC Davis ICPS legacy clone; >99% of original distribution lost; conservation-significant."
+    },
+    "C0683": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/leucophylla/var-alba/red-veins-covington-al/index.md",
+      "session": "2026-05-05",
+      "notes": "alba 'Red Veins' Covington \u2014 alba phenotype with red venation; recently selected (2023)."
+    },
+    "C0684": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/leucophylla/pink-and-white-baldwin-al/index.md",
+      "session": "2026-05-05",
+      "notes": "leuco 'pink and white' Baldwin \u2014 more white than typical; neon pink interior post-division; light-dependent expression."
+    },
+    "C0685": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/rubra/ssp-gulfensis/purple-black-manny-herrera/index.md",
+      "session": "2026-05-05",
+      "notes": "gulfensis purple black Manny Herrera \u2014 possibly blackest gulfensis in cultivation; closest to ABG clone; horizontal lid prefered."
+    },
+    "C0686": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/montana/clone-d-transylvania-nc/index.md",
+      "session": "2026-05-05",
+      "notes": "montana clone D Transylvania \u2014 long-term cultivation survivor (~12y); color shifted over time."
+    },
+    "C0687": {
+      "status": "deferred-not-a-clone",
+      "session": "2026-05-05",
+      "notes": "Thread 5924 \u2014 'How to plant bare root Sarracenia rhizome' is a methodology / Propagation and Cultivation board guide, not a clone documentation. Defer per gotchas."
+    },
+    "C0688": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/rosea/giant-calhoun-fl-chipola-giant/index.md",
+      "session": "2026-05-05",
+      "notes": "rosea Calhoun GIANT (Chipola Giant) \u2014 multi-clone giant rosea population; rare in US; warm-climate-preferring."
+    },
+    "C0689": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/minor/var-okefenokeensis/deep-red-compact-ware-ga/index.md",
+      "session": "2026-05-05",
+      "notes": "okee 'deep red, compact' Ware \u2014 compact red minor presenting; full-sun red expression; fall/winter color in Mike's climate."
+    },
+    "C0690": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/hybrids/white-mitch-x-hcw-f/index.md",
+      "session": "2026-05-05",
+      "notes": "white mitch \u00d7 HCW F \u2014 solid-white potential, easier to color than original white Mitch; mahlon: het. for veinless."
+    },
+    "C0691": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/minor/var-minor/brantley-ga/index.md",
+      "session": "2026-05-05",
+      "notes": "Brantley Co minor population \u2014 extremely rare; reddish individual; recovered from neglect; henrymoore Lois Ochs Brantley parallel."
     }
   }
 }
