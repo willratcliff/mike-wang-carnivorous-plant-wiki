@@ -4508,6 +4508,41 @@
       "wiki_path": "wiki/sarracenia/purpurea/var-montana/aaxa-select/index.md",
       "session": "2026-05-05",
       "notes": "Thread 274 'large clone montana (Clone AA)' \u2014 already documented as the mother plant of C0717 AAxA select entry. Mother plant lost; no separate page needed for the lost plant."
+    },
+    "C0086": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/alabamensis/icps-al0002/index.md",
+      "session": "2026-05-06",
+      "notes": "alabamensis ICPS AL0002 \u2014 UC Davis B2001.074; gulfensis-comparable size; peculiar red interior; lime-green face + red-throat phenotype; ESA-restricted."
+    },
+    "C0087": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/hybrids/x-umlauftiana/index.md",
+      "session": "2026-05-06",
+      "notes": "S. x umlauftiana (purp x leuco hybrid name from 1880s+); Mike's plant tagged 'Skywatcher'; wide white shovel hood; outdoor color; rhizomatous's hypothesis: same individual passed around as the cultivar."
+    },
+    "C0088": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/hybrids/adrian-slack-cal-carn/index.md",
+      "session": "2026-05-06",
+      "notes": "Adrian Slack at California Carnivores (greenhouse-grown) \u2014 distinct from Mike's outdoor Adrian Slack accessions; single Mike-post 2012; Damon Collinsworth photo-bomb."
+    },
+    "C0089": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/oreophila/var-ornata/sand-mountain/cal-carn-multi-clone/index.md",
+      "session": "2026-05-06",
+      "notes": "ornata Sand Mountain at CalCarn \u2014 multi-clone tray photo set; kiwiearl flags possible jonesii introgression in second clone profile; CalCarn greenhouse coloration."
+    },
+    "C0090": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/hybrids/x-leo-song/index.md",
+      "session": "2026-05-06",
+      "notes": "S. x 'Leo Song' \u2014 recently registered cultivar (2012); CPN v40n4p136_140; weird lid; outdoor color holds; CalCarn-photographed."
+    },
+    "C0091": {
+      "status": "deferred-not-a-clone",
+      "session": "2026-05-06",
+      "notes": "Thread 283 'Nepenthes at California Carnivores' \u2014 collection-survey Nepenthes photo-set at CalCarn; not a Sarracenia accession. Defer per cluster_gotchas."
     }
   }
 }
