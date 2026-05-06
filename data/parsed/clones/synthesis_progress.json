@@ -125,17 +125,10 @@
       "notes": "Originally sown 1997 from seed (Mike found original tag in 2019). Other-grower images (davidgreen, shuddles) logged in photos_not_mirrored[]."
     },
     "C0109": {
-      "candidate_name": "Sarracenia psittacina 'Golfball' clone A, Wash. Co, AL",
-      "source_thread_ids": [
-        343
-      ],
-      "status": "done",
-      "wrote_to": [
-        "wiki/sarracenia/psittacina/golfball-wash-al/index.md"
-      ],
-      "split_decision": "Single clone (Mike's Clone A). 24 Mike-photos. The 'golfball' name was given by Jim Miller per a forum reply; Mike confirms the informal 'golfballensis' nickname has no taxonomic standing.",
-      "completed_at_iso": "2026-05-04T18:45:00Z",
-      "notes": "Locality ambiguity flagged: title says Wash. Co, AL but reviewer commentary points to Citronelle / Mobile Co, AL. Reviewer should resolve."
+      "status": "done-already",
+      "wiki_path": "wiki/sarracenia/psittacina/golfball-wash-al/index.md",
+      "session": "2026-05-06",
+      "notes": "Existing wiki page already references thread 343 + cluster_id C0109 (from earlier session). Logged as already-done; no new work."
     },
     "C0124": {
       "candidate_name": "Sarracenia psittacina 'Yellow flower' Okaloosa Co, FL",
@@ -4614,6 +4607,54 @@
       "wiki_path": "wiki/sarracenia/rosea/walton-co-fl-brooks-garcia/index.md",
       "session": "2026-05-06",
       "notes": "rosea N Walton Co FL (Brooks Garcia / Wilkerson property) \u2014 semi-dwarf rosea (only one Mike has known); intermediate rosea/venosa morphology; small flowers with unique chemical-tinged scent; northernmost rosea locality region."
+    },
+    "C0098": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/leucophylla/var-alba/mk-l042-mobile-al/index.md",
+      "session": "2026-05-06",
+      "notes": "leucophylla var. alba MK L042 / L42 / L14 / ipL36 Mobile Co AL \u2014 full read of 53-post thread; locality corrected from Washington Co to Mobile Co in 2018; pink-throat phenotype environment-dependent; alata-introgression evidence (yellow flower, petal/sepal shape); slow-grower with rhizome-rot susceptibility; pollen donor for Rod's favorite line."
+    },
+    "C0106": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/flava/strange-variant-cartaret-nc/index.md",
+      "session": "2026-05-06",
+      "notes": "flava 'strange variant' Cartaret Co NC \u2014 single 2012 thread, 3 posts; seed-grown from labelled var. flava but produced unusual heavy branching veins; same batch yielded var. maxima individuals; Mike speculates rubra ssp. rubra introgression; no follow-up data."
+    },
+    "C0107": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/rubra/ssp-wherryi/best-clone/index.md",
+      "session": "2026-05-06",
+      "notes": "rubra ssp. wherryi 'best clone' \u2014 Mike acquired late 1990s from California Carnivores; presumed Bob Hanrahan provenance; almost-2-foot tall, bronze tinge, pure dark-red flowers, dual spring + fall flush. Near-loss event pre-2020 recovered. 2024 splotchy-red phenotype documented."
+    },
+    "C0108": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/alata/f-viridescens-washington-al/index.md",
+      "session": "2026-05-06",
+      "notes": "alata f. viridescens (anthocyanin-free) Washington Co AL \u2014 wild site at risk from road construction (jlechtm 2013); broadly distributed by 2014 (Meadowview production stock); lemon-yellow trap color; heavy nectar production; dwarfish habit (alexis 2024); selfed offspring resemble alata \u00d7 flava, suggesting hidden genetic complexity."
+    },
+    "C0110": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/leucophylla/conecuh-red/index.md",
+      "session": "2026-05-06",
+      "notes": "leucophylla 'Conecuh red' \u2014 Conecuh National Forest, southern AL (county not pinned). Acquired 2012 as small division; bright-white panel + heavy red below; circular white blobs distinctive; fall traps dominate over spring. rhizomatous (2014) confirmed broader Conecuh-NF red trend."
+    },
+    "C0111": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/flava/var-cuprea/bill-hoyer/index.md",
+      "session": "2026-05-06",
+      "notes": "flava var. cuprea 'Bill Hoyer' (ex CC) \u2014 California Carnivores stock since 1990s, named for Bill Hoyer (Mike's childhood friend, now Cornell-trained scientist on a CA offshore island per Mike 2019). Mike's 1980s-Hanrahan origin guess unverified. Damon's assessment: best cuprea in cultivation. 2018 essay defending cuprea designation despite cold-spring red-body variability. 2025 update: 2.5'+ traps."
+    },
+    "C0112": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/alabamensis/chilton-al/index.md",
+      "session": "2026-05-06",
+      "notes": "alabamensis Chilton Co AL \u2014 wild population extirpated; ESA-restricted distribution. Multi-clone-locality entry: Mike's longtime clone (~1995 acquisition) + 2021-acquired 'original' clone (2.5' wild height, lemon yellow). Mike (2023): may be 2 clones in collection but unsure. Wide-mouth phenotype is the population's distinctive trait; jdallas notes this is the population in Adrian Slack's 1979 Carnivorous Plants book."
+    },
+    "C0113": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/hybrids/reptilian-rose/index.md",
+      "session": "2026-05-06",
+      "notes": "Sarracenia 'Reptilian Rose' \u2014 Phil Faulisi (philcula) registered hybrid; oreophila Sand Mtn \u00d7 'Royal Ruby'. Heavily kinked zig-zag lid + rose-scented lids (perception variable across growers \u2014 Mike attributes to genetic anosmia for the specific aroma compound). Pollen production not strictly sterile but very difficult; Phil Faulisi's 4-step refrigeration/warm-frame/pencil-tap protocol works. Widely used as parent for downstream hybrids."
     }
   }
 }
