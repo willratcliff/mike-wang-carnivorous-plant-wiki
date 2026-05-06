@@ -85,6 +85,10 @@ source_threads:
   - thread_id: 367
     url: "https://sarracenia.proboards.com/thread/367/minor-anthocyanin-free"
     role: "primary"
+  - thread_id: 644
+    url: "https://sarracenia.proboards.com/thread/644/minor-anthocyanin-free"
+    role: "update"
+    note: "April-May 2013 thread. Phil Sheridan (post #2, 2013-04-29) provides the same F1/F2-history confirmation as in thread 367 post #25 (2019), but six years EARLIER — establishing that the Bockowski / Meadowview lineage was already publicly disclosed in 2013. Sheridan adds: 'Sheridan, P. and W. Scholl. 1996. Noteworthy Sarracenia collections II. Carnivorous Plant Newsletter 25: 19-23' as the original published discovery citation. Mike (post #1) initially speculated 'okee giant genes' might explain abnormal early size; Sheridan corrects with formal F1/F2 explanation. Mike (post #5) notes Phil Sheridan/Meadowview's 'squirrel war' — a Roundup-armed squirrel-loving neighbor set the program back ten years and thousands of plants/seedlings."
 
 photos_not_mirrored:
   - source_post_id: 47005
@@ -296,6 +300,7 @@ review:
     - "How does the F2 segregation pattern explain the size variability? A back-cross or sibling cross between okee-like and standard-size F2s might stabilize either phenotype."
     - "Did Mike or other growers ever cross AF minor × pure okee giant (adaetz100's 2020 plan)? Any taller AF F1 hybrids in cultivation now?"
     - "Is there a pure (non-okee-introgressed) green-minor still in cultivation, or are all current AF minors descended from the Bockowski F1/F2 line?"
+    - "Original CPN citation for the green-minor discovery: Sheridan, P. and W. Scholl. 1996. Noteworthy Sarracenia collections II. CPN 25: 19-23."
 ---
 
 # Sarracenia minor f. viridescens (anthocyanin-free) — Bockowski-Sheridan F1/F2 line

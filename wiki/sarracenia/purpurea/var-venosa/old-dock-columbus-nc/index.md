@@ -38,6 +38,10 @@ source_threads:
   - thread_id: 224
     url: "https://sarracenia.proboards.com/thread/224/purp-venosa-columbus-nc-updated"
     role: "primary"
+  - thread_id: 632
+    url: "https://sarracenia.proboards.com/thread/632/purpurea-ssp-venosa-columbus-nc"
+    role: "update"
+    note: "Second Mike-thread on the same population. April-July 2013 documentation continues; July 2022 reports Mike LOST the entire population in his 2014 move and recovered ~10 plants in 2022 from 11-year-old refrigerator-stored seed (out of hundreds sown)."
 
 photos:
   - path: "5e/5ec94efe16326c2a75a8efd80ada4d67863b70ba6e7a76b47bbda50f1194f0ae.jpg"
@@ -75,6 +79,86 @@ photos:
     photographer: "Mike Wang"
     source_post_id: 1598
     favorite: false
+  - path: "57/57d084b10830b2a14a5e0a0043fc270d7b93950c13b06c666c0fb31cc3081201.jpg"
+    caption: "Old Dock venosa — multi-clone batch shot, 2013-07-26"
+    photographer: "Mike Wang"
+    source_post_id: 3327
+    favorite: false
+  - path: "17/17bc64850cce222a61b736ce3f63ada1bac6b7c90d52836ffd64099d1fb90dd9.jpg"
+    caption: "Old Dock venosa, 2013-07-26"
+    photographer: "Mike Wang"
+    source_post_id: 3327
+    favorite: false
+  - path: "21/21e75630b0397542128c79118099f94323163f683f0be4d8988595cb65d3448e.jpg"
+    caption: "Old Dock venosa, 2013-07-26"
+    photographer: "Mike Wang"
+    source_post_id: 3327
+    favorite: false
+  - path: "5d/5da2e850d27aca90c8ca95bb1535d4d1b4b2a2ef7133713f5fed8604eaa3f091.jpg"
+    caption: "Old Dock venosa, 2013-07-26"
+    photographer: "Mike Wang"
+    source_post_id: 3327
+    favorite: false
+  - path: "57/5773a37fdb2794782fcd178280f5b975f30694ad0da80f6e0c61ad03c953b290.jpg"
+    caption: "Old Dock venosa, 2013-07-26"
+    photographer: "Mike Wang"
+    source_post_id: 3327
+    favorite: false
+  - path: "5a/5aac9d39f6b77d78afde8160c429ab5f852ddae7a36b1583166e72cbe96718ae.jpg"
+    caption: "Old Dock venosa, 2013-07-26"
+    photographer: "Mike Wang"
+    source_post_id: 3327
+    favorite: false
+  - path: "45/4593fc3e993a3b7b59f2e5e9dc9a718e19b0a453dfe4d01f1ede1ed4d24b4df1.jpg"
+    caption: "Old Dock venosa, 2013-07-26"
+    photographer: "Mike Wang"
+    source_post_id: 3327
+    favorite: false
+  - path: "8a/8a1c4301829ed8b33abb5d422e1aa6ab50a3624cdb09c1d132091ea06e526278.jpg"
+    caption: "Old Dock venosa, 2013-07-26"
+    photographer: "Mike Wang"
+    source_post_id: 3327
+    favorite: false
+  - path: "07/0766cb1be245563df0cf6729809e0b1662c5631e37a7b9f65077fab63b8faabe.jpg"
+    caption: "Old Dock venosa, 2013-07-26"
+    photographer: "Mike Wang"
+    source_post_id: 3327
+    favorite: false
+  - path: "4f/4fe21b566f3683adc75efb48de50644f43cad95a4cf2e6fddc3489a29b8c17c5.jpg"
+    caption: "Old Dock venosa, 2013-07-26"
+    photographer: "Mike Wang"
+    source_post_id: 3327
+    favorite: false
+  - path: "56/5627c0c67159f2e01ef1f8e6be7b879dbdeb38605ff3a4f6a93102c8d8605328.jpg"
+    caption: "Old Dock venosa, 2013-07-26"
+    photographer: "Mike Wang"
+    source_post_id: 3327
+    favorite: false
+  - path: "d1/d197aaf9152f982b0dba531e5f64995ccda288cb01041bc1719e2af30afa8abe.jpg"
+    caption: "Old Dock venosa, 2013-07-26"
+    photographer: "Mike Wang"
+    source_post_id: 3327
+    favorite: false
+  - path: "40/402edc9c41d38ec9be92c522a553286f24bab97a3bd1ee3535e384e27c2a8834.jpg"
+    caption: "Old Dock venosa, 2013-07-26"
+    photographer: "Mike Wang"
+    source_post_id: 3327
+    favorite: false
+  - path: "31/311314c79bf559b4679eff6041b172ccfbe6d933067a8f51fc81124c9bb6c298.jpg"
+    caption: "Old Dock venosa, 2013-07-26"
+    photographer: "Mike Wang"
+    source_post_id: 3327
+    favorite: false
+  - path: "7c/7c5d75fb8fbdfcc81c6bcb7eaf46579ae5383cb2ee19bc9339853eb7fc5ed687.jpg"
+    caption: "Old Dock venosa — 2022-07-20, regrown from 11-year-old refrigerator-stored seed after the 2014-move loss"
+    photographer: "Mike Wang"
+    source_post_id: 48606
+    favorite: true
+  - path: "6b/6b64fb625d9764a05b836a88ed174452c77c4b01c41c085738023c7c8fdbdbcf.jpg"
+    caption: "Old Dock venosa — 2022-07-20, post-recovery"
+    photographer: "Mike Wang"
+    source_post_id: 48606
+    favorite: false
 
 review:
   ai_extracted_by: "Claude (Claude Code session, 2026-05-05)"
@@ -84,9 +168,9 @@ review:
   human_reviewer: null
   human_corrections: []
   open_questions:
-    - "Is the Old Dock Columbus Co venosa population still in Mike's collection in 2026? Last thread post is 2012-09-26."
-    - "Has Mike documented this population in another thread post-2012?"
-    - "Any individual standouts that should be split into named-clone entries?"
+    - "Recovered population (2022) regenerated from 11-year-old seed — how genetically representative is it of the pre-loss population?"
+    - "Are the named lettered clones (Clone H, Clone I — entries C0146, C0147) part of the pre-2014 collection or part of the 2022-recovered batch?"
+    - "Out of hundreds of seeds sown only ~10 germinated — what's the recovered-clone count today?"
 ---
 
 # Sarracenia purpurea ssp. venosa Old Dock, Columbus Co, NC — population

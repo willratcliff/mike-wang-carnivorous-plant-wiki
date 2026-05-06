@@ -4906,6 +4906,122 @@
       "wiki_path": "wiki/sarracenia/flava/var-rubricorpora/clone-g-liberty-fl/index.md",
       "session": "2026-05-06",
       "notes": "rubricorpora 'Clone G' Liberty Co FL \u2014 Mike's lettered series; well-defined red neck blotch; red lid creep with age. Mike's general rubricorpora observation: lids accumulate red as pitchers age. All thread photos are broken Photobucket links \u2014 no mirrored gallery."
+    },
+    "C0157": {
+      "candidate_name": "Sarracenia flava var. cuprea 'Clone A' Brunswick Co, NC",
+      "source_thread_ids": [
+        630
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-cuprea/clone-a-brunswick-nc/index.md"
+      ],
+      "completed_at_iso": "2026-05-07T00:10:00Z"
+    },
+    "C0158": {
+      "candidate_name": "Sarracenia flava var. ornata 'black veins' Clone E Bulloch Co, GA",
+      "source_thread_ids": [
+        631
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-ornata/black-veins-bulloch-ga-clone-e/index.md"
+      ],
+      "split_decision": "Sibling clone-page within the existing Bulloch-GA black-veins population (C0077). Clone E is the heaviest-veined and slowest-growing individual.",
+      "completed_at_iso": "2026-05-07T00:15:00Z"
+    },
+    "C0159": {
+      "candidate_name": "Sarracenia purpurea ssp. venosa Old Dock, Columbus Co, NC (augmentation)",
+      "source_thread_ids": [
+        632
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/purpurea/var-venosa/old-dock-columbus-nc/index.md"
+      ],
+      "split_decision": "Augmentation of existing C0049 population entry. Added 16 new Mike photos + the 2014-loss / 2022-seed-recovery story (population recovered from 11-year-old refrigerator-stored seed).",
+      "completed_at_iso": "2026-05-07T00:20:00Z"
+    },
+    "C0160": {
+      "candidate_name": "Sarracenia flava var. ornata Walton Co, FL \u2014 population",
+      "source_thread_ids": [
+        633
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-ornata/walton-co-fl-population/index.md"
+      ],
+      "split_decision": "Multi-clone population entry. Mike has 'several hundred plants' from this locality; thread documents 16 posts of selections covering chameleon-throat, cut-throat, rubricorpora-like body-red, and lid-shape variation. ~80 photos from 2014-2024.",
+      "completed_at_iso": "2026-05-07T00:30:00Z"
+    },
+    "C0161": {
+      "candidate_name": "Sarracenia flava var. rugelii 'copper tinge' MK F17 Milton, Santa Rosa Co, FL",
+      "source_thread_ids": [
+        634
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-rugelii/copper-tinge-mk-f17-milton-fl/index.md"
+      ],
+      "completed_at_iso": "2026-05-07T00:35:00Z"
+    },
+    "C0162": {
+      "candidate_name": "Sarracenia flava var. rugelii Ben Hill Co, GA",
+      "source_thread_ids": [
+        635
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-rugelii/ben-hill-co-ga/index.md"
+      ],
+      "completed_at_iso": "2026-05-07T00:40:00Z"
+    },
+    "C0163": {
+      "candidate_name": "Sarracenia flava var. rubricorpora Clone C Liberty Co, FL (augmentation)",
+      "source_thread_ids": [
+        636
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-rubricorpora/clone-c-liberty-fl/index.md"
+      ],
+      "split_decision": "Augmentation of existing C0549 entry. Thread 636 is the original 2013 introduction + 2026 update (4 new photos); reordered as primary with thread 5212 demoted to update role.",
+      "completed_at_iso": "2026-05-07T00:45:00Z"
+    },
+    "C0164": {
+      "candidate_name": "Sarracenia flava 'Extreme Red Throat' (ERT) Bay Co, FL \u2014 and Super ERT",
+      "source_thread_ids": [
+        638
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/extreme-red-throat-bay-fl/index.md"
+      ],
+      "split_decision": "Single cultivar-group entry covering the ERT multi-clone population + Super ERT (SERT) named selection + ERT select. 90-post thread (2013-2024), 100+ photos integrated. Did NOT split into per-clone child pages because Mike's selections still flow within a single integrated narrative; future split possible. Mike's 2017 Killer x rugelii Clone A cross result is documented as evidence for the moorei/atropurpurea introgression hypothesis.",
+      "completed_at_iso": "2026-05-07T01:30:00Z"
+    },
+    "C0165": {
+      "candidate_name": "Sarracenia minor anthocyanin-free / viridescens (augmentation)",
+      "source_thread_ids": [
+        644
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/minor/var-minor/anthocyanin-free/index.md"
+      ],
+      "split_decision": "Augmentation of existing C0121 entry. Thread 644 (April 2013) contains Phil Sheridan's earlier (vs C0121's 2019) public confirmation of the F1/F2 history and the original CPN 1996 citation (Sheridan + Scholl, CPN 25:19-23). Also adds Mike's 'squirrel war' note about Sheridan's Roundup-armed squirrel-loving neighbor setting Meadowview's program back ten years.",
+      "completed_at_iso": "2026-05-07T01:35:00Z"
+    },
+    "C0166": {
+      "candidate_name": "Sarracenia flava var. rugelii 'Giant' Thomas Co, GA (Dean Cook origin)",
+      "source_thread_ids": [
+        645
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-rugelii/giant-thomas-co-ga/index.md"
+      ],
+      "completed_at_iso": "2026-05-07T01:40:00Z"
     }
   }
 }
