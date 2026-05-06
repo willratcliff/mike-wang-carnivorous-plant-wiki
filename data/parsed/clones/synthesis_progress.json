@@ -5140,6 +5140,121 @@
       ],
       "split_decision": "Augmentation of existing C0009 entry. Thread 684 is Clone-S-specific 2013-05-27 thread with single Mike post + giant-trap archival photo. Added kiwiearl's note about the upward-flaring terminal hood \u2014 distinctive trait absent in kiwiearl's other Ware Co clones.",
       "completed_at_iso": "2026-05-07T03:10:00Z"
+    },
+    "C0178": {
+      "candidate_name": "Sarracenia flava var. rubricorpora Clone M Liberty Co, FL",
+      "source_thread_ids": [
+        685
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-rubricorpora/clone-m-liberty-fl/index.md"
+      ],
+      "completed_at_iso": "2026-05-07T03:30:00Z"
+    },
+    "C0179": {
+      "candidate_name": "Sarracenia flava var. cuprea 'Lois clone' (Lois Ochs / Raccoon Ridge Nursery)",
+      "source_thread_ids": [
+        686
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-cuprea/lois-clone/index.md"
+      ],
+      "completed_at_iso": "2026-05-07T03:45:00Z"
+    },
+    "C0180": {
+      "candidate_name": "Sarracenia minor var. okefenokeensis Clone J 'red windows' Ware Co, GA (augmentation)",
+      "source_thread_ids": [
+        689
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/minor/var-okefenokeensis/clone-j-n-s-ware-ga/index.md"
+      ],
+      "split_decision": "Augmentation of existing C0009 J/N/S entry. Thread 689 is Clone-J-'red-windows'-specific (single 2013-05-27 Mike post, all photobucket-only).",
+      "completed_at_iso": "2026-05-07T03:50:00Z"
+    },
+    "C0181": {
+      "candidate_name": "Sarracenia minor var. okefenokeensis 'Clone Q' Ware Co, GA",
+      "source_thread_ids": [
+        693
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/minor/var-okefenokeensis/clone-q-ware-ga/index.md"
+      ],
+      "completed_at_iso": "2026-05-07T03:55:00Z"
+    },
+    "C0182": {
+      "candidate_name": "Sarracenia x Leo Song (augmentation, Mike's own thread)",
+      "source_thread_ids": [
+        704
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/hybrids/x-leo-song/index.md"
+      ],
+      "split_decision": "Augmentation of existing C0090 entry. Thread 704 is Mike's own Leo Song thread (2013-2022) including his candid 'doesn't quite produce that amazing hood for me' note + adaetz100's 'big red head of lettuce' 2022 expression. Forum-user breeding-discussion captured (Damon Collingsworth's Bulloch flava ornata cross + planned Adrian Slack cross + dpowell's rosea-cross suggestion).",
+      "completed_at_iso": "2026-05-07T04:00:00Z"
+    },
+    "C0183": {
+      "candidate_name": "Sarracenia oreophila 'purple throat' MK O12",
+      "source_thread_ids": [
+        771
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/oreophila/purple-throat-mk-o12/index.md"
+      ],
+      "completed_at_iso": "2026-05-07T04:05:00Z"
+    },
+    "C0184": {
+      "candidate_name": "Sarracenia montana 'Clone BB' (sibling of Clone AA)",
+      "source_thread_ids": [
+        807
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/montana/clone-bb/index.md"
+      ],
+      "completed_at_iso": "2026-05-07T04:10:00Z"
+    },
+    "C0185": {
+      "candidate_name": "Sarracenia montana 'Clone #1' Transylvania Co, NC (taco lid)",
+      "source_thread_ids": [
+        809
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/montana/clone-1-transylvania-nc/index.md"
+      ],
+      "split_decision": "Single-clone entry. Documents Mike's most morphologically-variable montana \u2014 taco / bulbous / pointed-closed / red-body expressions all from the same plant. Captures Mike's broader montana red-body framework (post #21, 2026): every montana clone can produce the red-body expression under filtered light or reduced full-sun hours.",
+      "completed_at_iso": "2026-05-07T04:25:00Z"
+    },
+    "C0186": {
+      "candidate_name": "Sarracenia montana Transylvania Co, NC population (augmentation, assortment-of-clones thread)",
+      "source_thread_ids": [
+        815
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/purpurea/var-montana/transylvania-nc-population-2012/index.md"
+      ],
+      "split_decision": "Augmentation of existing C0024 population entry. Thread 815 is Mike's 2013-07-21 multi-clone summary. New provenance fact: Wes Buckner contributed at least one Transylvania-Co montana clone to Mike's collection.",
+      "completed_at_iso": "2026-05-07T04:30:00Z"
+    },
+    "C0187": {
+      "candidate_name": "Sarracenia minor Old Dock Columbus Co, NC Clone A (augmentation)",
+      "source_thread_ids": [
+        820
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/minor/var-minor/old-dock-columbus-nc/index.md"
+      ],
+      "split_decision": "Augmentation of existing C0053 Old Dock minor population entry. Thread 820 is Clone-A-specific (Mike: 'most standard selection from this group'). Added 7 Mike 2013 photos + 3 Mike 2014 photos. wireman in-situ note: some Old Dock minors are 18\" tall in the wild \u2014 massive for non-okees.",
+      "completed_at_iso": "2026-05-07T04:35:00Z"
     }
   }
 }

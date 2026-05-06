@@ -38,6 +38,10 @@ source_threads:
   - thread_id: 230
     url: "https://sarracenia.proboards.com/thread/230/minor-var-old-dock-columbus"
     role: "primary"
+  - thread_id: 820
+    url: "https://sarracenia.proboards.com/thread/820/minor-old-dock-columbus-clone"
+    role: "update"
+    note: "Clone-A-specific 2013-2014 thread. Mike (post #1, 2013-07-26): 'Clone A is the most standard selection from this group. These traps are pretty short, and don't get much taller than a foot... symmetrical, fat traps with a great set of regular windows. The head or lid has a deep copper color.' wireman (post #6, 2013-10-04) reports in-situ visit: some Old Dock minors are 18\" tall — massive for non-okees. Mike (post #9) confirms a single ~12\" trap seen in NE Georgia. wireman also references a Lowndes Co, GA minor that throws 19\" traps."
 
 photos:
   - path: "9e/9eac1dbc46d2d36092941471a3e3ad75caf16f7ded5359c12b17b9d57e5912b2.jpg"
@@ -49,6 +53,56 @@ photos:
     caption: "Clone A, 2012-06-10"
     photographer: "Mike Wang"
     source_post_id: 1041
+    favorite: false
+  - path: "00/005ae817768640cffaaa25f7319bfcaa3228f9e3cef14e42cdafa8377908cbed.jpg"
+    caption: "Clone A — 'most standard selection' with copper-lid + symmetrical fat traps, 2013-07-26"
+    photographer: "Mike Wang"
+    source_post_id: 3315
+    favorite: true
+  - path: "60/606343d6673cfae509497ebabd2aab7c402a320a1709dff0ae3af30e44234268.jpg"
+    caption: "Clone A — 2013-07-26"
+    photographer: "Mike Wang"
+    source_post_id: 3315
+    favorite: false
+  - path: "05/054be869b7d0ebc52105202311c6ab80465e7a97c7d855bc3ce0e9d38dc922aa.jpg"
+    caption: "Clone A — 2013-07-26"
+    photographer: "Mike Wang"
+    source_post_id: 3315
+    favorite: false
+  - path: "52/526e977ffef707a51f6fb572331efdcdd68fd291c49a303f6a41f02387324d39.jpg"
+    caption: "Clone A — 2013-07-26"
+    photographer: "Mike Wang"
+    source_post_id: 3315
+    favorite: false
+  - path: "97/97cdd0c60b1f9cf195f0a2a4ea5d078fa9bf9748e86bb8fec2dfbc03e2197f69.jpg"
+    caption: "Clone A — 2013-07-26"
+    photographer: "Mike Wang"
+    source_post_id: 3315
+    favorite: false
+  - path: "66/66dbfc014ecbe867f2e34d95f939901d2e19a6fa139d533c0597bbba36aca878.jpg"
+    caption: "Clone A — 2013-07-26"
+    photographer: "Mike Wang"
+    source_post_id: 3315
+    favorite: false
+  - path: "fb/fbc49a1ed7f6a481fc1d6f2896d09b076b51be254bf70933e2d4cb7535dafd15.jpg"
+    caption: "Clone A — 2013-07-26"
+    photographer: "Mike Wang"
+    source_post_id: 3315
+    favorite: false
+  - path: "95/95515c6b9692d137c2b7032bd72345329ae68a2b0f924ddac76702b082095184.jpg"
+    caption: "Clone A — 2014-07-14"
+    photographer: "Mike Wang"
+    source_post_id: 9207
+    favorite: false
+  - path: "39/395f83b7826c88cdf4f897e8dff12e10cef9f7047c313920ac7111ddf68dd7e1.jpg"
+    caption: "Clone A — 2014-07-14"
+    photographer: "Mike Wang"
+    source_post_id: 9207
+    favorite: false
+  - path: "af/afaddecdd5a81d94360bda0c9c1478528bfcfa7ad6ef35ca1ef0d18a83d8dfe1.jpg"
+    caption: "Clone A — 2014-07-14"
+    photographer: "Mike Wang"
+    source_post_id: 9207
     favorite: false
   - path: "ac/acad33ebcd3df23da4dd26c700eee3f08982808160791d44c345bb0bc41c5cda.jpg"
     caption: "Pink-windowed clone, 2012-06-10"

@@ -59,6 +59,10 @@ source_threads:
     url: "https://sarracenia.proboards.com/thread/213/montana-5-10-12"
     role: "photos"
     note: "2012-05-10 multi-clone photo set documenting the same Transylvania population — augmented from cluster C0038."
+  - thread_id: 815
+    url: "https://sarracenia.proboards.com/thread/815/assortment-clones-montana"
+    role: "update"
+    note: "2013-07-21 'assortment of clones' multi-clone photo thread — Mike walks through Wes Buckner's Transylvania clone, Clone AA (with brilliant fall color, fast growing, large clump-forming), Clone BB (relative of AA), and an unidentified venosa-like-trap-on-montana phenotype. Cross-population summary thread; complements Clone-#1 (C0185) and Clone-BB (C0184) per-clone entries. New provenance fact: Wes Buckner contributed at least one Transylvania-Co montana clone to Mike's collection."
 
 photos:
   - path: "12/12be5e3ebb1136a6ed306b59b0d9e2f48d39f81ad0f32a764b95c465aaa2577a.jpg"

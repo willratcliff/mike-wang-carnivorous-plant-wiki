@@ -57,6 +57,10 @@ source_threads:
     url: "https://sarracenia.proboards.com/thread/684/minor-var-okefenokeensis-ware-clone"
     role: "update"
     note: "Clone-S-specific thread, 2013-05-27. Mike (post #1): 'great looking clone that's fast growing. It has historically produced giant traps for me, although this year, they're just large. I transplanted this one last year, so it took a year to recover, and now that it's growing at full speed, I bet next year, it'll produce gigantic traps.' kiwiearl (post #2) flags an unusual feature — the terminal end of the hood flares upwards: 'I find that slight deviation from the standard hood form really attractive. It's really distinct.' This trait absent in kiwiearl's other Ware Co clones."
+  - thread_id: 689
+    url: "https://sarracenia.proboards.com/thread/689/minor-okefenokeensis-ware-cln-windows"
+    role: "update"
+    note: "Clone-J-'red windows'-specific thread, 2013-05-27. Mike (post #1): 'The windows on this clone are consistently either edged with red, or are completely red. Other minor giant clones in the collection do get red windows as well, but they don't seem to have red pigments in the windows consistently.' Photobucket gallery + 1 broken flickr image."
 
 photos:
   - path: "2e/2e38215253ea96e4a08f7f37ed0252357a729250d903e9753f0c764ceaf1305f.jpg"
