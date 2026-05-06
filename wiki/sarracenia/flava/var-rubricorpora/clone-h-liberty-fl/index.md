@@ -44,8 +44,32 @@ source_threads:
   - thread_id: 206
     url: "https://sarracenia.proboards.com/thread/206/flava-var-rubricorpora-liberty-clone"
     role: "primary"
+  - thread_id: 1304
+    url: "https://sarracenia.proboards.com/thread/1304/flava-var-rubricorpora-liberty-clone"
+    role: "update"
+    note: "2014-05-04 single-Mike-post update. Mike: 'really neat clone that is very popular and in crazy high demand. Fortunately, it makes divisions readily, forms nice clumps... the intensity of the red body color isn't as dominant in this clone as in other clones from the same population, it still can produce some excellent colors. Another plus is unlike many of the other rubricorpora clones, the lid on this one doesn't seem to turn solid red as easily, so it maintains that nice yellow/red contrast, even as the pitcher ages.'"
 
 photos:
+  - path: "a8/a8cdb484cbb3966d865c1648d3e0d2b9110c265e50664034233b594f63376852.jpg"
+    caption: "Clone H, 2014-05-04 (yellow/red lid contrast preserved with age)"
+    photographer: "Mike Wang"
+    source_post_id: 7281
+    favorite: true
+  - path: "42/423fa3b1f6a31e60989fd7bb1cacf24a5458e74d1898e3dc2e7b2827a6922fc4.jpg"
+    caption: "Clone H, 2014-05-04"
+    photographer: "Mike Wang"
+    source_post_id: 7281
+    favorite: false
+  - path: "4e/4e15625f5b09da362d046219bc4f7faa1f1a3a8ac64e8e74116aacb9267ea85e.jpg"
+    caption: "Clone H, 2014-05-04"
+    photographer: "Mike Wang"
+    source_post_id: 7281
+    favorite: false
+  - path: "f0/f0bf15d7919d068c0c05db7f8a13c313b3d5e0da83670ab72c03ba1c04f40240.jpg"
+    caption: "Clone H, 2014-05-04"
+    photographer: "Mike Wang"
+    source_post_id: 7281
+    favorite: false
   - path: "a1/a1838aea263ae2bf2626a186f6ce5f0abc32a35055b839a53552f2eece661f82.jpg"
     caption: "Clone H, 2012-05"
     photographer: "Mike Wang"

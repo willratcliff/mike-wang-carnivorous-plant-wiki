@@ -48,6 +48,10 @@ source_threads:
   - thread_id: 50
     url: "https://sarracenia.proboards.com/thread/50/flava-var-rugelii-lots-plants"
     role: "primary"
+  - thread_id: 1241
+    url: "https://sarracenia.proboards.com/thread/1241/flava-var-rugelii-clone"
+    role: "update"
+    note: "Dedicated A × B thread, 2014-04. Mike's clone-A and clone-B parent descriptions: Clone A 'best clone' (shapely, fast-growing, well-pronounced red throat, fat neck, consistent large traps); Clone B (slower-growing but shapely, well-developed red throat, distinctive skinny neck). The A × B individual has Clone A vigor + Clone B look — 'best of both worlds.'"
 
 photos:
   - path: "44/447a628b99eda4a1e530860be94ee669c5310c8043e46f8bb3c41eba39296ff1.jpg"

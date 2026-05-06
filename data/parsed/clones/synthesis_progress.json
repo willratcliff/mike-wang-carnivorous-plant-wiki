@@ -5609,6 +5609,117 @@
       "status": "deferred-not-a-clone",
       "split_decision": "Wild-site documentation thread (board 26). Defer per cluster_gotchas.",
       "completed_at_iso": "2026-05-07T07:52:00Z"
+    },
+    "C0226": {
+      "candidate_name": "Darlingtonia californica 'The ponds' Del Norte Co, CA (in the wild)",
+      "source_thread_ids": [
+        970
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "Wild-site documentation thread (Carnivores board, in-situ documentation). Defer per cluster_gotchas.",
+      "completed_at_iso": "2026-05-07T08:00:00Z"
+    },
+    "C0227": {
+      "candidate_name": "Sarracenia x mitchelliana Baldwin Co, AL \u2014 population (multi-clone)",
+      "source_thread_ids": [
+        971
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/hybrids/x-mitchelliana-baldwin-al-population/index.md"
+      ],
+      "split_decision": "Major multi-clone hybrid population entry. Documents 'white mitch' chameleon clone (capable of nearly solid white), 'neon pink' (separate entry C0677), 'giant', and 'reddish' clones. 27-post thread. Mike's selected breeding line for stable white expression captured.",
+      "completed_at_iso": "2026-05-07T08:30:00Z"
+    },
+    "C0228": {
+      "candidate_name": "Darlingtonia californica 'LEH' Del Norte Co, CA (in the wild)",
+      "source_thread_ids": [
+        972
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "Wild-site documentation thread. Defer per cluster_gotchas.",
+      "completed_at_iso": "2026-05-07T08:31:00Z"
+    },
+    "C0229": {
+      "candidate_name": "Sarracenia leucophylla Washington Co, AL 2014 update (in the wild)",
+      "source_thread_ids": [
+        978
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "Wild-site documentation thread (board 26). Defer per cluster_gotchas.",
+      "completed_at_iso": "2026-05-07T08:32:00Z"
+    },
+    "C0230": {
+      "candidate_name": "Sarracenia oreophila Cherokee Co, AL \u2014 population",
+      "source_thread_ids": [
+        1223
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/oreophila/cherokee-co-al-population/index.md"
+      ],
+      "split_decision": "Multi-clone population entry. ESA-listed species. 35-post thread, 2014-present. Long juvenile period documented.",
+      "completed_at_iso": "2026-05-07T08:35:00Z"
+    },
+    "C0231": {
+      "candidate_name": "Sarracenia flava var. rugelii Clone A x Clone B (augmentation)",
+      "source_thread_ids": [
+        1241
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-rugelii/clone-a-x-clone-b-seedlings/index.md"
+      ],
+      "split_decision": "Augmentation of existing C0013 entry. Thread 1241 is dedicated A x B documentation with detailed parent-clone descriptions (Clone A 'best clone' fast/large/fat-neck; Clone B slower/shapelier/skinny-neck) \u2014 'best of both worlds' phenotype.",
+      "completed_at_iso": "2026-05-07T08:40:00Z"
+    },
+    "C0233": {
+      "candidate_name": "Sarracenia flava var. cuprea 'Chocolate Top' (Jerry Addington)",
+      "source_thread_ids": [
+        1270
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-cuprea/chocolate-top/index.md"
+      ],
+      "split_decision": "New entry. Jerry Addington / Courting Frogs Nursery flagship cuprea cultivar. Yellowish-green body + dark coppery 'chocolate' lid. Color holds through season.",
+      "completed_at_iso": "2026-05-07T08:45:00Z"
+    },
+    "C0234": {
+      "candidate_name": "Sarracenia 'Alucard Prince of Darkness' (POD, Phil Faulisi)",
+      "source_thread_ids": [
+        1288
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/hybrids/alucard-prince-of-darkness/index.md"
+      ],
+      "split_decision": "Major cultivar entry. Phil Faulisi select-clone hybrid; capable of 40-inch dark-purple-red pitchers in large-pot/undivided/greenhouse culture. Distinguished from sibling Alucard Select (C0469).",
+      "completed_at_iso": "2026-05-07T08:50:00Z"
+    },
+    "C0235": {
+      "candidate_name": "Sarracenia x naczii Liberty Co, FL",
+      "source_thread_ids": [
+        1303
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/hybrids/x-naczii-liberty-fl/index.md"
+      ],
+      "split_decision": "New entry. True-to-locality natural-hybrid (rosea x rugelii, Liberty Co FL); multi-clone diversity including 'really deep red' standout.",
+      "completed_at_iso": "2026-05-07T08:55:00Z"
+    },
+    "C0236": {
+      "candidate_name": "Sarracenia flava var. rubricorpora Clone H Liberty Co, FL (augmentation)",
+      "source_thread_ids": [
+        1304
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-rubricorpora/clone-h-liberty-fl/index.md"
+      ],
+      "split_decision": "Augmentation of existing C0032 entry. Thread 1304 is the 2014-05-04 single-Mike-post detailed description: 'crazy high demand, divisions readily, nice clumps' + the lid-yellow-red-contrast-preservation distinguishing trait. Added 4 photos.",
+      "completed_at_iso": "2026-05-07T09:00:00Z"
     }
   }
 }
