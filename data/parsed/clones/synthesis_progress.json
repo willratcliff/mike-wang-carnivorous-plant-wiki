@@ -4543,6 +4543,77 @@
       "status": "deferred-not-a-clone",
       "session": "2026-05-06",
       "notes": "Thread 283 'Nepenthes at California Carnivores' \u2014 collection-survey Nepenthes photo-set at CalCarn; not a Sarracenia accession. Defer per cluster_gotchas."
+    },
+    "C0092": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/rosea/mobile-co-al-population/index.md",
+      "session": "2026-05-06",
+      "notes": "rosea Mobile Co AL population \u2014 multi-clone with subtle within-population diversity; 'tubby' standard rosea + venosa-like outliers."
+    },
+    "C0093": {
+      "status": "deferred-not-a-clone",
+      "session": "2026-05-06",
+      "notes": "Thread 305 'Pictures of Sarracenia habitats' \u2014 Sarracenia In The Wild board (26); in-situ habitat photo set; not a cultivation accession. Defer per cluster_gotchas wild-site pattern."
+    },
+    "C0094": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/rubra/ssp-rubra/onslow-co-nc/index.md",
+      "session": "2026-05-06",
+      "notes": "rubra ssp rubra Onslow Co NC \u2014 sensitive to wet feet; almost lost to rot twice; long-lid individual; salt-leaching protocol prevents fusarium wilt."
+    },
+    "C0095": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/alata/stone-co-ms-population/index.md",
+      "session": "2026-05-06",
+      "notes": "alata Stone Co MS multi-clone red/dark variants; Clone A among lettered series; greenhouse intensifies red color."
+    },
+    "C0097": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/oreophila/var-ornata/sand-mountain/clone-b/index.md",
+      "session": "2026-05-06",
+      "notes": "ornata Sand Mountain Clone B \u2014 chameleon year-to-year; media-sensitive (more peat, less perlite); 2025 atropurpurea-like late-season color."
+    },
+    "C0099": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/rubra/ancestral-peach-ga/index.md",
+      "session": "2026-05-06",
+      "notes": "rubra ancestral Peach Co GA \u2014 Phil Sheridan/Meadowview-discovered population; jonesii-like profile; community-favorite ancestral rubra."
+    },
+    "C0100": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/purpurea/ssp-purpurea/tolland-ct/index.md",
+      "session": "2026-05-06",
+      "notes": "purp purp Tolland Co CT (Rob Co source) \u2014 distinct red-tip-outline phenotype; purpman-flagged possible marl-bog provenance."
+    },
+    "C0101": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/alata/covington-county/index.md",
+      "session": "2026-05-06",
+      "notes": "alata Covington County (likely MS) \u2014 bulbous head AND neck (atypical); same-plant pointier-vs-rounder mouth variability."
+    },
+    "C0102": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/rubra/ssp-rubra/brunswick-co-nc/index.md",
+      "session": "2026-05-06",
+      "notes": "rubra ssp rubra Brunswick Co NC \u2014 less salt-sensitive than Onslow; compact-trap fall clumps; red variant in population."
+    },
+    "C0103": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/leucophylla/sumter-co-ga/index.md",
+      "session": "2026-05-06",
+      "notes": "leucophylla Sumter Co GA \u2014 only known extant wild leuco population in Georgia; Atlanta Botanical Gardens conservation-significant; 4 individuals in Mike's collection from Barry Rice / ABG chain."
+    },
+    "C0104": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/flava/var-rugelii/clone-h/index.md",
+      "session": "2026-05-06",
+      "notes": "rugelii Clone H \u2014 skinny neck, elegant lip, well-pronounced red throat blotch, extremely tall pitchers, subtle red lining on edge of lid."
+    },
+    "C0105": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/rosea/walton-co-fl-brooks-garcia/index.md",
+      "session": "2026-05-06",
+      "notes": "rosea N Walton Co FL (Brooks Garcia / Wilkerson property) \u2014 semi-dwarf rosea (only one Mike has known); intermediate rosea/venosa morphology; small flowers with unique chemical-tinged scent; northernmost rosea locality region."
     }
   }
 }
