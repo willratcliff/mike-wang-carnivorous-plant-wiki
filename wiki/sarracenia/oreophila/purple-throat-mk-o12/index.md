@@ -52,12 +52,31 @@ source_threads:
   - thread_id: 771
     url: "https://sarracenia.proboards.com/thread/771/oreophila-purple-throat-mk-o12"
     role: "primary"
+  - thread_id: 919
+    url: "https://sarracenia.proboards.com/thread/919/oreophila-purple-throat-mk012"
+    role: "update"
+    note: "2013-09-28 single-Mike-post update on MK012 — specifically documents summer + early fall pitchers as the best season for color expression. Spring pitchers are 'pretty dull and green'. New-growth observation: 'looks like a hybrid between traps and phyllodia.'"
 
 photos_not_mirrored:
   - source_post_id: 3143
     note: "Mike's 2013 photobucket — 6/30/13 (4 images) — confirmed lost (oscarmv post #2, 2017: 'All pictures are gone')"
 
-photos: []
+photos:
+  - path: "a0/a037c5b96210c3c256b5c27fa0376af78a782a61b31de27dd214b586acc6ce62.jpg"
+    caption: "MK012 fall pitchers — 2013-09-28"
+    photographer: "Mike Wang"
+    source_post_id: 3877
+    favorite: true
+  - path: "96/96c150e604dc395fa4e027ef9e345c2a62ec50604fbcd48af5a1f77676d5ad8a.jpg"
+    caption: "MK012 — trap/phyllodia hybrid new growth, 2013-09-28"
+    photographer: "Mike Wang"
+    source_post_id: 3877
+    favorite: false
+  - path: "43/43e54d648385dfea2430e0617f9e8262b5f2cce46949cbe106b5a14335187b83.jpg"
+    caption: "MK012 — 2013-09-28"
+    photographer: "Mike Wang"
+    source_post_id: 3877
+    favorite: false
 
 review:
   ai_extracted_by: "Claude (Claude Code session, 2026-05-07)"

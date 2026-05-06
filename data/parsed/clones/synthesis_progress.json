@@ -5369,6 +5369,246 @@
       "status": "deferred-not-a-clone",
       "split_decision": "Wild-site documentation thread (board 26 'Sarracenia In The Wild'). Per cluster_gotchas, defer wild-site threads. Mike + Damon Collingsworth + Axel Bostrom 2013-09 Okefenokee swamp adventure with kayaks; documents Charlton Co minor okeefenokeensis in habitat. NOT a clone \u2014 locality-population-overview thread for the wild Charlton Co site.",
       "completed_at_iso": "2026-05-07T06:20:00Z"
+    },
+    "C0198": {
+      "candidate_name": "Sarracenia leucophylla in the wild Baldwin Co, AL (Bob Hanrahan property)",
+      "source_thread_ids": [
+        878
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "Wild-site documentation thread (board 26 'Sarracenia In The Wild') of Bob Hanrahan's Baldwin Co, AL property. Mike's posts mostly photobucket-only (lost). leoc (post #12) provides historical context: Bob Hanrahan acquired the property 1984+, Mike + Kate are stewarding 'Bob's legacy'. Defer per cluster_gotchas.",
+      "completed_at_iso": "2026-05-07T07:00:00Z"
+    },
+    "C0199": {
+      "candidate_name": "Sarracenia leucophylla in the wild Covington Co, AL",
+      "source_thread_ids": [
+        883
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "Wild-site documentation thread (board 26). Defer per cluster_gotchas.",
+      "completed_at_iso": "2026-05-07T07:01:00Z"
+    },
+    "C0200": {
+      "candidate_name": "Sarracenia alata + leucophylla hybrids in the wild, Jackson Co, MS",
+      "source_thread_ids": [
+        885
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "Wild-site documentation thread (board 26). Defer per cluster_gotchas.",
+      "completed_at_iso": "2026-05-07T07:02:00Z"
+    },
+    "C0201": {
+      "candidate_name": "Sarracenia alata in the wild Stone Co, MS",
+      "source_thread_ids": [
+        887
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "Wild-site documentation thread (board 26). Defer per cluster_gotchas.",
+      "completed_at_iso": "2026-05-07T07:03:00Z"
+    },
+    "C0202": {
+      "candidate_name": "Sarracenia rubra wherryi + hybrids in the wild Washington Co, AL",
+      "source_thread_ids": [
+        891
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "Wild-site documentation thread (board 26). Defer per cluster_gotchas.",
+      "completed_at_iso": "2026-05-07T07:04:00Z"
+    },
+    "C0203": {
+      "candidate_name": "Sarracenia leucophylla + giant + atropurpurea site Okaloosa Co, FL (in the wild)",
+      "source_thread_ids": [
+        896
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "Wild-site documentation thread (board 26). Defer per cluster_gotchas.",
+      "completed_at_iso": "2026-05-07T07:05:00Z"
+    },
+    "C0204": {
+      "candidate_name": "Sarracenia psittacina (atropurpurea site) Okaloosa Co, FL (in the wild)",
+      "source_thread_ids": [
+        901
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "Wild-site documentation thread (board 26). Defer per cluster_gotchas.",
+      "completed_at_iso": "2026-05-07T07:06:00Z"
+    },
+    "C0205": {
+      "candidate_name": "Sarracenia flava var. rugelii in the wild, Santa Rosa Co, FL",
+      "source_thread_ids": [
+        909
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "Wild-site documentation thread (board 26). Defer per cluster_gotchas.",
+      "completed_at_iso": "2026-05-07T07:07:00Z"
+    },
+    "C0206": {
+      "candidate_name": "Sarracenia leucophylla Hurricane Creek White FALL PITCHERS (augmentation)",
+      "source_thread_ids": [
+        912
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/hurricane-creek-white-baldwin-al/index.md"
+      ],
+      "split_decision": "Augmentation of existing C0006 HCW Baldwin entry. Thread 912 is the fall-pitcher-focused 42-post complement to thread 675 (spring-pitcher).",
+      "completed_at_iso": "2026-05-07T07:10:00Z"
+    },
+    "C0207": {
+      "candidate_name": "Sarracenia rosea in the wild, Florida + Alabama Sept 2013",
+      "source_thread_ids": [
+        913
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "Wild-site documentation thread (board 26). Defer per cluster_gotchas.",
+      "completed_at_iso": "2026-05-07T07:11:00Z"
+    },
+    "C0208": {
+      "candidate_name": "Sarracenia leucophylla RED 'Clone A x Clone B select' Franklin Co, FL (Wes Buckner cross)",
+      "source_thread_ids": [
+        914
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/red-axb-select-franklin-fl/index.md"
+      ],
+      "split_decision": "New entry. Wes Buckner's selected cross of sunbelle's Franklin Co A and B parent clones (now-extirpated 'Tate's Hell' site). Reddest cultivation leucophylla; pollinator-validated pure species (no introgression). 25 photos imported.",
+      "completed_at_iso": "2026-05-07T07:25:00Z"
+    },
+    "C0209": {
+      "candidate_name": "Sarracenia oreophila 'purple throat' MK012 (augmentation)",
+      "source_thread_ids": [
+        919
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/oreophila/purple-throat-mk-o12/index.md"
+      ],
+      "split_decision": "Augmentation of C0183 entry just synthesized. Thread 919 (2013-09-28 single-post) adds spring-vs-fall framework (spring dull green, summer/fall best) + 3 mirrored photos.",
+      "completed_at_iso": "2026-05-07T07:30:00Z"
+    },
+    "C0210": {
+      "candidate_name": "Sarracenia leucophylla in the wild Baldwin Co, AL \u2014 DIVERSITY",
+      "source_thread_ids": [
+        920
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "Wild-site documentation thread (board 26). Defer per cluster_gotchas.",
+      "completed_at_iso": "2026-05-07T07:31:00Z"
+    },
+    "C0211": {
+      "candidate_name": "Sarracenia alata (incl. veinless form) Harrison Co, MS (in the wild)",
+      "source_thread_ids": [
+        923
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "Wild-site documentation thread (board 26). Defer per cluster_gotchas.",
+      "completed_at_iso": "2026-05-07T07:32:00Z"
+    },
+    "C0212": {
+      "candidate_name": "Aquatic habitat leucophylla in the wild Santa Rosa Co, FL",
+      "source_thread_ids": [
+        928
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "Wild-site documentation thread (board 26). Defer per cluster_gotchas.",
+      "completed_at_iso": "2026-05-07T07:33:00Z"
+    },
+    "C0213": {
+      "candidate_name": "Sarracenia psittacina var. okefenokeensis f. luteoviridis Gulf Co, FL (John Hummer type specimen)",
+      "source_thread_ids": [
+        930
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/psittacina/var-okefenokeensis/luteoviridis-gulf-fl/index.md"
+      ],
+      "split_decision": "Major conservation entry \u2014 TYPE specimen for the variety. All cultivation luteoviridis Gulf-Co plants trace to a single John Hummer-preserved division (wild site destroyed). Mike's 2026 update: divisions finally available.",
+      "completed_at_iso": "2026-05-07T07:40:00Z"
+    },
+    "C0214": {
+      "candidate_name": "Sarracenia leucophylla Santa Rosa Co, FL (a different site, in the wild)",
+      "source_thread_ids": [
+        931
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "Wild-site documentation thread (board 26). Defer per cluster_gotchas.",
+      "completed_at_iso": "2026-05-07T07:41:00Z"
+    },
+    "C0215": {
+      "candidate_name": "Sarracenia leucophylla 'pink' (multi-clone variant overview)",
+      "source_thread_ids": [
+        932
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/pink-multi-clone/index.md"
+      ],
+      "split_decision": "Topic-overview entry covering pink-pigmented leucophylla phenotypes (Burgundy is the canonical reference). Single 2013 Mike post + 4 photos.",
+      "completed_at_iso": "2026-05-07T07:45:00Z"
+    },
+    "C0216": {
+      "candidate_name": "Another leuco site N. Baldwin Co, AL (in the wild) [NOT Nepenthes \u2014 title-parser misread]",
+      "source_thread_ids": [
+        939
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "Wild-site documentation thread (board 26). Cluster candidate name 'Nepenthes N. Baldwin Co, AL' was a title-parser misread \u2014 'N.' meant 'Northern', not 'Nepenthes'. Defer per cluster_gotchas.",
+      "completed_at_iso": "2026-05-07T07:46:00Z"
+    },
+    "C0218": {
+      "candidate_name": "Sarracenia leucophylla site #1 Washington Co, AL (in the wild)",
+      "source_thread_ids": [
+        942
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "Wild-site documentation thread (board 26). Defer per cluster_gotchas.",
+      "completed_at_iso": "2026-05-07T07:47:00Z"
+    },
+    "C0219": {
+      "candidate_name": "Sarracenia psittacina Washington Co, AL (in the wild)",
+      "source_thread_ids": [
+        947
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "Wild-site documentation thread (board 26). Defer per cluster_gotchas.",
+      "completed_at_iso": "2026-05-07T07:48:00Z"
+    },
+    "C0220": {
+      "candidate_name": "Darlingtonia californica 'Sphagnum site' Del Norte Co, CA (in the wild)",
+      "source_thread_ids": [
+        954
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "Wild-site habitat-documentation thread (Carnivores board, but content is in-situ wild-site documentation). 2010 vs 2013 site comparison; not a cultivar. Defer per cluster_gotchas. Cross-referenced from main Darlingtonia californica entry (C0174).",
+      "completed_at_iso": "2026-05-07T07:49:00Z"
+    },
+    "C0222": {
+      "candidate_name": "really ghetto wiki page about Sarracenia (methodology thread)",
+      "source_thread_ids": [
+        958
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "Methodology / general-board thread, not a clone documentation. Defer per cluster_gotchas methodology pattern.",
+      "completed_at_iso": "2026-05-07T07:50:00Z"
+    },
+    "C0224": {
+      "candidate_name": "Darlingtonia californica 'Cedar Springs' Del Norte Co, CA (in the wild)",
+      "source_thread_ids": [
+        966
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "Wild-site habitat-documentation thread (Carnivores board, in-situ chaparral-habitat documentation). Burnt-pitcher / heat-stress observations interesting but not a cultivar. Defer per cluster_gotchas.",
+      "completed_at_iso": "2026-05-07T07:51:00Z"
+    },
+    "C0225": {
+      "candidate_name": "Sarracenia flava var. rugelii in the wild, Okaloosa Co, FL",
+      "source_thread_ids": [
+        967
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "Wild-site documentation thread (board 26). Defer per cluster_gotchas.",
+      "completed_at_iso": "2026-05-07T07:52:00Z"
     }
   }
 }

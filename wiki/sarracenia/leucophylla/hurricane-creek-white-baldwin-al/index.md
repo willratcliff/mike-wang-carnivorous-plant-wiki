@@ -72,6 +72,10 @@ source_threads:
     url: "https://sarracenia.proboards.com/thread/675/leucophylla-hurricane-creek-white-baldwin"
     role: "update"
     note: "2013-05-20 spring-pitcher-focused thread — 4 posts, all photobucket photos (now lost). Mike's spring-pitcher framework: HCW produces solid spring AND fall pitchers, distinguishing it from most leucophyllas which are fall-pitcher-only. Spring pitchers can be bright white or sometimes have red pigments; dense stands 'glow at night'. Documents 10 photos of various clones in 2013 spring."
+  - thread_id: 912
+    url: "https://sarracenia.proboards.com/thread/912/leucophylla-hurricane-creek-white-pitchers"
+    role: "update"
+    note: "2013-2024 fall-pitcher-focused thread — 42 posts, 3 pages. Documents HCW fall-pitcher expression across many clones (Clone F, etc.) over 11 years. Major photo gallery."
 
 photos:
   - path: "d4/d41e6a9935b8026b27739a78f8fb68a119ef82e0caf36f77629519621c5dd080.jpg"
