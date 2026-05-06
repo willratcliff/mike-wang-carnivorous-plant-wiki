@@ -66,6 +66,10 @@ source_threads:
     url: "https://sarracenia.proboards.com/thread/83/flava-var-rubricorpora-liberty-population"
     role: "context"
     note: "Population overview that places Clone T in the broader Liberty Co Sumatra-area lettered series."
+  - thread_id: 653
+    url: "https://sarracenia.proboards.com/thread/653/flava-rubricorpora-clone-liberty-fl"
+    role: "update"
+    note: "2013-05-05 single-Mike-post update with 5 photobucket photos (now lost). Mike's note: 'Another nice clone... It consistently produces shapely pitchers and has the classic flava look to it.'"
 
 photos:
   - path: "68/682508b708bf35d21505c6e9dbec15d89b4173a81f599ef2bb9af5717ee51d70.jpg"

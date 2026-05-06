@@ -53,6 +53,10 @@ source_threads:
     url: "https://sarracenia.proboards.com/thread/240/minor-var-okefenokeensis-ware-clone"
     role: "update"
     note: "Clone-N-specific thread, 2012-2013 (augmented from cluster C0058). Includes side-by-side with Clone C."
+  - thread_id: 684
+    url: "https://sarracenia.proboards.com/thread/684/minor-var-okefenokeensis-ware-clone"
+    role: "update"
+    note: "Clone-S-specific thread, 2013-05-27. Mike (post #1): 'great looking clone that's fast growing. It has historically produced giant traps for me, although this year, they're just large. I transplanted this one last year, so it took a year to recover, and now that it's growing at full speed, I bet next year, it'll produce gigantic traps.' kiwiearl (post #2) flags an unusual feature — the terminal end of the hood flares upwards: 'I find that slight deviation from the standard hood form really attractive. It's really distinct.' This trait absent in kiwiearl's other Ware Co clones."
 
 photos:
   - path: "2e/2e38215253ea96e4a08f7f37ed0252357a729250d903e9753f0c764ceaf1305f.jpg"
@@ -84,6 +88,11 @@ photos:
     caption: "Clone S — classic textbook okee giant, 2011."
     photographer: "Mike Wang"
     source_post_id: 108
+    favorite: true
+  - path: "b1/b1f22dbc2ea5f971c48398bc4bb1b6ab9d629d7367ba5f5932510425ac6a053c.jpg"
+    caption: "Clone S — giant-traps year, archival photo from a few years before 2013 (thread 684)."
+    photographer: "Mike Wang"
+    source_post_id: 2824
     favorite: true
   - path: "4c/4ccb23662ac8bb30157d11ad8d6ad9f85c812987155cb86114edc87728b8299f.jpg"
     caption: "Population shot, 2015-07."

@@ -69,6 +69,10 @@ source_threads:
   - thread_id: 668
     url: "https://sarracenia.proboards.com/thread/668/flava-red-form-cooks-bayou"
     role: "primary"
+  - thread_id: 654
+    url: "https://sarracenia.proboards.com/thread/654/flava-atropurpurea-cooks-bayou-fl"
+    role: "context"
+    note: "2013-05-05 single-Mike-post — earliest forum mention. Mike documented as 'flava var. ?' Cooks Bayou, FL with 4 photobucket photos (now lost). Mike's note: 'When the pitchers first started to develop on this clone, I thought it was a S. flava var. ornata, but over time, the red color started to become more and more solid... There is quite a bit of controversy as to whether the real atropurpurea grows in Florida.' This thread predates the title-pinning to 'red form' that Mike adopted later."
 
 # Photographs
 photos:

@@ -19,13 +19,15 @@ collector: null
 breeder: null
 year_collected: null
 year_into_cultivation: 1999
-year_first_described_on_forum: 2024
+year_first_described_on_forum: 2013
 naming_etymology: "'clone N' — Mike's internal letter-designation in his rubricorpora numbering."
 
 standout_traits:
   - "In Mike's collection ~25 years (since ~1999)."
   - "Extremely tall — Mike: 'gets extremely tall but not quite as tall as the back row giant rubricorpora clone.'"
-  - "First photo-documented in 2024 — long-overdue thread."
+  - "Typical rubricorpora low-pitcher count: 2-3 pitchers per season — but those few are large (Mike, thread 646 post #1, 2013)."
+  - "Mouth 'kink' phenotype — Mike (thread 646 post #4, 2013) sees this as environmental, not genetic, on Clone N (kink absent in 2011 photos, present in some 2013 traps). Distinguished from 'Burgundy' where the kink is consistent year-over-year and therefore genetic."
+  - "Late-opening pitchers — opens after most other clones from the same population (Mike, 2013-04-29)."
 visually_similar_to:
   - clone: "Mike's 'back row giant' rubricorpora clone (un-mentioned ID)"
     note: "Mike's tallest rubricorpora; clone N is shorter than that."
@@ -35,9 +37,14 @@ cultivation_notes: |
   documentation.
 
 source_threads:
+  - thread_id: 646
+    url: "https://sarracenia.proboards.com/thread/646/flava-var-rubrcpra-liberty-updt"
+    role: "primary"
+    note: "2013-04 introduction thread — 6 posts. Mike's earliest documentation (April-May 2013), photobucket-only photos. Includes Mike's environmental-vs-genetic mouth-kink analysis."
   - thread_id: 6008
     url: "https://sarracenia.proboards.com/thread/6008/flava-var-rubricorpora-clone-liberty"
-    role: "primary"
+    role: "update"
+    note: "2024 re-documentation — Mike's 25-years-in-collection note + 4 fresh photos."
 
 photos:
   - path: "be/be395332240ce5fb24252c74ca44117ec4fffd5a4192da7e327f30f988b48c6f.jpg"
@@ -64,13 +71,14 @@ photos:
 review:
   ai_extracted_by: "Claude (Claude Code session, 2026-05-05)"
   ai_extracted_at: "2026-05-05T00:00:00Z"
-  cluster_id: "C0707"
+  cluster_id: "C0707,C0167"
   human_reviewed: false
   human_reviewer: null
   human_corrections: []
   open_questions:
     - "Year/source of original wild collection?"
     - "Identity/thread for the 'back row giant rubricorpora clone' Mike compares against?"
+    - "Photobucket photo recovery — 8+ original 2013 images (posts 2591, 2629) lost to photobucket; replacement images would be valuable."
 ---
 
 # Sarracenia flava var. rubricorpora 'clone N' Liberty Co, FL

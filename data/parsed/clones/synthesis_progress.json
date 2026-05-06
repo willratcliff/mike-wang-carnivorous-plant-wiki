@@ -5022,6 +5022,124 @@
         "wiki/sarracenia/flava/var-rugelii/giant-thomas-co-ga/index.md"
       ],
       "completed_at_iso": "2026-05-07T01:40:00Z"
+    },
+    "C0167": {
+      "candidate_name": "Sarracenia flava var. rubricorpora Clone N Liberty Co, FL (augmentation)",
+      "source_thread_ids": [
+        646
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-rubricorpora/clone-n-liberty-fl/index.md"
+      ],
+      "split_decision": "Augmentation of existing C0707 entry. Thread 646 is the EARLIEST Clone N forum documentation (April-May 2013, vs the existing entry's 2024 thread 6008). Reordered as primary; added 2013 Mike notes including the environmental-vs-genetic mouth-kink analysis and the late-opening pitcher observation.",
+      "completed_at_iso": "2026-05-07T02:00:00Z"
+    },
+    "C0168": {
+      "candidate_name": "Sarracenia flava (yellow-tinged 'rugelii' segregant) Lexington Co, SC",
+      "source_thread_ids": [
+        649
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/lexington-co-sc/index.md"
+      ],
+      "completed_at_iso": "2026-05-07T02:10:00Z"
+    },
+    "C0169": {
+      "candidate_name": "Sarracenia flava var. rubricorpora Clone T Liberty Co, FL (augmentation)",
+      "source_thread_ids": [
+        653
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-rubricorpora/clone-t-liberty-fl/index.md"
+      ],
+      "split_decision": "Augmentation of existing C0028 entry. Thread 653 is a single 2013-05-05 Mike-post update with 5 photobucket photos (now lost). Added as 'update' role with note about Mike's 'classic flava look' descriptor.",
+      "completed_at_iso": "2026-05-07T02:15:00Z"
+    },
+    "C0170": {
+      "candidate_name": "Sarracenia flava 'red form' Cook's Bayou Bay Co, FL (augmentation; original 'atropurpurea' 2013 thread)",
+      "source_thread_ids": [
+        654
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/red-form-cooks-bayou-bay-fl/index.md"
+      ],
+      "split_decision": "Augmentation of existing C0173 entry. Thread 654 is the 2013-05-05 single-post 'flava var. ?' / atropurpurea(?) Cooks Bayou thread that predates Mike's eventual 'red form' label. Added as 'context' role.",
+      "completed_at_iso": "2026-05-07T02:20:00Z"
+    },
+    "C0171": {
+      "candidate_name": "Sarracenia flava var. maxima 'Large form' MK F91 North Carolina",
+      "source_thread_ids": [
+        658
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-maxima/large-form-mkf91-nc/index.md"
+      ],
+      "completed_at_iso": "2026-05-07T02:25:00Z"
+    },
+    "C0172": {
+      "candidate_name": "Sarracenia purpurea ssp. purpurea 'Giant' Caroline Co, VA (Reedy Creek)",
+      "source_thread_ids": [
+        664
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/purpurea/ssp-purpurea/giant-caroline-va/index.md"
+      ],
+      "split_decision": "New entry for the wild-population Caroline VA Giant \u2014 distinct from the existing giant-caroline-va-x-marl-bog/ entry (C0619) which is Mike's CROSS using this clone as a parent. Cross-referenced in both directions.",
+      "completed_at_iso": "2026-05-07T02:35:00Z"
+    },
+    "C0174": {
+      "candidate_name": "Darlingtonia californica \u2014 Mike's cultivation thread + color-form genetics",
+      "source_thread_ids": [
+        673
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/darlingtonia/californica/index.md"
+      ],
+      "split_decision": "Species-overview entry covering Mike's 47-post cultivation thread, killing-protocol heuristics, and 2023 color-form genetics demonstration. First Darlingtonia entry in the wiki; future entries should sub-page individual color forms ('red like alpine farms' Del Norte, Rattlesnake Creek green form, etc.). 22 photos imported (Mike + pokie22 + Stefan).",
+      "completed_at_iso": "2026-05-07T02:55:00Z"
+    },
+    "C0175": {
+      "candidate_name": "Sarracenia leucophylla Hurricane Creek White Baldwin Co, AL (augmentation, spring-pitcher 2013 thread)",
+      "source_thread_ids": [
+        675
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/hurricane-creek-white-baldwin-al/index.md"
+      ],
+      "split_decision": "Augmentation of existing C0006 entry. Thread 675 (2013-05-20) documents HCW spring-pitcher framework: HCW produces both spring AND fall pitchers, distinguishing from leucophyllas that only fall-pitcher. Added as 'update' role.",
+      "completed_at_iso": "2026-05-07T03:00:00Z"
+    },
+    "C0176": {
+      "candidate_name": "Sarracenia minor var. okefenokeensis 'Clone E' Ware Co, GA",
+      "source_thread_ids": [
+        683
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/minor/var-okefenokeensis/clone-e-ware-ga/index.md"
+      ],
+      "split_decision": "New sibling clone-page within Mike's Ware Co lettered series. Distinct from clone-j-n-s-ware-ga (which covers J/N/S). Documents Clone E's distinctive symmetry, bronzy-red head, and 2013 fall full-red expression.",
+      "completed_at_iso": "2026-05-07T03:05:00Z"
+    },
+    "C0177": {
+      "candidate_name": "Sarracenia minor var. okefenokeensis 'Clone S' Ware Co, GA (augmentation of J/N/S)",
+      "source_thread_ids": [
+        684
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/minor/var-okefenokeensis/clone-j-n-s-ware-ga/index.md"
+      ],
+      "split_decision": "Augmentation of existing C0009 entry. Thread 684 is Clone-S-specific 2013-05-27 thread with single Mike post + giant-trap archival photo. Added kiwiearl's note about the upward-flaring terminal hood \u2014 distinctive trait absent in kiwiearl's other Ware Co clones.",
+      "completed_at_iso": "2026-05-07T03:10:00Z"
     }
   }
 }
