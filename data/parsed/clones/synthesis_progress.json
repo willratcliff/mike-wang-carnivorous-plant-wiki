@@ -5255,6 +5255,120 @@
       ],
       "split_decision": "Augmentation of existing C0053 Old Dock minor population entry. Thread 820 is Clone-A-specific (Mike: 'most standard selection from this group'). Added 7 Mike 2013 photos + 3 Mike 2014 photos. wireman in-situ note: some Old Dock minors are 18\" tall in the wild \u2014 massive for non-okees.",
       "completed_at_iso": "2026-05-07T04:35:00Z"
+    },
+    "C0188": {
+      "candidate_name": "Sarracenia flava var. maxima Berkeley Co, SC (2013-acquired)",
+      "source_thread_ids": [
+        821
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-maxima/berkeley-co-sc-2013-clone/index.md"
+      ],
+      "split_decision": "New unlettered Berkeley Co maxima clone (distinct from existing Clones 1 and 3 / C0501 + C0563). adaetz100's 2023 grow report adds vigor + continuous-pitcher data.",
+      "completed_at_iso": "2026-05-07T05:00:00Z"
+    },
+    "C0189": {
+      "candidate_name": "Sarracenia alata 'Tall Black Jim' (Brooks Garcia origin)",
+      "source_thread_ids": [
+        825
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/alata/tall-black-jim/index.md"
+      ],
+      "completed_at_iso": "2026-05-07T05:05:00Z"
+    },
+    "C0190": {
+      "candidate_name": "Sarracenia purpurea ssp. venosa f. pallidiflora (anthocyanin-free venosa)",
+      "source_thread_ids": [
+        826
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/purpurea/ssp-venosa/anthocyanin-free-pallidiflora/index.md"
+      ],
+      "split_decision": "Major entry: documents the original AF venosa rot-prone strain + Mike's multi-generation rot-resistance breeding project (2013-2025). 2025-11 update confirms breeding success \u2014 culled survivors all rot-free, distribution pending. hcarlton's one-locus mutation explanation captured.",
+      "completed_at_iso": "2026-05-07T05:15:00Z"
+    },
+    "C0191": {
+      "candidate_name": "Sarracenia x Gorey (Jay Lechtman 2011, S. x gilpini)",
+      "source_thread_ids": [
+        833
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/hybrids/x-gorey/index.md"
+      ],
+      "completed_at_iso": "2026-05-07T05:20:00Z"
+    },
+    "C0192": {
+      "candidate_name": "Sarracenia leucophylla 'Helmut's Delight' (Helmut Kibellis / Australian supermarket origin)",
+      "source_thread_ids": [
+        835
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/helmuts-delight/index.md"
+      ],
+      "split_decision": "Major cultivar entry. 30+ photos across 2013-2022. Captures Mike's etymology (Helmut Kibellis bought original at Australian supermarket in 1980s) + alexis vs Mike growth-rate contradiction (NorCal medium-high vigor vs cooler-climate slow grower) + AJ01 sibling-population hypothesis.",
+      "completed_at_iso": "2026-05-07T05:35:00Z"
+    },
+    "C0193": {
+      "candidate_name": "Sarracenia oreophila 'red lips'",
+      "source_thread_ids": [
+        837
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/oreophila/red-lips/index.md"
+      ],
+      "completed_at_iso": "2026-05-07T05:40:00Z"
+    },
+    "C0194": {
+      "candidate_name": "Sarracenia alabamensis 'Giant Lid' ICPS AL001",
+      "source_thread_ids": [
+        839
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/alabamensis/giant-lid-icps-al001/index.md"
+      ],
+      "split_decision": "ESA-listed species. Documents ICPS AL001 wild-seed provenance (Barry Rice). Thread also captures Mike's major 2014 conservation discussion with site-loss documentation (Taylor Co GA rubra ancestralis, Bulloch GA black-vein source, gulfensis radiotower).",
+      "completed_at_iso": "2026-05-07T05:50:00Z"
+    },
+    "C0195": {
+      "candidate_name": "Sarracenia flava var. ornata 'Improved Black Veins' (IBV) \u2014 Mike's 3-generation breeding line",
+      "source_thread_ids": [
+        840
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-ornata/improved-black-veins/index.md"
+      ],
+      "split_decision": "Major breeding-line entry. 91-post thread + Mike's 2019 deep-history breeding post (thread 840 post #60) captured: Bulloch Co powercut site origin (destroyed 2012); Kennedy family property provenance hypothesis; F2 parents Clones B/D/E/SFL05A/SFL05X/wavy-lid; F3 release cross (Bulloch Clone B \u00d7 Gulf Coast 'select') \u00d7 Bulloch SFL05X; planned F4 with Clone E (rot-prone, twice-flowered-in-22-years bottleneck).",
+      "completed_at_iso": "2026-05-07T06:10:00Z"
+    },
+    "C0196": {
+      "candidate_name": "Sarracenia rubra ssp. gulfensis 'Giant' (extinct radiotower site, Crestview FL)",
+      "source_thread_ids": [
+        842
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/rubra/ssp-gulfensis/giant-radiotower-extinct/index.md"
+      ],
+      "split_decision": "Conservation-relevant entry. Wild population extinct pre-2013; Mike preserves ~15 clones. Sunbelle's Clyde Bramblett-source plant cross-referenced (possibly same site or related now-destroyed Yellow River site).",
+      "completed_at_iso": "2026-05-07T06:15:00Z"
+    },
+    "C0197": {
+      "candidate_name": "Sarracenia minor var. okefenokeensis Charlton Co, GA (in the wild)",
+      "source_thread_ids": [
+        876
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "Wild-site documentation thread (board 26 'Sarracenia In The Wild'). Per cluster_gotchas, defer wild-site threads. Mike + Damon Collingsworth + Axel Bostrom 2013-09 Okefenokee swamp adventure with kayaks; documents Charlton Co minor okeefenokeensis in habitat. NOT a clone \u2014 locality-population-overview thread for the wild Charlton Co site.",
+      "completed_at_iso": "2026-05-07T06:20:00Z"
     }
   }
 }
