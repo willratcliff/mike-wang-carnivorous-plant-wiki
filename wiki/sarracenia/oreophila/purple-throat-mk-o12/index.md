@@ -56,6 +56,10 @@ source_threads:
     url: "https://sarracenia.proboards.com/thread/919/oreophila-purple-throat-mk012"
     role: "update"
     note: "2013-09-28 single-Mike-post update on MK012 — specifically documents summer + early fall pitchers as the best season for color expression. Spring pitchers are 'pretty dull and green'. New-growth observation: 'looks like a hybrid between traps and phyllodia.'"
+  - thread_id: 1316
+    url: "https://sarracenia.proboards.com/thread/1316/oreophila-purple-throat-mk-012"
+    role: "update"
+    note: "Spring/early-season-focused thread, 2014-05-07 + 2025 update. 18 posts. Mike's framework on oreophila in general: ESA-restricted; almost extinct in the wild; few cultivation clones. Mike's late-summer/early-fall expression observation: 'best show... pitchers turn heavily veined and amazingly colorful'. New spring pitchers on MK012 already produce red throat pigments — earliest expression of the lineage."
 
 photos_not_mirrored:
   - source_post_id: 3143

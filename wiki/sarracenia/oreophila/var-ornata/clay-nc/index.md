@@ -53,9 +53,14 @@ cultivation_notes: |
   and shading.
 
 source_threads:
+  - thread_id: 1418
+    url: "https://sarracenia.proboards.com/thread/1418/oreophila-clay-nc"
+    role: "primary"
+    note: "Original 2014 thread, 26 posts. Mike's import history: nearly impossible to acquire — endangered species, sat in US customs >1 month, required broker + complicated paperwork. Mike: 'There is only one population of S. oreophila in North Carolina and it's very well managed.' Plant initially yellowed from 1-month box transit; took >2 years to fully recover. Mike (post #1): 'Arguably, this can be called S. oreophila var. ornata' — supporting the var-ornata classification."
   - thread_id: 6111
     url: "https://sarracenia.proboards.com/thread/6111/oreophila-var-ornata-clay-nc"
-    role: "primary"
+    role: "update"
+    note: "2025-04-27 update with side-by-side ornata vs regular clone."
 
 photos:
   - path: "06/06f99f61e4cebbcefe09168d3549350e9bf4b27773c0b8661ead15ef78465b43.jpg"

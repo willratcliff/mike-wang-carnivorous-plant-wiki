@@ -5720,6 +5720,101 @@
       ],
       "split_decision": "Augmentation of existing C0032 entry. Thread 1304 is the 2014-05-04 single-Mike-post detailed description: 'crazy high demand, divisions readily, nice clumps' + the lid-yellow-red-contrast-preservation distinguishing trait. Added 4 photos.",
       "completed_at_iso": "2026-05-07T09:00:00Z"
+    },
+    "C0237": {
+      "candidate_name": "Sarracenia leucophylla Calhoun Co, FL",
+      "source_thread_ids": [
+        1310
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/calhoun-co-fl/index.md"
+      ],
+      "completed_at_iso": "2026-05-07T09:30:00Z"
+    },
+    "C0238": {
+      "candidate_name": "Sarracenia oreophila 'purple Throat' MK 012 (third augmentation)",
+      "source_thread_ids": [
+        1316
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/oreophila/purple-throat-mk-o12/index.md"
+      ],
+      "split_decision": "Augmentation of C0183 entry (now third thread). Thread 1316 adds Mike's broader oreophila framework (ESA-restricted, late-summer/fall best, MK012 expresses early in spring).",
+      "completed_at_iso": "2026-05-07T09:35:00Z"
+    },
+    "C0239": {
+      "candidate_name": "Sarracenia x Johnny Wilkerson (Wilkerson's Bog complex hybrid)",
+      "source_thread_ids": [
+        1349
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/hybrids/x-johnny-wilkerson/index.md"
+      ],
+      "split_decision": "New entry. Brooks Garcia introduction; complex hybrid (likely moorei++).",
+      "completed_at_iso": "2026-05-07T09:45:00Z"
+    },
+    "C0240": {
+      "candidate_name": "Sarracenia x Green Monster (Bill Scholl: AF leuco x AF minor)",
+      "source_thread_ids": [
+        1353
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/hybrids/x-green-monster/index.md"
+      ],
+      "split_decision": "New entry. Double-recessive AF hybrid; Mike's hypothesis re Goldie / AF gene relationship documented.",
+      "completed_at_iso": "2026-05-07T09:55:00Z"
+    },
+    "C0243": {
+      "candidate_name": "Sarracenia minor var. okefenokeensis 'California Carnivores' clone (Savage Garden featured)",
+      "source_thread_ids": [
+        1394
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/minor/var-okefenokeensis/cali-carnivores-clone/index.md"
+      ],
+      "split_decision": "New entry. Savage-Garden-featured reference clone. Phil Faulisi's vegetative-vs-sexual maturity framework captured (don't divide; pot deeply; 14-year transformation from 18-20 to 32 inches).",
+      "completed_at_iso": "2026-05-07T10:05:00Z"
+    },
+    "C0246": {
+      "candidate_name": "Sarracenia minor var. okefenokeensis 'Clone AE' Ware Co, GA (augmentation)",
+      "source_thread_ids": [
+        1410
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/minor/var-okefenokeensis/clone-j-n-s-ware-ga/index.md"
+      ],
+      "split_decision": "Augmentation of C0009 J/N/S entry. Clone-AE-specific 2014 thread. Distinctive traits: lid-dip variance trap-to-trap; dark green face (okee-hybrid marker); red-outlined windows.",
+      "completed_at_iso": "2026-05-07T10:10:00Z"
+    },
+    "C0247": {
+      "candidate_name": "Sarracenia oreophila Clay Co, NC (augmentation)",
+      "source_thread_ids": [
+        1418
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/oreophila/var-ornata/clay-nc/index.md"
+      ],
+      "split_decision": "Augmentation of existing C0752 var-ornata Clay-NC entry. Thread 1418 is the ORIGINAL 2014 import-history thread: 1-month customs hold, broker required, 2+ years to recover from shock. Mike (post #1, 2014): 'Arguably, this can be called S. oreophila var. ornata' \u2014 supporting the var-ornata classification.",
+      "completed_at_iso": "2026-05-07T10:15:00Z"
+    },
+    "C0248": {
+      "candidate_name": "Sarracenia minor var. minor 'tall form' Charlton Co, GA",
+      "source_thread_ids": [
+        1475
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/minor/var-minor/tall-form-charlton-ga/index.md"
+      ],
+      "split_decision": "New entry. 9-10 inch pre-flowering var. minor \u2014 possible okee introgression or unique semi-tall variant.",
+      "completed_at_iso": "2026-05-07T10:20:00Z"
     }
   }
 }

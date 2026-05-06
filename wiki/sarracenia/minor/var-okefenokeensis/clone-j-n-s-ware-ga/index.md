@@ -61,6 +61,10 @@ source_threads:
     url: "https://sarracenia.proboards.com/thread/689/minor-okefenokeensis-ware-cln-windows"
     role: "update"
     note: "Clone-J-'red windows'-specific thread, 2013-05-27. Mike (post #1): 'The windows on this clone are consistently either edged with red, or are completely red. Other minor giant clones in the collection do get red windows as well, but they don't seem to have red pigments in the windows consistently.' Photobucket gallery + 1 broken flickr image."
+  - thread_id: 1410
+    url: "https://sarracenia.proboards.com/thread/1410/minor-var-okefenokeensis-ware-clone"
+    role: "update"
+    note: "Clone-AE-specific thread, 2014-05-31. Mike (post #1): 'exceptional traps... grows very strong... more phenotypic variance than other clones: shape of the traps seem more symmetrical one year compared to the next... copper lid with slightly bronzy body.' Distinctive traits: lid dip varies trap-to-trap on same plant; dark green pigments at 'face' (a hybrid-with-okee marker); red-outlined windows."
 
 photos:
   - path: "2e/2e38215253ea96e4a08f7f37ed0252357a729250d903e9753f0c764ceaf1305f.jpg"
@@ -98,6 +102,26 @@ photos:
     photographer: "Mike Wang"
     source_post_id: 2824
     favorite: true
+  - path: "88/8838343b10b8824fcd09046c26d5c27c90b6e6e63f72a4ac5fb56afe6a40c67b.jpg"
+    caption: "Clone AE — lid dipping downward expression, 2014-05-31 (thread 1410)"
+    photographer: "Mike Wang"
+    source_post_id: 8320
+    favorite: true
+  - path: "57/57022e9fa0ec96d82585f8f314a6ec1acfb7d86aab9a0b1e1813ea5f225ed235.jpg"
+    caption: "Clone AE — mugshot, less-dipping lid, 2014-05-31 (thread 1410)"
+    photographer: "Mike Wang"
+    source_post_id: 8320
+    favorite: false
+  - path: "0e/0e66c787a42d842651d3647889a48d62e199a9d39ab41c3ab9fa86110d18355b.jpg"
+    caption: "Clone AE — dark green face + red-outlined windows, 2014-05-31 (thread 1410)"
+    photographer: "Mike Wang"
+    source_post_id: 8320
+    favorite: true
+  - path: "f3/f3862c83f6d138f21edeb5a1c948702538bdbbb0e17b633497a3cdabe36fa5c9.jpg"
+    caption: "Clone AE — copper lid + bronzy body contrast, 2014-05-31 (thread 1410)"
+    photographer: "Mike Wang"
+    source_post_id: 8320
+    favorite: false
   - path: "4c/4ccb23662ac8bb30157d11ad8d6ad9f85c812987155cb86114edc87728b8299f.jpg"
     caption: "Population shot, 2015-07."
     photographer: "Mike Wang"
