@@ -4727,6 +4727,54 @@
       "wiki_path": "wiki/sarracenia/jonesii/sheridan-clone/index.md",
       "session": "2026-05-06",
       "notes": "jonesii Phil Sheridan clone \u2014 typical bulbous-trap form (contrast Mike's CC skinny-pitcher clone C0125). Vigorous; produces offshoots reliably; uneven 'messy' fall coloring. ESA: CA-only distribution."
+    },
+    "C0127": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/purpurea/ssp-purpurea/wellington-on/index.md",
+      "session": "2026-05-06",
+      "notes": "purpurea ssp. purpurea Wellington Co ON \u2014 neon-green outer-edge color, reproducible across two grower environments (Mike + Drew Martinez), supporting a genetic basis for the trait."
+    },
+    "C0128": {
+      "status": "augmented",
+      "wiki_path": "wiki/sarracenia/hybrids/adrian-slack-bob-hanrahan-original/index.md",
+      "session": "2026-05-06",
+      "notes": "Augmented existing Adrian Slack (Bob Hanrahan original) entry (C0012, thread 48) with thread 377 \u2014 2012-09 / 2013-06 / 2013-07 / 2014-07 photo updates. Added 8 photos. Bob Hanrahan tribute (post #2 of thread 377, June 2013) noted in thread metadata; Hanrahan's death year ~2013."
+    },
+    "C0129": {
+      "status": "augmented",
+      "wiki_path": "wiki/sarracenia/hybrids/x-excellens-leuco-okee-crosses/index.md",
+      "session": "2026-05-06",
+      "notes": "Augmented existing leuco-okee excellens crosses entry (C0064, thread 248) with thread 378 \u2014 2012-09 'Green Face' fall-only confirmation + 3' okee-giant trap height note + Mike's reference to a similar European-bred green-face excellens. Added 4 photos."
+    },
+    "C0130": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/hybrids/adrian-slack-x-judith-hindle-siblings/index.md",
+      "session": "2026-05-06",
+      "notes": "AS \u00d7 JH siblings \u2014 Mike-bred F1 seedling batch covering the unselected siblings (the standout was named separately, see C0434). Phenotype range: AS-lookalike short clumping, white-top siblings, green-body/white-top hybrids. Includes brie's PNW-grown contributions. Standing observation: AS is slow to look good after disturbance \u2014 applies here too."
+    },
+    "C0131": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/purpurea/ssp-purpurea/oakland-mi/index.md",
+      "session": "2026-05-06",
+      "notes": "purpurea ssp. purpurea Oakland Co MI \u2014 both original mother plants lost; Mike's 8-year backup F1 seed cross germinated 2 seeds in 2022 (cross ~2014). Recovery in progress. Demonstrates value of cross-then-store seed backup for non-endangered species."
+    },
+    "C0132": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/purpurea/ssp-purpurea/tucker-wv-naturalized/index.md",
+      "session": "2026-05-06",
+      "notes": "purpurea ssp. purpurea Tucker Co WV (PA-source naturalized) \u2014 early-1900s construction-related PA\u2192WV relocation; population is technically naturalized, not native. Bulbous-trap form distinct from elongated forms in many of Mike's other purpurea clones. Red trap-edge phenotype shared with Mike's CT clone \u2014 environmental or regional-genetic origin uncertain."
+    },
+    "C0133": {
+      "status": "augmented",
+      "wiki_path": "wiki/sarracenia/leucophylla/var-alba/hcw-clone-e-baldwin-al/index.md",
+      "session": "2026-05-06",
+      "notes": "Augmented existing HCW Clone E Baldwin Co AL entry (C0051, thread 226) with thread 391 \u2014 2012-09 / 2012-10 fall pitcher photo updates. Added 13 photos. Confirms the alba/non-alba interior plasticity Mike highlights elsewhere (e.g., Schnell's ghost defense in C0117)."
+    },
+    "C0134": {
+      "status": "done",
+      "wiki_path": "wiki/sarracenia/leucophylla/dark-pink/index.md",
+      "session": "2026-05-06",
+      "notes": "leucophylla 'Dark Pink' \u2014 Mike's seed-grown pink clone, genetically distinct from Burgundy / Botanique pink / Sheridan pink / other pink leucos in his collection (high breeding value 2024). Light-pink \u2192 dark-pink color shift with maturity; round-ish mouth (2024). Possible alata/rosea introgression hypothesized. Survives near-zero-soil conditions; Mike planning 2024-25 propagation."
     }
   }
 }

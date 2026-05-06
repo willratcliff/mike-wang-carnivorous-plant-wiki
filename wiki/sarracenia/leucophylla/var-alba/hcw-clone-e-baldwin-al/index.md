@@ -50,6 +50,9 @@ source_threads:
   - thread_id: 226
     url: "https://sarracenia.proboards.com/thread/226/leucophylla-hurricane-creek-white-clone"
     role: "primary"
+  - thread_id: 391
+    url: "https://sarracenia.proboards.com/thread/391/leuc-hurricane-creek-white-clone"
+    role: "update"  # Sept-Oct 2012 fall pitcher photos confirming the alba/non-alba interior plasticity
 
 photos:
   - path: "4e/4e0ff4cfa3b6470dcee6382fe07e915c8939ef99d4602a9c97b055960f532c01.jpg"
@@ -111,6 +114,72 @@ photos:
     caption: "2022-09-26"
     photographer: "Mike Wang"
     source_post_id: 49047
+    favorite: false
+  # From thread 391 (Sept-Oct 2012 fall pitcher updates)
+  - path: "dd/dd344f38ad64c530d0b296a5f2a474cdf1eed563f04225274614f1c5cfee04f8.jpg"
+    caption: "HCW Clone E fall pitchers, 15 September 2012."
+    photographer: "Mike Wang"
+    source_post_id: 1671
+    favorite: false
+  - path: "57/579adbbf57db3263d1c8af7c113b3f0379fae9db6953dd845d8ad88d5249002b.jpg"
+    caption: "Fall pitchers, 15 September 2012."
+    photographer: "Mike Wang"
+    source_post_id: 1671
+    favorite: false
+  - path: "9c/9c2e4b226279096ffb4111e20ce6e971a5005b19514794c5308255abdbc45ee1.jpg"
+    caption: "Fall pitchers, 15 September 2012."
+    photographer: "Mike Wang"
+    source_post_id: 1671
+    favorite: false
+  - path: "97/97bf391d4ebc4f51deef8cac53616c0561e948d0eddae2a2fb8aabaf7b72cee7.jpg"
+    caption: "Fall pitchers, 15 September 2012."
+    photographer: "Mike Wang"
+    source_post_id: 1671
+    favorite: false
+  - path: "1c/1c6dae88285e8b1d51db5cb8d339f0d406a432fccce3fbe656c91f4165a1ac18.jpg"
+    caption: "Fall pitchers, 15 September 2012."
+    photographer: "Mike Wang"
+    source_post_id: 1671
+    favorite: false
+  - path: "f4/f4a9edcf83719cb073beb51c82ad531e97f2c069d55242957f44ca89b00f0be2.jpg"
+    caption: "Fall pitchers, 15 September 2012."
+    photographer: "Mike Wang"
+    source_post_id: 1671
+    favorite: false
+  - path: "43/4365038094d4dd8b628085c7dd5f01a7667072867d13113adef15eb63e303072.jpg"
+    caption: "Fall pitchers, 15 September 2012."
+    photographer: "Mike Wang"
+    source_post_id: 1671
+    favorite: false
+  - path: "b4/b41106a78e139c2183ffbb6373f81ac84083eec4fa6048e7ea3023c77427ec44.jpg"
+    caption: "Fall pitchers, 15 September 2012."
+    photographer: "Mike Wang"
+    source_post_id: 1671
+    favorite: false
+  - path: "c1/c101e2efb6fec6cbf81ee5724fafb431bcdf339372701171553f8931ce2f503f.jpg"
+    caption: "Fall pitchers, 15 September 2012."
+    photographer: "Mike Wang"
+    source_post_id: 1671
+    favorite: false
+  - path: "c4/c4b974815467bd6b87e05b4c3ccddb741657a09756f31d2fc2f60c8cdae0db69.jpg"
+    caption: "Late September 2012."
+    photographer: "Mike Wang"
+    source_post_id: 1751
+    favorite: false
+  - path: "7d/7d1f8bc133d0046b33cd98cbb1e4b569be04b24106d9b237112c20286429c52d.jpg"
+    caption: "Late September 2012."
+    photographer: "Mike Wang"
+    source_post_id: 1751
+    favorite: false
+  - path: "70/703c450ae5f60eeba77b2a41c740fb2a38964539e4ee1de6ebc28770117aefe8.jpg"
+    caption: "Late September 2012."
+    photographer: "Mike Wang"
+    source_post_id: 1751
+    favorite: false
+  - path: "d1/d1c1d75ebf55dc3d4cebb04e7971e8741db346b4a338837dd3eae45e11e34fc9.jpg"
+    caption: "Late September 2012."
+    photographer: "Mike Wang"
+    source_post_id: 1751
     favorite: false
 
 review:

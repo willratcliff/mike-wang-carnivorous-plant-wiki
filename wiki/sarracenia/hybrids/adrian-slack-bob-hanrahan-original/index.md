@@ -51,6 +51,15 @@ source_threads:
   - thread_id: 48
     url: "https://sarracenia.proboards.com/thread/48/adrian-slack"
     role: "primary"
+  - thread_id: 377
+    url: "https://sarracenia.proboards.com/thread/377/adrian-slack-photo-update-27"
+    role: "update"  # 2012-2014 photo updates including a Bob Hanrahan tribute (post #2, 2013-06-11) — Hanrahan died early 2013
+
+photos_not_mirrored:
+  - source_post_id: 2968
+    note: "Mike photobucket (5 links) — June 2013 tribute post to Bob Hanrahan after his recent death."
+  - source_post_id: 3284
+    note: "Mike photobucket (3 links) — July 2013 first-year-after-division coloring."
 
 photos:
   - path: "15/154d78f91c295465cf4cde26ad790ad74a5e15b83bf57391245c5ce91516a92a.jpg"
@@ -58,6 +67,47 @@ photos:
     photographer: "Mike Wang"
     source_post_id: 112
     favorite: true
+  # From thread 377 (2012-2014 update thread)
+  - path: "5a/5a87ddcff3fe160bee8006a99185f0dbd2e33ad65b91239df5ab75fb1d574a73.jpg"
+    caption: "Adrian Slack, early September 2012."
+    photographer: "Mike Wang"
+    source_post_id: 1612
+    favorite: false
+  - path: "c9/c9df1d2463b9c5b374916d5858690dc427fc749438b394485125b9a4821c1f3c.jpg"
+    caption: "Early September 2012."
+    photographer: "Mike Wang"
+    source_post_id: 1612
+    favorite: false
+  - path: "8d/8d5edf76a970f73a189a966489697992d444a3309fa8e5cfad5e8abf8f153dbc.jpg"
+    caption: "Early September 2012."
+    photographer: "Mike Wang"
+    source_post_id: 1612
+    favorite: false
+  - path: "3b/3b9fba016b9bf18f0e1ce4f342fac42fdad961d699e9e348bd6aece1c747f72f.jpg"
+    caption: "Adrian Slack greenhouse-grown at California Carnivores, 27 July 2013."
+    photographer: "Mike Wang"
+    source_post_id: 3318
+    favorite: false
+  - path: "06/063e8f4c80e70b514d6e1469fe8f4b3f20dc6cdbf7de89a8c0ed741697ed0f69.jpg"
+    caption: "Adrian Slack at CC, 27 July 2013."
+    photographer: "Mike Wang"
+    source_post_id: 3318
+    favorite: false
+  - path: "79/791036865c07da74dd08f43bfa2ba7efbb15ed663aa53f0fd8393bd1a0fb5e63.jpg"
+    caption: "Adrian Slack at CC, 27 July 2013."
+    photographer: "Mike Wang"
+    source_post_id: 3318
+    favorite: false
+  - path: "68/68e3c05c6616c59d9d32dd9fed7aff54b3c70d7a40883d3cc764d61f081d1345.jpg"
+    caption: "27 July 2014 — Mike: 'the red contrasting with the white is pretty outrageously beautiful'."
+    photographer: "Mike Wang"
+    source_post_id: 9311
+    favorite: true
+  - path: "eb/eb0238fb8ab8c02d3ccd797a9f434ad11f805a8a5592c277abc42fd094fae3e7.jpg"
+    caption: "27 July 2014."
+    photographer: "Mike Wang"
+    source_post_id: 9311
+    favorite: false
 
 review:
   ai_extracted_by: "Claude (Claude Code session, 2026-05-05 D)"

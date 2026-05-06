@@ -39,6 +39,9 @@ source_threads:
   - thread_id: 248
     url: "https://sarracenia.proboards.com/thread/248/excellens"
     role: "primary"
+  - thread_id: 378
+    url: "https://sarracenia.proboards.com/thread/378/excellens-green-face"
+    role: "update"  # 2012-09 confirms green-face is fall-only; notes traps reach 3' from okee giant genes; Mike has seen a similar European-bred green-face excellens
 
 photos:
   - path: "44/4460cef0e93cea611213c05d85e8820e1d4940f2fee8f7fadb6a55ea650ba7b1.jpg"
@@ -65,6 +68,27 @@ photos:
     caption: "leucophylla 'burgundy' × minor okee, 2012-06-03"
     photographer: "Mike Wang"
     source_post_id: 978
+    favorite: false
+  # From thread 378 (Sep 2012 follow-up — fall-only green-face confirmation, 3' okee-giant trap height)
+  - path: "54/541855e895afd1b60a007382197eed59a02df4a79d83c714310702a3e2cd920d.jpg"
+    caption: "leucophylla 'Burgundy' × minor okee 'Green Face' — fall expression, September 2012."
+    photographer: "Mike Wang"
+    source_post_id: 1615
+    favorite: true
+  - path: "b7/b771c84eca4b0e278ed8ef40033b1c153e8724e92eb7d2a479a3e0959c239300.jpg"
+    caption: "Green Face fall expression, September 2012."
+    photographer: "Mike Wang"
+    source_post_id: 1615
+    favorite: false
+  - path: "0c/0cbcc31d4b4a03983de193c771dd4080e57e2c007620cf4e3bdebf7a27c20e88.jpg"
+    caption: "Green Face fall expression, September 2012."
+    photographer: "Mike Wang"
+    source_post_id: 1615
+    favorite: false
+  - path: "13/13aa620ef081b6508e119ef8309938697e12c074ec13ab91fa3a5856a67fcfee.jpg"
+    caption: "Green Face fall expression, September 2012."
+    photographer: "Mike Wang"
+    source_post_id: 1615
     favorite: false
 
 review:
