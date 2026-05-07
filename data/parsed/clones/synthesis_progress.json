@@ -6911,6 +6911,113 @@
       ],
       "status": "deferred-not-a-clone",
       "split_decision": "Topic-thread documenting alata flower diversity. Not single-clone."
+    },
+    "C0417": {
+      "candidate_name": "Sarracenia 'Rudolf II'",
+      "source_thread_ids": [
+        4212
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/hybrids/rudolf-ii/index.md"
+      ],
+      "split_decision": "European Czech-named cultivar; vigorous + compact + abundant traps."
+    },
+    "C0444": {
+      "candidate_name": "Sarracenia (BLACK Sarracenia)",
+      "source_thread_ids": [
+        4389
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "BLACK Sarracenia methodology / topic-thread (5 pages, 65 posts) \u2014 Mike's investigation of black-leuco/alata/etc. cultivation challenges. Not single-clone."
+    },
+    "C0453": {
+      "candidate_name": "Sarracenia (Blood Moon revisited)",
+      "source_thread_ids": [
+        4496
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/hybrids/blood-moon-grex/index.md"
+      ],
+      "split_decision": "Multi-clone grex cultivar \u2014 rubricorpora \u00d7 Wilkerson's Red Rocket."
+    },
+    "C0462": {
+      "candidate_name": "Sarracenia flava var. rugelii Okaloosa Co, FL",
+      "source_thread_ids": [
+        4530
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-rugelii/clone-1-okaloosa-co-fl/index.md"
+      ],
+      "split_decision": "Mike's Okaloosa rugelii Clone #1 \u2014 giant potential, distant hybridization."
+    },
+    "C0463": {
+      "candidate_name": "Sarracenia flava var. cuprea 'best clone'",
+      "source_thread_ids": [
+        4531
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-cuprea/best-clone-cc-bob-hanrahan/index.md"
+      ],
+      "split_decision": "Foundational Mike cuprea \u2014 Bob Hanrahan source via CC. Originally 'flava red form'. Parent of multiple Mike crosses."
+    },
+    "C0464": {
+      "candidate_name": "Sarracenia flava var. rubricorpora 'Burgundy'",
+      "source_thread_ids": [
+        4533
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-rubricorpora/burgundy-adrian-slack/index.md"
+      ],
+      "split_decision": "Famous classic \u2014 likely Adrian Slack origin. PITA cultivation but outstanding breeding parent."
+    },
+    "C0465": {
+      "candidate_name": "Sarracenia flava var. flava 'LEMON YELLOW' Brunswick Co, NC",
+      "source_thread_ids": [
+        4535
+      ],
+      "status": "already-done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-flava/lemon-yellow-brunswick-nc/index.md"
+      ],
+      "split_decision": "Already in wiki \u2014 entry covers thread 4535 content. No augmentation needed."
+    },
+    "C0466": {
+      "candidate_name": "Sarracenia flava var. cuprea 'dark top' Brunswick Co, NC",
+      "source_thread_ids": [
+        4536
+      ],
+      "status": "already-done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-cuprea/dark-top-brunswick-nc/index.md"
+      ],
+      "split_decision": "Already in wiki \u2014 entry covers thread 4536 content."
+    },
+    "C0467": {
+      "candidate_name": "Sarracenia flava 'solid red throat'",
+      "source_thread_ids": [
+        4539
+      ],
+      "status": "already-done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/solid-red-throat-eastern-al/index.md"
+      ],
+      "split_decision": "Already in wiki \u2014 entry covers thread 4539 content."
+    },
+    "C0502": {
+      "candidate_name": "Sarracenia flava var. rubricorpora",
+      "source_thread_ids": [
+        4836
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-rubricorpora/srt-x-ert-select-cross/index.md"
+      ],
+      "split_decision": "Mike's F1 cross \u2014 rubri SRT \u00d7 ERT select \u2014 yellow lid + EXTREME red throat + easy body coloration."
     }
   }
 }
