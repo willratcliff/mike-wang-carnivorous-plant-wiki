@@ -6190,6 +6190,72 @@
         "wiki/sarracenia/flava/bulloch-co-ga-extirpated-population/index.md"
       ],
       "split_decision": "MAJOR conservation entry. Multi-clone preservation from extirpated 2012 powercut site. Possibly the wild origin of the famous IBV (Improved Black Veins) lineage \u2014 Mike's 2015 reattribution from prior Kennedy-tract attribution. 32-post thread covers rescue history, distribution to ABG/GSU, Mike's cross-out approach for vigor, 2021 seed-increase backup with contamination caveat."
+    },
+    "C0290": {
+      "candidate_name": "Sarracenia flava x best",
+      "source_thread_ids": [
+        2144
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-atropurpurea/lois-x-best-rare-red/index.md"
+      ],
+      "split_decision": "Rare 1-in-batch atropurpurea segregant from Mike's Lois \u00d7 best clone cuprea\u00d7cuprea cross. Sibling of 'copper body' (C0287). Mike's central evidence for cuprea-atropurpurea genetic continuity."
+    },
+    "C0291": {
+      "candidate_name": "Sarracenia flava var. ornata 'red lips'",
+      "source_thread_ids": [
+        2148
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-ornata/red-lips-bulloch-bv-line/index.md"
+      ],
+      "split_decision": "Mike-bred select clone from a 3-grandparent Bulloch black-veins F-generation cross. Pedigree: ((Gulf Coast,FL \u00d7 black veins) clone B) \u00d7 (black veins SFL05A). Sibling line to IBV."
+    },
+    "C0293": {
+      "candidate_name": "Sarracenia leucophylla Walton Co, FL",
+      "source_thread_ids": [
+        2159
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/bud-wilkersons-bog-clone-a-walton-fl/index.md"
+      ],
+      "split_decision": "Bud Wilkerson's Bog Clone A \u2014 distinct from existing Clone B entry. Cold-tolerant spring-pitcher producer; framework for cold-tolerant leuco breeding."
+    },
+    "C0295": {
+      "candidate_name": "Sarracenia flava var. rubicorpora Bay Co, FL",
+      "source_thread_ids": [
+        2196
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-rubricorpora/bay-co-fl-population/index.md"
+      ],
+      "split_decision": "MAJOR population overview \u2014 Bay Co rubricorpora parent doc for ERT/SERT/ERT-Recessive breeding lines. Tallest of all Mike's flava populations."
+    },
+    "C0296": {
+      "candidate_name": "Sarracenia flava var. rubricorpora 'Selct. dark clone'",
+      "source_thread_ids": [
+        2204
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-rubricorpora/clone-l-x-best-select-dark-liberty-fl/index.md"
+      ],
+      "split_decision": "Single 'select dark' clone from Mike's L \u00d7 best clone seed batch \u2014 darkest individual in the entire batch. Distinct from existing clone-l-x-best-liberty-fl breeding-line parent doc."
+    },
+    "C0298": {
+      "candidate_name": "Sarracenia flava var. rugelii",
+      "source_thread_ids": [
+        2211
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-rugelii/clone-a-liberty-fl/index.md"
+      ],
+      "split_decision": "Mike's foundational Liberty Co rugelii Clone A \u2014 sown 1997-05-23 from May 1997 ICPS seed batch. Most-requested rugelii in collection. Heavy breeding-line use (Clone A\u00d7B, SERT)."
     }
   }
 }
