@@ -6667,6 +6667,105 @@
         "wiki/sarracenia/rosea/southern-baldwin-co-al-population/index.md"
       ],
       "split_decision": "Origin population for the Hanrahan AF luteola lineage. Disease-resistant; yellow-tone genetic trait demonstrated."
+    },
+    "C0347": {
+      "candidate_name": "Sarracenia rubra Marion Co, GA",
+      "source_thread_ids": [
+        3313
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/rubra/marion-co-ga-ancestral/index.md"
+      ],
+      "split_decision": "Marion Co rubra ancestral \u2014 2 distinct sites, multiple giants."
+    },
+    "C0349": {
+      "candidate_name": "Sarracenia leucophylla",
+      "source_thread_ids": [
+        3330
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/var-alba/hcw-axf-select/index.md"
+      ],
+      "split_decision": "HCW Clone A \u00d7 Clone F Mike-bred F1; red petiole below white head."
+    },
+    "C0350": {
+      "candidate_name": "Sarracenia leucophylla var. alba",
+      "source_thread_ids": [
+        3336
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/var-alba/original-chameleon-baldwin-al/index.md"
+      ],
+      "split_decision": "'Original chameleon' Baldwin Co \u2014 same plant produces both alba + regular leuco traps simultaneously."
+    },
+    "C0351": {
+      "candidate_name": "Sarracenia leucophylla Baldwin Co, AL",
+      "source_thread_ids": [
+        3343
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/pink-various-clones-baldwin-al/index.md"
+      ],
+      "split_decision": "Mike's Baldwin Co pink leuco tray \u2014 multiple clones with mitchelliana introgression hypothesis."
+    },
+    "C0353": {
+      "candidate_name": "Sarracenia leucophylla",
+      "source_thread_ids": [
+        3350
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/mixed-population-mike-field/index.md"
+      ],
+      "split_decision": "Mike's mixed-locality leuco field display."
+    },
+    "C0355": {
+      "candidate_name": "Sarracenia moorei x moorei 'Bouquet'",
+      "source_thread_ids": [
+        3372
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/hybrids/bouquet-moorei/index.md"
+      ],
+      "split_decision": "Leuco-dominant moorei with dark red lip + lid + veins."
+    },
+    "C0358": {
+      "candidate_name": "Sarracenia leucophylla RED Liberty Co, FL",
+      "source_thread_ids": [
+        3383
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/red-liberty-co-fl-mike-clone/index.md"
+      ],
+      "split_decision": "Mike's red Liberty leuco \u2014 moderate-shade red."
+    },
+    "C0361": {
+      "candidate_name": "Sarracenia leucophylla",
+      "source_thread_ids": [
+        3405
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/red-cc-clone-bob-hanrahan/index.md"
+      ],
+      "split_decision": "CC's historical Hanrahan-source red leuco; pod parent for Peter D'Amato leuco RED \u00d7 minor okee giant cross."
+    },
+    "C0362": {
+      "candidate_name": "Sarracenia leucophylla RED Washington Co, AL",
+      "source_thread_ids": [
+        3415
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/red-washington-co-al/index.md"
+      ],
+      "split_decision": "Extremely rare red Washington leuco; rubra wherryi introgression hypothesis."
     }
   }
 }
