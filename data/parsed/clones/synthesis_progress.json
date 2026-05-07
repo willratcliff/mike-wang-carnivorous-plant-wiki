@@ -6566,6 +6566,63 @@
         "wiki/sarracenia/minor/var-okefenokeensis/charlton-co-ga-population/index.md"
       ],
       "split_decision": "Mike's Charlton Co okee population \u2014 96+ clones, 130+ total in collection. Cultivation framework: root space + insect feeding = giant traps."
+    },
+    "C0337": {
+      "candidate_name": "Sarracenia psittacina var. okefenokeensis Covington Co, AL",
+      "source_thread_ids": [
+        3158
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/psittacina/var-okefenokeensis/short-petiole-covington-co-al/index.md"
+      ],
+      "split_decision": "Mike's 'short petiole' / 'round heads' Covington Co clone + reddish-white flower variant population."
+    },
+    "C0338": {
+      "candidate_name": "Dionaea (California Carnivores collection tour)",
+      "source_thread_ids": [
+        3170
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "California Carnivores VFT collection tour \u2014 collection-tour topic-thread (Damon Collingsworth's VFT obsession). Many cultivars documented but not single-clone documentation."
+    },
+    "C0339": {
+      "candidate_name": "Sarracenia flava var. atropurpurea Bay Co, FL",
+      "source_thread_ids": [
+        3175
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-atropurpurea/cooks-bayou-bay-fl-mike-clone/index.md"
+      ],
+      "split_decision": "Mike's separate atro selection from extirpated Cook's Bayou site \u2014 distinct from S. 'Cooke's Bayou Red' (= Mike King MKF134, registered, John-Hummer/Phil-Sheridan-distributed)."
+    },
+    "C0340": {
+      "candidate_name": "Sarracenia (California Carnivores Sarracenia Stash)",
+      "source_thread_ids": [
+        3178
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "California Carnivores Sarracenia collection tour \u2014 Damon's Bob Hanrahan division acquired by Mike during visit; many CC clones documented (Deep Throat, pink Baldwin leuco, Hannah montana, cuprea Bill Hoyer, etc.). Collection-tour topic-thread."
+    },
+    "C0341": {
+      "candidate_name": "Sarracenia minor var. okefenokeensis Ware Co, GA",
+      "source_thread_ids": [
+        3190
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/minor/var-okefenokeensis/ware-co-ga-population/index.md"
+      ],
+      "split_decision": "Type-locality population for var. okefenokeensis. Mike has 2 distinct Ware Co accessions (type-locality vs more colorful)."
+    },
+    "C0342": {
+      "candidate_name": "Nepenthes (California Carnivores collection tour)",
+      "source_thread_ids": [
+        3193
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "California Carnivores Nepenthes greenhouse collection tour \u2014 collection-tour topic-thread."
     }
   }
 }
