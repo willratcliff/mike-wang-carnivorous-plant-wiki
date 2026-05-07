@@ -1,0 +1,246 @@
+---
+// Client-side filter bar for clone-list pages.
+//
+// The page renders this component before the card grid. Each card in
+// the grid carries data attributes (data-filter-state, etc.) that this
+// bar's JavaScript reads to hide/show cards as filter chips toggle.
+//
+// Multiple chips within a group are OR'd; across groups they are AND'd.
+
+interface Props {
+  /** Pre-computed available filter values, e.g. { state: ["FL", "GA"], breeder: [...] }. */
+  groups: Record<string, string[]>;
+  /** Total entry count (for the "showing X of Y" counter). */
+  total: number;
+  /** Selector for the cards container the filter applies to. */
+  targetSelector?: string;
+}
+
+const { groups, total, targetSelector = '.filterable-grid' } = Astro.props;
+
+const labels: Record<string, string> = {
+  state: 'State',
+  breeder: 'Breeder',
+  type: 'Type',
+  hasFavorite: 'Photos',
+};
+
+// Friendly display for filter values.
+function display(group: string, value: string): string {
+  if (group === 'type') return value.replace(/-/g, ' ');
+  if (group === 'hasFavorite') return value === 'yes' ? 'Has favorite photo' : 'No favorite photo';
+  return value;
+}
+---
+
+<div class="filter-bar" data-filter-target={targetSelector}>
+  <div class="filter-groups">
+    {Object.entries(groups).map(([group, values]) => (
+      values.length > 1 && (
+        <div class="filter-group">
+          <span class="filter-label">{labels[group] ?? group}</span>
+          <div class="filter-chips">
+            {values.map((v) => (
+              <button
+                type="button"
+                class="filter-chip"
+                data-filter-group={group}
+                data-filter-value={v}
+              >
+                {display(group, v)}
+              </button>
+            ))}
+          </div>
+        </div>
+      )
+    ))}
+  </div>
+  <div class="filter-meta">
+    <span class="counter" data-filter-counter>
+      Showing <strong>{total}</strong> of <strong>{total}</strong>
+    </span>
+    <button type="button" class="filter-clear" data-filter-clear hidden>Clear filters</button>
+  </div>
+</div>
+
+<script>
+  // FilterBar applies AND-across-groups, OR-within-group filtering to
+  // the cards it wraps. Cards must carry data-filter-<group>="<value>"
+  // attributes — see CloneCard.astro and the list pages.
+  document.querySelectorAll<HTMLElement>('.filter-bar').forEach((bar) => {
+    const targetSel = bar.dataset.filterTarget!;
+    const grid = document.querySelector<HTMLElement>(targetSel);
+    if (!grid) return;
+
+    const cards = Array.from(grid.querySelectorAll<HTMLElement>('[data-filter-card]'));
+    const counter = bar.querySelector<HTMLElement>('[data-filter-counter]');
+    const clearBtn = bar.querySelector<HTMLButtonElement>('[data-filter-clear]');
+    const chips = Array.from(bar.querySelectorAll<HTMLButtonElement>('.filter-chip'));
+
+    // Active set: { group: Set<value> }
+    const active = new Map<string, Set<string>>();
+
+    // An empty-state element appended to the grid; shown when no cards match.
+    let emptyEl = grid.querySelector<HTMLElement>('.filter-empty-state');
+    if (!emptyEl) {
+      emptyEl = document.createElement('div');
+      emptyEl.className = 'filter-empty-state';
+      emptyEl.textContent = 'No clones match these filters.';
+      emptyEl.hidden = true;
+      grid.appendChild(emptyEl);
+    }
+
+    const apply = () => {
+      const groups = Array.from(active.entries()).filter(([, s]) => s.size > 0);
+      let visible = 0;
+      for (const card of cards) {
+        let ok = true;
+        for (const [group, set] of groups) {
+          // Cards may have multiple values per group encoded as
+          // double-pipe-separated; treat as multi-value.
+          const raw = card.dataset[`filter${cap(group)}`] ?? '';
+          const cardValues = raw.split('||').filter(Boolean);
+          // OR within group: at least one card value must be in the set.
+          if (!cardValues.some((v) => set.has(v))) {
+            ok = false;
+            break;
+          }
+        }
+        card.style.display = ok ? '' : 'none';
+        if (ok) visible++;
+      }
+      if (counter) {
+        counter.innerHTML = `Showing <strong>${visible}</strong> of <strong>${cards.length}</strong>`;
+      }
+      if (clearBtn) {
+        clearBtn.hidden = groups.length === 0;
+      }
+      if (emptyEl) emptyEl.hidden = visible !== 0;
+    };
+
+    chips.forEach((chip) => {
+      chip.addEventListener('click', () => {
+        const group = chip.dataset.filterGroup!;
+        const value = chip.dataset.filterValue!;
+        if (!active.has(group)) active.set(group, new Set());
+        const set = active.get(group)!;
+        if (set.has(value)) {
+          set.delete(value);
+          chip.classList.remove('active');
+        } else {
+          set.add(value);
+          chip.classList.add('active');
+        }
+        apply();
+      });
+    });
+
+    clearBtn?.addEventListener('click', () => {
+      active.clear();
+      chips.forEach((c) => c.classList.remove('active'));
+      apply();
+    });
+
+    function cap(s: string) {
+      return s.charAt(0).toUpperCase() + s.slice(1);
+    }
+  });
+</script>
+
+<style>
+  .filter-bar {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    padding: 14px 18px;
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  .filter-groups {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px 24px;
+  }
+  .filter-group {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+  .filter-label {
+    font-size: 0.78rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--muted);
+    font-weight: 600;
+  }
+  .filter-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .filter-chip {
+    padding: 4px 10px;
+    border-radius: 999px;
+    background: transparent;
+    color: var(--fg-soft);
+    border: 1px solid var(--border-strong);
+    cursor: pointer;
+    font-size: 0.85rem;
+    font-family: inherit;
+    transition: all 100ms ease;
+  }
+  .filter-chip:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+  .filter-chip.active {
+    background: var(--accent);
+    color: #fff;
+    border-color: var(--accent);
+  }
+  .filter-meta {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+    border-top: 1px solid var(--border);
+    padding-top: 10px;
+    font-size: 0.9rem;
+    color: var(--muted);
+  }
+  .counter strong { color: var(--fg); font-weight: 600; }
+  .filter-clear {
+    background: transparent;
+    border: 1px solid var(--border-strong);
+    color: var(--fg-soft);
+    padding: 4px 12px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-family: inherit;
+    font-size: 0.85rem;
+  }
+  .filter-clear:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+  .filter-clear[hidden] { display: none; }
+
+  @media (max-width: 640px) {
+    .filter-groups { gap: 10px 16px; }
+  }
+</style>
+
+<style is:global>
+  /* Empty-state message inside the filtered grid. Set to global so it
+     doesn't get scoped away when injected from JS at runtime. */
+  .filter-empty-state {
+    grid-column: 1 / -1;
+    text-align: center;
+    padding: 48px 16px;
+    color: var(--muted);
+    font-size: 1.05rem;
+  }
+  .filter-empty-state[hidden] { display: none; }
+</style>

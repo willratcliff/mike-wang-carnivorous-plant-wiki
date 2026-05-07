@@ -1,0 +1,340 @@
+---
+import BaseLayout from '~/layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { resolveImageUrl } from '~/lib/photos';
+
+const all = await getCollection('clones');
+
+// Group entries by genus → counts + sample photo for each.
+const generaMap = new Map<string, typeof all>();
+for (const e of all) {
+  const g = e.data.genus.toLowerCase();
+  if (!generaMap.has(g)) generaMap.set(g, []);
+  generaMap.get(g)!.push(e);
+}
+
+const genera = Array.from(generaMap.entries())
+  .map(([genus, entries]) => {
+    // Pick a photogenic sample: prefer entries with a favorite photo
+    // and at least 5 photos overall.
+    const sample =
+      entries.find((e) => e.data.photos?.some((p) => p.favorite) && e.data.photos!.length >= 5) ??
+      entries.find((e) => e.data.photos?.length) ??
+      entries[0];
+    const photo = sample.data.photos?.find((p) => p.favorite) ?? sample.data.photos?.[0];
+    const speciesCount = new Set(
+      entries.map((e) => e.data.species).filter((s) => s !== null)
+    ).size;
+    return {
+      genus,
+      display: genus.charAt(0).toUpperCase() + genus.slice(1),
+      count: entries.length,
+      speciesCount,
+      thumb: photo ? resolveImageUrl(photo.path) : null,
+    };
+  })
+  .sort((a, b) => b.count - a.count);
+
+// Featured pool: any clone with a favorite-marked photo AND ≥3 photos.
+// At build time we pick 4 using build-date as seed; client-side JS
+// re-picks using today's date if the page is viewed on a later day.
+type Featured = { id: string; title: string; photoCount: number; thumb: string | null };
+const featuredPool: Featured[] = all
+  .filter((e) =>
+    (e.data.photos?.length ?? 0) >= 3 &&
+    e.data.photos!.some((p) => p.favorite)
+  )
+  .map((e) => {
+    const photo = e.data.photos!.find((p) => p.favorite)!;
+    return {
+      id: e.id,
+      title: e.data.full_name ?? e.data.group_name ?? e.id,
+      photoCount: e.data.photos!.length,
+      thumb: resolveImageUrl(photo.path),
+    };
+  })
+  .filter((f) => f.thumb !== null);
+
+// Seeded shuffle helpers — kept identical between server and client so
+// the same date always picks the same 4 entries.
+function seedFromDate(date: string): number {
+  let h = 2166136261 >>> 0;
+  for (let i = 0; i < date.length; i++) {
+    h ^= date.charCodeAt(i);
+    h = Math.imul(h, 16777619) >>> 0;
+  }
+  return h;
+}
+function mulberry32(a: number) {
+  return () => {
+    a = (a + 0x6D2B79F5) | 0;
+    let t = Math.imul(a ^ (a >>> 15), 1 | a);
+    t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t;
+    return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+  };
+}
+function pickN<T>(arr: T[], n: number, seed: number): T[] {
+  const rand = mulberry32(seed);
+  const a = arr.slice();
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(rand() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a.slice(0, n);
+}
+
+const buildDate = new Date().toISOString().slice(0, 10); // YYYY-MM-DD
+const featured = pickN(featuredPool, 4, seedFromDate(buildDate));
+---
+
+<BaseLayout
+  title="Home"
+  description={`A wiki of ${all.length} carnivorous plant clones described by Mike Wang on the Sarracenia Forum.`}
+>
+  <div data-pagefind-ignore>
+  <section class="hero-home container">
+    <h1>Carnivorous Plant Clone Wiki</h1>
+    <p class="lede">
+      An archive of {all.length} carnivorous plant clones described by
+      <a href="https://sarracenia.proboards.com/user/11">Mike Wang</a>
+      on the <a href="https://sarracenia.proboards.com">Sarracenia
+      Forum</a>, spanning {genera.length} genera. Most entries are
+      AI-extracted from forum posts and await Mike's review.
+    </p>
+  </section>
+
+  <section class="container">
+    <h2 class="section-h">Browse by genus</h2>
+    <div class="genus-grid">
+      {genera.map((g) => (
+        <a href={`/${g.genus}/`} class="genus-card">
+          <div class="thumb">
+            {g.thumb ? (
+              <img src={g.thumb} alt={g.display} loading="lazy" referrerpolicy="no-referrer" />
+            ) : (
+              <div class="thumb-empty"></div>
+            )}
+            <div class="thumb-shade"></div>
+            <div class="thumb-text">
+              <span class="g-name"><em>{g.display}</em></span>
+            </div>
+          </div>
+          <div class="meta">
+            <span class="g-count">
+              {g.count} {g.count === 1 ? 'clone' : 'clones'}
+              {g.speciesCount > 1 && <span class="muted"> · {g.speciesCount} species</span>}
+            </span>
+          </div>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  {featured.length > 0 && (
+    <section class="container">
+      <h2 class="section-h">Featured today</h2>
+      <div class="featured-grid" id="featured-grid" data-build-date={buildDate}>
+        {featured.map((f) => (
+          <a href={`/${f.id}/`} class="featured-card">
+            {f.thumb && <img src={f.thumb} alt={f.title} loading="lazy" referrerpolicy="no-referrer" />}
+            <div class="ft-text">
+              <span class="ft-title">{f.title}</span>
+              <span class="ft-meta">{f.photoCount} photos</span>
+            </div>
+          </a>
+        ))}
+      </div>
+      <script
+        is:inline
+        type="application/json"
+        id="featured-pool"
+        set:html={JSON.stringify(featuredPool)}
+      />
+    </section>
+  )}
+  </div>
+</BaseLayout>
+
+<script>
+  // Daily-rotating featured picks. The server renders 4 entries using
+  // the build date as seed (so SEO crawlers + no-JS visitors see them).
+  // On every page load we check the current date and re-pick if it
+  // differs from the build date — the static site rotates without a
+  // rebuild.
+  type Featured = { id: string; title: string; photoCount: number; thumb: string | null };
+
+  const grid = document.getElementById('featured-grid');
+  const poolEl = document.getElementById('featured-pool');
+  if (grid && poolEl) {
+    const buildDate = grid.dataset.buildDate ?? '';
+    const today = new Date().toISOString().slice(0, 10);
+    if (today !== buildDate) {
+      const pool: Featured[] = JSON.parse(poolEl.textContent || '[]');
+
+      // Same seeded shuffle as the server side.
+      const seedFromDate = (date: string) => {
+        let h = 2166136261 >>> 0;
+        for (let i = 0; i < date.length; i++) {
+          h ^= date.charCodeAt(i);
+          h = Math.imul(h, 16777619) >>> 0;
+        }
+        return h;
+      };
+      const mulberry32 = (a: number) => () => {
+        a = (a + 0x6D2B79F5) | 0;
+        let t = Math.imul(a ^ (a >>> 15), 1 | a);
+        t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t;
+        return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+      };
+      const pickN = <T,>(arr: T[], n: number, seed: number): T[] => {
+        const rand = mulberry32(seed);
+        const a = arr.slice();
+        for (let i = a.length - 1; i > 0; i--) {
+          const j = Math.floor(rand() * (i + 1));
+          [a[i], a[j]] = [a[j], a[i]];
+        }
+        return a.slice(0, n);
+      };
+
+      const picks = pickN(pool, 4, seedFromDate(today));
+
+      // Re-render the grid. Each card mirrors the server-side template.
+      const escape = (s: string) =>
+        s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+          .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+      grid.innerHTML = picks.map((f) => `
+        <a href="/${f.id}/" class="featured-card">
+          ${f.thumb ? `<img src="${escape(f.thumb)}" alt="${escape(f.title)}" loading="lazy" referrerpolicy="no-referrer" />` : ''}
+          <div class="ft-text">
+            <span class="ft-title">${escape(f.title)}</span>
+            <span class="ft-meta">${f.photoCount} photos</span>
+          </div>
+        </a>
+      `).join('');
+    }
+  }
+</script>
+
+<style>
+  .hero-home { padding: 56px 24px 32px 24px; max-width: 800px; }
+  .hero-home h1 { font-size: 2.8rem; margin-bottom: 16px; }
+  .lede { font-size: 1.15rem; line-height: 1.6; color: var(--fg-soft); }
+  .lede em { font-style: italic; }
+
+  .section-h {
+    font-size: 0.85rem;
+    font-family: var(--sans);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--muted);
+    font-weight: 600;
+    margin: 32px 0 12px 0;
+  }
+
+  .genus-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 16px;
+    margin-bottom: 40px;
+  }
+  .genus-card {
+    display: flex;
+    flex-direction: column;
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    overflow: hidden;
+    color: var(--fg);
+    text-decoration: none;
+    transition: transform 120ms ease, box-shadow 120ms ease, border-color 120ms ease;
+  }
+  .genus-card:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+    border-color: var(--accent);
+  }
+  .genus-card .thumb {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    overflow: hidden;
+  }
+  .genus-card .thumb img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+  .genus-card .thumb-empty {
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(135deg, #4a6855 25%, #2a4a35 100%);
+  }
+  .genus-card .thumb-shade {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to bottom, rgba(0,0,0,0) 50%, rgba(0,0,0,0.7) 100%);
+  }
+  .genus-card .thumb-text {
+    position: absolute;
+    left: 18px;
+    bottom: 14px;
+    color: #fff;
+    text-shadow: 0 1px 6px rgba(0,0,0,0.4);
+  }
+  .g-name {
+    font-family: var(--serif);
+    font-size: 1.5rem;
+    font-weight: 600;
+  }
+  .genus-card .meta {
+    padding: 12px 18px;
+    font-size: 0.92rem;
+    color: var(--fg-soft);
+  }
+  .g-count .muted { color: var(--muted); }
+
+  .featured-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 16px;
+    margin-bottom: 60px;
+  }
+  .featured-card {
+    display: flex;
+    flex-direction: column;
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    overflow: hidden;
+    color: var(--fg);
+    text-decoration: none;
+    transition: transform 120ms ease, box-shadow 120ms ease, border-color 120ms ease;
+  }
+  .featured-card:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+    border-color: var(--accent);
+  }
+  .featured-card img {
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+    display: block;
+  }
+  .ft-text {
+    padding: 12px 14px;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+  }
+  .ft-title {
+    font-family: var(--serif);
+    font-size: 1rem;
+    line-height: 1.3;
+  }
+  .ft-meta {
+    font-size: 0.8rem;
+    color: var(--muted);
+  }
+</style>

@@ -1,0 +1,192 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '~/layouts/BaseLayout.astro';
+import CloneCard from '~/components/CloneCard.astro';
+import FilterBar from '~/components/FilterBar.astro';
+import { resolveImageUrl } from '~/lib/photos';
+
+export async function getStaticPaths() {
+  const all = await getCollection('clones');
+  const genera = new Set(all.map((e) => e.data.genus.toLowerCase()));
+  return Array.from(genera).map((g) => ({
+    params: { genus: g },
+    props: { genus: g, all },
+  }));
+}
+
+const { genus, all } = Astro.props;
+const inGenus = all.filter((e) => e.data.genus.toLowerCase() === genus);
+
+// Group by species. Entries with null species go in "_other".
+const bySpecies = new Map<string | null, typeof inGenus>();
+for (const e of inGenus) {
+  const sp = e.data.species ?? null;
+  if (!bySpecies.has(sp)) bySpecies.set(sp, []);
+  bySpecies.get(sp)!.push(e);
+}
+
+// If we have at least 2 species, show species cards. Otherwise show
+// a flat clone grid (typical for single-species genera like
+// Cephalotus, Darlingtonia).
+const speciesEntries = Array.from(bySpecies.entries()).filter(([sp]) => sp !== null);
+const flatMode = speciesEntries.length <= 1;
+
+const genusDisplay = genus.charAt(0).toUpperCase() + genus.slice(1);
+const totalClones = inGenus.length;
+
+// Build species cards: pick a representative photo (first entry's
+// favorite or first photo).
+const speciesCards = speciesEntries
+  .map(([sp, entries]) => {
+    const sampleEntry = entries.find((e) => e.data.photos?.some((p) => p.favorite)) ?? entries[0];
+    const photo = sampleEntry.data.photos?.find((p) => p.favorite) ?? sampleEntry.data.photos?.[0];
+    return {
+      species: sp!,
+      count: entries.length,
+      thumb: photo ? resolveImageUrl(photo.path) : null,
+    };
+  })
+  .sort((a, b) => a.species.localeCompare(b.species));
+
+// For flat mode, sort clones alphabetically by short_name / id.
+const flatClones = inGenus
+  .slice()
+  .sort((a, b) => (a.data.short_name ?? a.id).localeCompare(b.data.short_name ?? b.id));
+
+// Filter values for the flat-mode filter bar.
+function uniqSorted(values: (string | null | undefined)[]): string[] {
+  return Array.from(new Set(values.filter((v): v is string => Boolean(v)))).sort();
+}
+const flatFilterGroups: Record<string, string[]> = flatMode ? {
+  state: uniqSorted(flatClones.map((e) => e.data.origin_locality?.state)),
+  breeder: uniqSorted(flatClones.map((e) => e.data.breeder)),
+  type: uniqSorted(flatClones.map((e) => e.data.accession_type)),
+} : {};
+---
+
+<BaseLayout
+  title={genusDisplay}
+  description={`${totalClones} ${genusDisplay} clones described by Mike Wang.`}
+>
+  <div data-pagefind-ignore>
+  <section class="container page-header">
+    <p class="muted small">Genus</p>
+    <h1><em>{genusDisplay}</em></h1>
+    <p class="muted">{totalClones} {totalClones === 1 ? 'entry' : 'entries'}{flatMode ? '' : ` across ${speciesCards.length} species`}.</p>
+  </section>
+
+  {flatMode ? (
+    <section class="container">
+      <FilterBar
+        groups={flatFilterGroups}
+        total={flatClones.length}
+        targetSelector=".clone-grid"
+      />
+      <div class="card-grid clone-grid">
+        {flatClones.map((e) => (
+          <CloneCard
+            href={`/${e.id}/`}
+            title={e.data.full_name ?? e.data.group_name ?? e.id.split('/').pop()!}
+            subtitle={e.data.origin_locality?.state ?? null}
+            photos={e.data.photos}
+            reviewed={e.data.review?.human_reviewed}
+            filterState={e.data.origin_locality?.state}
+            filterBreeder={e.data.breeder}
+            filterType={e.data.accession_type}
+          />
+        ))}
+      </div>
+    </section>
+  ) : (
+    <section class="container">
+      <h2 class="visually-hidden">Species</h2>
+      <div class="species-grid">
+        {speciesCards.map((s) => (
+          <a href={`/${genus}/${s.species}/`} class="species-card">
+            <div class="thumb">
+              {s.thumb ? (
+                <img src={s.thumb} alt={s.species} loading="lazy" referrerpolicy="no-referrer" />
+              ) : (
+                <div class="thumb-empty"></div>
+              )}
+            </div>
+            <div class="meta">
+              <span class="sp-name"><em>{genusDisplay} {s.species}</em></span>
+              <span class="sp-count">{s.count} {s.count === 1 ? 'clone' : 'clones'}</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
+  </div>
+</BaseLayout>
+
+<style>
+  .page-header { padding: 48px 24px 24px 24px; }
+  .page-header h1 { font-size: 2.6rem; margin: 4px 0 6px 0; }
+  .page-header .small { font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.08em; margin: 0; }
+
+  .visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+  }
+
+  .card-grid, .species-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 16px;
+    margin-bottom: 60px;
+  }
+
+  .species-card {
+    display: flex;
+    flex-direction: column;
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    overflow: hidden;
+    color: var(--fg);
+    transition: transform 120ms ease, box-shadow 120ms ease, border-color 120ms ease;
+    text-decoration: none;
+    border-bottom: 1px solid var(--border);
+  }
+  .species-card:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+    border-color: var(--accent);
+  }
+  .species-card .thumb {
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    background: #e8e8e0;
+  }
+  .species-card .thumb img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+  .species-card .thumb-empty {
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(135deg, #e0ddc8 25%, #cdd5c2 100%);
+  }
+  .species-card .meta {
+    padding: 14px 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+  .sp-name {
+    font-family: var(--serif);
+    font-size: 1.05rem;
+  }
+  .sp-count {
+    font-size: 0.85rem;
+    color: var(--muted);
+  }
+</style>

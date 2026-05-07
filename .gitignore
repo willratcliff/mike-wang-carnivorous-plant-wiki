@@ -25,6 +25,8 @@ venv/
 
 # Node (if we use a static site generator)
 node_modules/
+web/.npm-cache/
+web/.astro/
 
 # Build outputs — _site is generated; rebuild with scripts/build_site.py
 _site/

@@ -1,0 +1,96 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '~/layouts/BaseLayout.astro';
+import CloneCard from '~/components/CloneCard.astro';
+import FilterBar from '~/components/FilterBar.astro';
+
+export async function getStaticPaths() {
+  const all = await getCollection('clones');
+  const combos = new Map<string, { genus: string; species: string }>();
+  for (const e of all) {
+    if (!e.data.species) continue;
+    const key = `${e.data.genus.toLowerCase()}/${e.data.species}`;
+    combos.set(key, { genus: e.data.genus.toLowerCase(), species: e.data.species });
+  }
+  return Array.from(combos.values()).map(({ genus, species }) => ({
+    params: { genus, species },
+    props: { genus, species, all },
+  }));
+}
+
+const { genus, species, all } = Astro.props;
+const inSpecies = all.filter(
+  (e) => e.data.genus.toLowerCase() === genus && e.data.species === species
+);
+
+const genusDisplay = genus.charAt(0).toUpperCase() + genus.slice(1);
+const totalClones = inSpecies.length;
+
+const sorted = inSpecies
+  .slice()
+  .sort((a, b) => (a.data.short_name ?? a.id).localeCompare(b.data.short_name ?? b.id));
+
+// Compute available filter values from the entries actually shown.
+function uniqSorted(values: (string | null | undefined)[]): string[] {
+  return Array.from(new Set(values.filter((v): v is string => Boolean(v)))).sort();
+}
+const filterGroups = {
+  state: uniqSorted(inSpecies.map((e) => e.data.origin_locality?.state)),
+  breeder: uniqSorted(inSpecies.map((e) => e.data.breeder)),
+  type: uniqSorted(inSpecies.map((e) => e.data.accession_type)),
+};
+---
+
+<BaseLayout
+  title={`${genusDisplay} ${species}`}
+  description={`${totalClones} ${genusDisplay} ${species} clones in the wiki.`}
+>
+  <div data-pagefind-ignore>
+  <section class="container page-header">
+    <p class="muted small breadcrumb">
+      <a href={`/${genus}/`}><em>{genusDisplay}</em></a> /
+    </p>
+    <h1><em>{genusDisplay} {species}</em></h1>
+    <p class="muted">{totalClones} {totalClones === 1 ? 'clone' : 'clones'}.</p>
+  </section>
+
+  <section class="container">
+    <FilterBar
+      groups={filterGroups}
+      total={totalClones}
+      targetSelector=".clone-grid"
+    />
+    <div class="card-grid clone-grid">
+      {sorted.map((e) => (
+        <CloneCard
+          href={`/${e.id}/`}
+          title={e.data.full_name ?? e.data.group_name ?? e.id.split('/').pop()!}
+          subtitle={[
+            e.data.origin_locality?.county ? `${e.data.origin_locality.county} Co` : null,
+            e.data.origin_locality?.state,
+          ].filter(Boolean).join(', ') || null}
+          photos={e.data.photos}
+          reviewed={e.data.review?.human_reviewed}
+          filterState={e.data.origin_locality?.state}
+          filterBreeder={e.data.breeder}
+          filterType={e.data.accession_type}
+        />
+      ))}
+    </div>
+  </section>
+  </div>
+</BaseLayout>
+
+<style>
+  .page-header { padding: 48px 24px 24px 24px; }
+  .page-header h1 { font-size: 2.6rem; margin: 4px 0 6px 0; }
+  .page-header .small { font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.08em; margin: 0; }
+  .breadcrumb a { color: var(--muted); border-bottom-color: transparent; }
+  .breadcrumb a:hover { color: var(--accent); }
+  .card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 16px;
+    margin-bottom: 60px;
+  }
+</style>

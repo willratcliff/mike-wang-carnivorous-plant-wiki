@@ -1,0 +1,343 @@
+---
+import { getCollection } from 'astro:content';
+import { marked } from 'marked';
+import BaseLayout from '~/layouts/BaseLayout.astro';
+import PhotoGallery from '~/components/PhotoGallery.astro';
+import { resolveImageUrl } from '~/lib/photos';
+
+export async function getStaticPaths() {
+  const all = await getCollection('clones');
+  return all.map((entry) => ({
+    params: { slug: entry.id },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const fm = entry.data;
+
+// Strip boilerplate from the body markdown:
+//   - Leading H1 (always matches the page title)
+//   - Trailing "## Sources" section (rendered in the sidebar)
+//   - Trailing "---" / "*Awaiting review.*" footer (rendered in the banner)
+function stripBoilerplate(md: string): string {
+  // Strip leading H1.
+  md = md.replace(/^\s*#\s.*\n+/, '');
+  // Strip "## Sources" and everything after.
+  md = md.split(/\n##\s+Sources\b/i)[0];
+  // Strip trailing "---" + footer note.
+  md = md.split(/\n---+\s*\n/)[0];
+  return md.trim();
+}
+
+const cleanedBody = stripBoilerplate(entry.body ?? '');
+const bodyHtml = cleanedBody ? (marked.parse(cleanedBody, { async: false }) as string) : '';
+
+// Photos with resolvable URLs only — drop the ones whose original
+// download failed and have no fallback so we never render <img> with
+// an empty src.
+const visiblePhotos = (fm.photos ?? []).filter((p) => resolveImageUrl(p.path));
+
+// Pick the hero photo: favorite if any, else first visible photo.
+const heroPhoto = visiblePhotos.find((p) => p.favorite) ?? visiblePhotos[0];
+const heroUrl = heroPhoto ? resolveImageUrl(heroPhoto.path) : null;
+
+const title = fm.full_name ?? fm.group_name ?? `${fm.genus}${fm.species ? ' ' + fm.species : ''}`;
+const isDisambig = fm.type === 'cultivar_group';
+
+// Build a binomial line: italic genus + species + rank/name (e.g.
+// "Sarracenia rubra ssp. wherryi").
+const binomialParts: string[] = [];
+binomialParts.push(fm.genus.toLowerCase());
+if (fm.species) binomialParts.push(fm.species);
+if (fm.infraspecific_rank && fm.infraspecific_name) {
+  binomialParts.push(fm.infraspecific_rank);
+  binomialParts.push(fm.infraspecific_name);
+}
+const binomial = binomialParts.join(' ');
+
+const loc = fm.origin_locality;
+const localityBits: string[] = [];
+if (loc?.county) localityBits.push(`${loc.county} Co`);
+if (loc?.state) localityBits.push(loc.state);
+if (loc?.country && loc.country !== 'USA') localityBits.push(loc.country);
+const localitySummary = localityBits.join(', ');
+
+const description = fm.standout_traits?.length
+  ? fm.standout_traits.slice(0, 2).join('. ').slice(0, 200)
+  : `Mike Wang's clone notes for ${title}.`;
+
+const similar = fm.visually_similar_to ?? [];
+const openQuestions = fm.review?.open_questions ?? [];
+const isReviewed = fm.review?.human_reviewed ?? false;
+
+// `cultivation_notes` is a Markdown string in YAML; render it inline.
+const cultivationHtml = fm.cultivation_notes
+  ? marked.parse(fm.cultivation_notes, { async: false }) as string
+  : '';
+---
+
+<BaseLayout title={title} description={description} ogImage={heroUrl}>
+  {!isReviewed && (
+    <div class="container">
+      <div class="review-banner">
+        <strong>Awaiting Mike's review.</strong> This entry was AI-extracted
+        from forum posts. Treat specifics as a working draft until reviewed.
+      </div>
+    </div>
+  )}
+
+  {heroUrl && !isDisambig && (
+    <div class="hero" style={`background-image: url('${heroUrl}');`}>
+      <div class="hero-shade"></div>
+      <div class="hero-text container">
+        <p class="hero-binomial"><em>{binomial}</em></p>
+        <h1 class="hero-title">{title}</h1>
+        {localitySummary && <p class="hero-locality">{localitySummary}</p>}
+      </div>
+    </div>
+  )}
+
+  <article
+    class="container clone-page"
+    data-pagefind-body
+    data-pagefind-meta={`title:${title}`}
+  >
+    {/* Pagefind metadata + filter values — hidden, indexed at build. */}
+    <span hidden data-pagefind-filter={`genus:${fm.genus}`}></span>
+    {fm.species && <span hidden data-pagefind-filter={`species:${fm.species}`}></span>}
+    {fm.origin_locality?.state && <span hidden data-pagefind-filter={`state:${fm.origin_locality.state}`}></span>}
+    {fm.breeder && <span hidden data-pagefind-filter={`breeder:${fm.breeder}`}></span>}
+    {fm.accession_type && <span hidden data-pagefind-filter={`type:${fm.accession_type}`}></span>}
+    {heroUrl && <span hidden data-pagefind-meta={`image:${heroUrl}`}></span>}
+    {heroPhoto && <span hidden data-pagefind-meta={`image_alt:${heroPhoto.caption}`}></span>}
+    {(!heroUrl || isDisambig) && (
+      <header class="text-header">
+        <p class="binomial-line"><em>{binomial}</em></p>
+        <h1>{title}</h1>
+        {localitySummary && <p class="muted">{localitySummary}</p>}
+      </header>
+    )}
+
+    {isDisambig ? (
+      <section class="disambig">
+        {bodyHtml && <div class="prose" set:html={bodyHtml}></div>}
+        {fm.member_clones && fm.member_clones.length > 0 && (
+          <div class="member-list">
+            <h2>Choose a clone</h2>
+            <ul>
+              {fm.member_clones.map((m) => (
+                <li><a href={`./${m}/`}>{m.replace(/-/g, ' ')}</a></li>
+              ))}
+            </ul>
+          </div>
+        )}
+      </section>
+    ) : (
+      <div class="layout">
+        <div class="main-col">
+          <dl class="quick-facts">
+            {fm.breeder && (<><dt>Breeder</dt><dd>{fm.breeder}</dd></>)}
+            {fm.collector && (<><dt>Collector</dt><dd>{fm.collector}</dd></>)}
+            {fm.year_first_described_on_forum && (
+              <><dt>First described</dt><dd>{fm.year_first_described_on_forum}</dd></>
+            )}
+            {fm.year_into_cultivation && (
+              <><dt>Into cultivation</dt><dd>{String(fm.year_into_cultivation)}</dd></>
+            )}
+            {fm.accession_type && (
+              <><dt>Type</dt><dd>{fm.accession_type.replace(/-/g, ' ')}</dd></>
+            )}
+            {fm.cultivar && (<><dt>Cultivar</dt><dd>'{fm.cultivar}'</dd></>)}
+          </dl>
+
+          {bodyHtml && (
+            <section class="body prose" set:html={bodyHtml}></section>
+          )}
+
+          {fm.standout_traits && fm.standout_traits.length > 0 && (
+            <section>
+              <h2>Standout traits</h2>
+              <ul class="trait-list">
+                {fm.standout_traits.map((t) => (<li>{t}</li>))}
+              </ul>
+            </section>
+          )}
+
+          {cultivationHtml && (
+            <section>
+              <h2>Cultivation</h2>
+              <div class="cultivation prose" set:html={cultivationHtml}></div>
+            </section>
+          )}
+
+          {visiblePhotos.length > 0 && (
+            <section>
+              <h2>Photos ({visiblePhotos.length})</h2>
+              <PhotoGallery photos={visiblePhotos} galleryId="main" />
+            </section>
+          )}
+
+          {fm.naming_etymology && (
+            <section>
+              <h2>Naming</h2>
+              <p>{fm.naming_etymology}</p>
+            </section>
+          )}
+        </div>
+
+        <aside class="side-col">
+          {similar.length > 0 && (
+            <div class="card">
+              <h3>Visually similar</h3>
+              <ul class="similar-list">
+                {similar.map((s) => (
+                  <li>
+                    <strong>{s.clone}</strong>
+                    <span class="muted"> — {s.note}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
+
+          {fm.source_threads && fm.source_threads.length > 0 && (
+            <div class="card">
+              <h3>Source threads</h3>
+              <ul class="threads">
+                {fm.source_threads.map((t) => (
+                  <li>
+                    <a href={t.url} target="_blank" rel="noopener">
+                      Forum thread {t.thread_id}
+                    </a>
+                    <span class="muted"> ({t.role})</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
+
+          {openQuestions.length > 0 && (
+            <div class="card open-q">
+              <h3>Open questions</h3>
+              <ul>{openQuestions.map((q) => (<li>{q}</li>))}</ul>
+              <p class="muted small">Awaiting Mike's notes.</p>
+            </div>
+          )}
+        </aside>
+      </div>
+    )}
+  </article>
+</BaseLayout>
+
+<style>
+  .hero {
+    height: 480px;
+    background-size: cover;
+    background-position: center;
+    background-color: #2a3530;
+    position: relative;
+    margin-bottom: 32px;
+  }
+  .hero-shade {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+      to bottom,
+      rgba(0,0,0,0.05) 0%,
+      rgba(0,0,0,0.15) 60%,
+      rgba(0,0,0,0.7) 100%
+    );
+  }
+  .hero-text {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 0 24px 32px 24px;
+    color: #fff;
+    text-shadow: 0 1px 8px rgba(0,0,0,0.3);
+  }
+  .hero-binomial { margin: 0 0 4px 0; font-size: 1rem; opacity: 0.9; }
+  .hero-title { color: #fff; margin: 0 0 6px 0; font-size: 2.4rem; line-height: 1.15; }
+  .hero-locality { margin: 0; font-size: 1.1rem; opacity: 0.95; }
+
+  .text-header { padding-top: 32px; }
+  .text-header .binomial-line { color: var(--muted); font-size: 1rem; margin: 0 0 4px 0; }
+
+  .clone-page { padding-bottom: 60px; }
+
+  .layout {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 320px;
+    gap: 48px;
+    margin-top: 24px;
+  }
+  .main-col > section { margin-bottom: 36px; }
+
+  .quick-facts {
+    display: grid;
+    grid-template-columns: max-content 1fr;
+    gap: 4px 16px;
+    margin: 0 0 24px 0;
+    padding: 16px 20px;
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    font-size: 0.95rem;
+  }
+  .quick-facts dt { color: var(--muted); font-weight: 500; }
+  .quick-facts dd { margin: 0; color: var(--fg); }
+
+  .prose { font-size: 1.05rem; }
+  .prose p:first-child { margin-top: 0; }
+  .prose ul { padding-left: 20px; }
+  .prose strong { color: var(--fg); }
+  .prose a { border-bottom-color: var(--accent); }
+
+  .trait-list { margin: 8px 0 0 0; padding-left: 20px; }
+  .trait-list li { margin-bottom: 6px; }
+
+  .cultivation { color: var(--fg-soft); }
+
+  .side-col { display: flex; flex-direction: column; gap: 16px; }
+  .card {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 16px 18px;
+  }
+  .card h3 {
+    font-size: 0.85rem;
+    font-family: var(--sans);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--muted);
+    font-weight: 600;
+    margin: 0 0 10px 0;
+  }
+  .card ul { list-style: none; padding: 0; margin: 0; font-size: 0.93rem; }
+  .card li { margin-bottom: 8px; line-height: 1.45; }
+  .card.open-q { background: var(--accent-bg); border-color: #cce4d6; }
+  .card .small { font-size: 0.85rem; margin: 8px 0 0 0; }
+  .similar-list strong { color: var(--fg); font-weight: 600; }
+  .threads { font-size: 0.93rem; }
+
+  .disambig { padding-top: 8px; max-width: 720px; }
+  .member-list ul { list-style: none; padding: 0; margin-top: 12px; }
+  .member-list li {
+    padding: 12px 16px;
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    margin-bottom: 8px;
+    text-transform: capitalize;
+  }
+  .member-list li a { display: block; }
+
+  @media (max-width: 900px) {
+    .layout { grid-template-columns: 1fr; gap: 32px; }
+    .hero { height: 320px; }
+    .hero-title { font-size: 1.8rem; }
+  }
+</style>
