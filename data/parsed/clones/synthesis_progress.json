@@ -5815,6 +5815,94 @@
       ],
       "split_decision": "New entry. 9-10 inch pre-flowering var. minor \u2014 possible okee introgression or unique semi-tall variant.",
       "completed_at_iso": "2026-05-07T10:20:00Z"
+    },
+    "C0241": {
+      "candidate_name": "Sarracenia leucophylla var. alba Baldwin Co, AL",
+      "source_thread_ids": [
+        1391
+      ],
+      "status": "done-augment",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/var-alba/clone-a-baldwin-al/index.md"
+      ],
+      "split_decision": "Augmentation: thread 1391 (2014-2024, 30 posts) added to existing entry that was originally extracted from thread 4880 (2020) only. Confirmed both threads describe the same accession (Mike's 'var. alba clone A Baldwin Co, AL'). Extended history, photo set (~30 new photos), and the chameleon-aging behavior framework documented across both."
+    },
+    "C0242": {
+      "candidate_name": "Sarracenia flava x rept",
+      "source_thread_ids": [
+        1392
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/hybrids/defiance/index.md"
+      ],
+      "split_decision": "Mike's accession-labeled 'clone #11' is now formally registered as S. 'Defiance' (Mike confirmation post #9, 2022-07-19; magknite predicted name post #8, 2021). Sibling of S. 'Crown of Thorns' from same Wyman/Co cross. New entry under hybrids/."
+    },
+    "C0249": {
+      "candidate_name": "Sarracenia flava var. ornata Liberty Co, FL",
+      "source_thread_ids": [
+        1477
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-ornata/liberty-co-fl-rubri-segregant/index.md"
+      ],
+      "split_decision": "Single Mike clone \u2014 an ornata that segregated out of pure Liberty Co rubricorpora parents. Thread also captures Mike's broader genetics framework for var. ornata/rugelii/rubricorpora segregation."
+    },
+    "C0250": {
+      "candidate_name": "Sarracenia rosea Liberty Co, FL",
+      "source_thread_ids": [
+        1488
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/rosea/liberty-co-fl-population/index.md"
+      ],
+      "split_decision": "Population overview entry \u2014 this is the original 'massive colony' thread that's the parent document for the various named-selection child entries (white-flower, tubby-af, bulbz, eggmouth, etc.). Captures the white-flowered variant first observation (2016), TNG seedling generation (2019), and variance-within-individual fatness observation (2020)."
+    },
+    "C0251": {
+      "candidate_name": "Sarracenia x fattie",
+      "source_thread_ids": [
+        1489
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/hybrids/uncle-mitch-fat-mitchelliana/index.md"
+      ],
+      "split_decision": "Mike's S. x mitchelliana 'Uncle Mitch' joke-named clone (dedicated to naturenuts' fat 'Fattie Bomblatie'). Single-photo-set 2014 entry, no follow-ups."
+    },
+    "C0252": {
+      "candidate_name": "Sarracenia minor var. minor Charlton Co, GA",
+      "source_thread_ids": [
+        1493
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/minor/var-minor/charlton-co-ga-different-population/index.md"
+      ],
+      "split_decision": "Distinct from existing tall-form-charlton-ga entry. 'Different population' is Mike's own thread descriptor \u2014 these are the regular-size (few-inch) Charlton minors with notable color form variation. 5+ year juvenile establishment period documented."
+    },
+    "C0253": {
+      "candidate_name": "Sarracenia minor var. okefenokeensis Ware Co, GA",
+      "source_thread_ids": [
+        1494
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/minor/var-okefenokeensis/tub-ware-co-ga/index.md"
+      ],
+      "split_decision": "Bulk Ware Co okeefenokeensis tub snapshot from 2014; mostly cultivation-infrastructure discussion (kiddie pools \u2192 permanent partitioned beds plan). Probably overlaps with various Ware Co lettered clones already in the wiki but not broken out individually."
+    },
+    "C0254": {
+      "candidate_name": "Sarracenia 'Black Widow'",
+      "source_thread_ids": [
+        1495
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/hybrids/black-widow/index.md"
+      ],
+      "split_decision": "MAJOR new entry. Phil Faulisi's 'Black Widow' cultivar; 4-page thread (59 posts, 2014-2025). Includes critical taxonomic note: ICPS registration has wrong alata parent (should be 'Black Throat' not 'Black'), per mahlon 2025-01-09 confirmation."
     }
   }
 }
