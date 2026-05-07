@@ -6385,6 +6385,39 @@
         "wiki/sarracenia/hybrids/x-wrigleyana-bright-white-washington-al/index.md"
       ],
       "split_decision": "Mike-bred atypical wrigleyana \u2014 leuco var alba \u00d7 psitt \u2014 white-painted head + red veins instead of typical red+speckles."
+    },
+    "C0313": {
+      "candidate_name": "Sarracenia flava Santa Rosa Co, FL",
+      "source_thread_ids": [
+        2549
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-atropurpurea/all-red-santa-rosa-fl/index.md"
+      ],
+      "split_decision": "Mike's bright-red Santa Rosa atropurpurea with unusual late-summer trap production; suspected leuco/rosea genes mixed in many generations back."
+    },
+    "C0314": {
+      "candidate_name": "Sarracenia psittacina var. okefenokeensis Santa Rosa Co, FL",
+      "source_thread_ids": [
+        2550
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/psittacina/var-okefenokeensis/santa-rosa-co-fl/index.md"
+      ],
+      "split_decision": "Mike's Santa Rosa giant okee psittacina; winter best display; widely distributed (hcarlton confirmed)."
+    },
+    "C0315": {
+      "candidate_name": "Sarracenia rosea f. luteola Baldwin Co, AL",
+      "source_thread_ids": [
+        2551
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/rosea/luteola-baldwin-al/index.md"
+      ],
+      "split_decision": "MAJOR Bob Hanrahan AF rosea breeding line; original wild AF stolen, Hanrahan grew 100K seeds for recovery, Mike's are F2 sibling crosses; ABG preservation; outcross-strategy framework documented."
     }
   }
 }
