@@ -6289,6 +6289,39 @@
         "wiki/sarracenia/hybrids/dan-winter/index.md"
       ],
       "split_decision": "Jeremiah Harris-sourced moorei cultivar named 'Dan Winter'. Ornate lid, late-opening, Mike-freebie distribution."
+    },
+    "C0302": {
+      "candidate_name": "Sarracenia montana Jackson Co, NC",
+      "source_thread_ids": [
+        2288
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/montana/jackson-co-nc/index.md"
+      ],
+      "split_decision": "Mike's Jackson Co montana population \u2014 flava-like yellowish-green hue, less veined than Transylvania Co plants. Multi-clone tracking entry."
+    },
+    "C0303": {
+      "candidate_name": "Sarracenia oreophila var. ornata 'purple throat' (UCB x MK017)",
+      "source_thread_ids": [
+        2313
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/oreophila/var-ornata/purple-throat-ucb-x-mk017/index.md"
+      ],
+      "split_decision": "MAJOR Mike-bred F1 oreophila \u2014 UCB \u00d7 MK017 select clone. 4-page thread, 60 posts. Best-of-both-parents result; among the only oreos producing intense outdoor color in spring/summer."
+    },
+    "C0304": {
+      "candidate_name": "Sarracenia flava var. ornata 'BLACK LIPS!'",
+      "source_thread_ids": [
+        2317
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-ornata/black-lips/index.md"
+      ],
+      "split_decision": "Mike's first documented black-lipped flava ornata. Naturenuts/Trey seed source. Community-suggested 'Gothica' cultivar name not adopted."
     }
   }
 }
