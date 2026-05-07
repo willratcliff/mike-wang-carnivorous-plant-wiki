@@ -55,6 +55,9 @@ source_threads:
   - thread_id: 2159
     url: "https://sarracenia.proboards.com/thread/2159/leucophylla-bud-wilkersons-bog-walton"
     role: "primary"
+  - thread_id: 2583
+    url: "https://sarracenia.proboards.com/thread/2583/leucophylla-clone-bud-wilkersons-bog"
+    role: "update"
 
 photos:
   - { path: "76/76e20e76dfa367f62ffe9bbd77e954b39474821242569bce853246efcd4dbc7f.jpg", caption: "Bud Wilkerson's Bog Clone A — strong spring pitcher, 2015-04-01", photographer: "Mike Wang", source_post_id: 16576, favorite: true }
@@ -62,6 +65,11 @@ photos:
   - { path: "53/5356cead0a3acf9cf0390afb3ea7e8343db0df9c4381f196b35e33f9f5dedc78.jpg", caption: "Clone A, 2015-04-01", photographer: "Mike Wang", source_post_id: 16576, favorite: false }
   - { path: "40/40f91ed9c4a0881564506b402133b35215bcfad09e6fabf35bfdc7bc80142454.jpg", caption: "Clone A, 2015-04-01", photographer: "Mike Wang", source_post_id: 16576, favorite: false }
   - { path: "08/08300746bdc68135ff4e2f8c40b0ca3b7c4cc74df827785a9ea7b699fa824b99.jpg", caption: "Clone A, 2015-04-01", photographer: "Mike Wang", source_post_id: 16576, favorite: false }
+  # Thread 2583 update (2015-08-30) — naturenuts confirmed in this thread that WRR is from Bud's property
+  - { path: "b9/b91e9bb106534ea327596698c9a14d46461ffd412f29fab8a98140af789c6920.jpg", caption: "Clone A fall trap (just opened) — Wilkerson's Red Rocket-similar shape, 2015-08-30", photographer: "Mike Wang", source_post_id: 21338, favorite: true }
+  - { path: "54/54ff8c9f14cc866a7a13bf779d6da3efc8e784337baef4ed3e576f308c0a6f54.jpg", caption: "Clone A fall trap, 2015-08-30", photographer: "Mike Wang", source_post_id: 21338, favorite: false }
+  - { path: "17/1717077211065d924898b66c16dc2818f34b02a86a628ab3e15fd6c7db47618f.jpg", caption: "Clone A — coloring up, 2015-08-30", photographer: "Mike Wang", source_post_id: 21338, favorite: false }
+  - { path: "42/428af9fbf7fdc749443ea38d88225e5031711d0c621ad9c2326fe43baab228b6.jpg", caption: "Clone A fall trap, 2015-08-30", photographer: "Mike Wang", source_post_id: 21338, favorite: false }
 
 review:
   ai_extracted_by: "Claude (Claude Code session, 2026-05-08)"

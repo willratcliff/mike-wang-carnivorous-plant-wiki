@@ -6418,6 +6418,121 @@
         "wiki/sarracenia/rosea/luteola-baldwin-al/index.md"
       ],
       "split_decision": "MAJOR Bob Hanrahan AF rosea breeding line; original wild AF stolen, Hanrahan grew 100K seeds for recovery, Mike's are F2 sibling crosses; ABG preservation; outcross-strategy framework documented."
+    },
+    "C0316": {
+      "candidate_name": "Sarracenia jonesii",
+      "source_thread_ids": [
+        2552
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/jonesii/anthocyanin-free/index.md"
+      ],
+      "split_decision": "Mike's 2 jonesii AF clones (Europe + California-circulation) \u2014 vigorous, heat-tolerant, lime-yellow."
+    },
+    "C0317": {
+      "candidate_name": "Sarracenia leucophylla",
+      "source_thread_ids": [
+        2565
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "'Inducing fall S. leucophylla traps' \u2014 Science of Sarracenia board methodology thread (49 posts). Mike's growth-point-light-exposure hypothesis investigation. Topic-thread."
+    },
+    "C0319": {
+      "candidate_name": "Sarracenia leucophylla",
+      "source_thread_ids": [
+        2583
+      ],
+      "status": "done-augment",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/bud-wilkersons-bog-clone-a-walton-fl/index.md"
+      ],
+      "split_decision": "Augmentation: thread 2583 (2015-08-30) added to existing Bud Wilkerson's Bog Clone A entry (originally extracted from thread 2159)."
+    },
+    "C0320": {
+      "candidate_name": "Sarracenia leucophylla Baldwin Co, AL",
+      "source_thread_ids": [
+        2597
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/puffy-cheeks-baldwin-al/index.md"
+      ],
+      "split_decision": "Mike-named 'Puffy Cheeks' Baldwin Co \u2014 distinctive puffy-cheek morphology + two-flush fall pitcher production + neglect-tolerant year-after-year reliability."
+    },
+    "C0322": {
+      "candidate_name": "Sarracenia alabamensis Autauga Co, AL",
+      "source_thread_ids": [
+        2606
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/alabamensis/autauga-co-al/index.md"
+      ],
+      "split_decision": "Mike's Autauga Co alabamensis \u2014 yellow lid, wavy lids, coppery blush. ESA-listed."
+    },
+    "C0323": {
+      "candidate_name": "Sarracenia alabamensis",
+      "source_thread_ids": [
+        2630
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/alabamensis/dw-clone-dan-winter/index.md"
+      ],
+      "split_decision": "Dan Winter-source alabamensis. Brief 2015 entry."
+    },
+    "C0325": {
+      "candidate_name": "Sarracenia 'Elaine Wang'",
+      "source_thread_ids": [
+        2632
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "'Getting S. Elaine Wang in TC' General Board methodology thread (37 posts). About TC distribution challenges, not the clone itself. Existing elaine-wang/ entry already documents the cultivar."
+    },
+    "C0327": {
+      "candidate_name": "Sarracenia leucophylla",
+      "source_thread_ids": [
+        2645
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/eastern-alabama-population/index.md"
+      ],
+      "split_decision": "Cold-tolerant Eastern AL leuco population \u2014 first to spring traps each year. Multi-clone tray. Distinct from existing eastern-alabama var-alba entry."
+    },
+    "C0328": {
+      "candidate_name": "Sarracenia x royal",
+      "source_thread_ids": [
+        2662
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/hybrids/royal-ruby/index.md"
+      ],
+      "split_decision": "ICPS-registered (2008) S. x moorei from 1991 N. FL collection. Foundation parent for Phil Faulisi's Reptilian Rose."
+    },
+    "C0329": {
+      "candidate_name": "Sarracenia leucophylla",
+      "source_thread_ids": [
+        2663
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/var-alba/hummers-hcw-mike-f1/index.md"
+      ],
+      "split_decision": "Mike's open-pollinated F1 from John Hummer's seeds. Two named selections: Clone #1 (2015), Clone #2 (2017)."
+    },
+    "C0330": {
+      "candidate_name": "Sarracenia leucophylla Baldwin Co, AL",
+      "source_thread_ids": [
+        2667
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/var-alba/hybridy-baldwin-al/index.md"
+      ],
+      "split_decision": "Mike's Baldwin Co alba with subtle alata/rubra wherryi character. Calen's cryptic-introgression hypothesis."
     }
   }
 }
