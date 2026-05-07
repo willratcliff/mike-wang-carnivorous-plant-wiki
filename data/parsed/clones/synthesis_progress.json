@@ -6322,6 +6322,69 @@
         "wiki/sarracenia/flava/var-ornata/black-lips/index.md"
       ],
       "split_decision": "Mike's first documented black-lipped flava ornata. Naturenuts/Trey seed source. Community-suggested 'Gothica' cultivar name not adopted."
+    },
+    "C0305": {
+      "candidate_name": "Sarracenia x readii 'Golden Leuk'",
+      "source_thread_ids": [
+        2407
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/hybrids/golden-leuk-x-readii/index.md"
+      ],
+      "split_decision": "Mike-bred leuco \u00d7 wherryi F1 with rare yellow-golden body + red veins + leuco trap shape. Later relabeled S. areolata Golden Leuk (2022)."
+    },
+    "C0307": {
+      "candidate_name": "Dionaea (multi-clone VFT grow report)",
+      "source_thread_ids": [
+        2459
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "Multi-clone VFT grow report (102 posts, 7 pages); cultivation methodology / topic-thread documenting Mike's NorCal outdoor performance assessment of Royal Red, B-52, G-Run, Orton's Red Side, and many other clones. Not a single-clone documentation; would need separate per-clone breakouts to integrate."
+    },
+    "C0309": {
+      "candidate_name": "Dionaea 'Orton's Red Side'",
+      "source_thread_ids": [
+        2534
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/dionaea/ortons-red-side/index.md"
+      ],
+      "split_decision": "Mike-cultivation Dionaea selection from 2002-2003 Orton's Plantation NC seed batch. Originally grown by Dr. William Ratcliff, transferred to Mike 2005, named ~2015 after surviving 6+ years of severe neglect."
+    },
+    "C0310": {
+      "candidate_name": "Sarracenia rosea x rosea 'big mama' Mobile Co, AL",
+      "source_thread_ids": [
+        2535
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/rosea/big-mama-x-clone-c-giant/index.md"
+      ],
+      "split_decision": "Mike-bred F1 (Big Mama \u00d7 Clone C Mobile Co AL) preserving Big Mama genetics after mother lost to rot. Multi-grower well-distributed; xyu's 2024 plant holds 1/4 liter liquid."
+    },
+    "C0311": {
+      "candidate_name": "Sarracenia leucophylla Calhoun Co, FL",
+      "source_thread_ids": [
+        2542
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/calhoun-co-fl-rare/index.md"
+      ],
+      "split_decision": "Conservation-relevant Calhoun Co leuco; early-fall-pitcher producer; brief 2015 entry."
+    },
+    "C0312": {
+      "candidate_name": "Sarracenia x wrigleyana",
+      "source_thread_ids": [
+        2548
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/hybrids/x-wrigleyana-bright-white-washington-al/index.md"
+      ],
+      "split_decision": "Mike-bred atypical wrigleyana \u2014 leuco var alba \u00d7 psitt \u2014 white-painted head + red veins instead of typical red+speckles."
     }
   }
 }
