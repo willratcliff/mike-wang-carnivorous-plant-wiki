@@ -6025,6 +6025,171 @@
       ],
       "status": "deferred-not-a-clone",
       "split_decision": "Wild-site documentation thread (board 26); Mobile Co AL alata + alata\u00d7leuco hybrids site survey. Mike documented broader Mobile Co destruction (rosea sites lost, leuco fields converted to housing). Not a Mike cultivation accession."
+    },
+    "C0271": {
+      "candidate_name": "Sarracenia leucophylla Bay Co, FL",
+      "source_thread_ids": [
+        1669
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "Wild-site documentation thread (board 26); Bay Co FL leuco 2014 site survey. Includes notable cultivation tangents (Hosford bog leuco riparian-association theory by snakedr; sunbelle's old-photo memories) but primary content is wild-site doc."
+    },
+    "C0272": {
+      "candidate_name": "Sarracenia rosea Liberty Co, FL",
+      "source_thread_ids": [
+        1692
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "Wild-site documentation thread (board 26); Liberty Co FL rosea wild site. Not a Mike cultivation accession."
+    },
+    "C0273": {
+      "candidate_name": "Sarracenia moorei x moorei",
+      "source_thread_ids": [
+        1693
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "Wild-site documentation thread (board 26); Covington Co AL moorei + flava site survey. Notable white-topped moorei observation but primary content is wild-site doc."
+    },
+    "C0274": {
+      "candidate_name": "Sarracenia leucophylla Walton Co, FL",
+      "source_thread_ids": [
+        1695
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/wilkersons-bog-standard-walton-fl/index.md"
+      ],
+      "split_decision": "Mike's 'standard' Wilkerson bog leuco \u2014 preservation-by-cultivation example. Brief 2014 single-photo-set entry."
+    },
+    "C0275": {
+      "candidate_name": "Darlingtonia Curry Co, OR",
+      "source_thread_ids": [
+        1740
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "Wild-site Darlingtonia thread (board 6 'Carnivores'); Mountain Valley meadow Curry Co OR site documentation. Per cluster_gotchas, Darlingtonia habitat-doc threads deferred."
+    },
+    "C0276": {
+      "candidate_name": "Sarracenia (Eastern Alabama bright white leucos)",
+      "source_thread_ids": [
+        1744
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "Wild-site documentation thread (board 26); Eastern Alabama bright white leucos site survey."
+    },
+    "C0277": {
+      "candidate_name": "Darlingtonia Curry Co, OR",
+      "source_thread_ids": [
+        1750
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "Wild-site Darlingtonia thread (board 6); Mountain Creek Curry Co OR site documentation. 2014 + 2025 Mike updates."
+    },
+    "C0278": {
+      "candidate_name": "Sarracenia Southern Baldwin Co, AL",
+      "source_thread_ids": [
+        1752
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "Wild-site documentation thread (board 26); Southern Baldwin Co AL site survey across multiple visits. Includes 1997 ICPS field trip historical photos in 2025 update. Notable 'flat-top' leuco, alba forms, registerable moorei observations."
+    },
+    "C0279": {
+      "candidate_name": "Darlingtonia Del Norte Co, CA",
+      "source_thread_ids": [
+        1759
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "Wild-site Darlingtonia thread (board 6); 'goldmine' site Del Norte Co CA, drought-conditions documentation. Per gotchas."
+    },
+    "C0280": {
+      "candidate_name": "Sarracenia leucophylla Baldwin Co, AL",
+      "source_thread_ids": [
+        1771
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "Wild-site documentation thread (board 26); Baldwin Co AL easement site survey. Notable: landowners harvesting traps for floral industry."
+    },
+    "C0281": {
+      "candidate_name": "Sarracenia leucophylla",
+      "source_thread_ids": [
+        1782
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "Wild-site documentation thread (board 26); Washington Co AL leucophylla site #2 survey. Notable: best veined leuco Mike has ever seen, HCW-resembling green-body white-top forms."
+    },
+    "C0283": {
+      "candidate_name": "Sarracenia leucophylla",
+      "source_thread_ids": [
+        1823
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/juju-lips/index.md"
+      ],
+      "split_decision": "Sarracenia Northwest open-pollinated seed-grown clone. Named by Jacob Farin 2008-10-01 via email; Rob Co (sarraceniadude) was the original 2005 purchaser; Mike acquired ~2012-2013."
+    },
+    "C0284": {
+      "candidate_name": "Sarracenia rosea Liberty Co, FL",
+      "source_thread_ids": [
+        1826
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/rosea/un-named-fat-pot-buster-liberty-fl/index.md"
+      ],
+      "split_decision": "Mike's un-named pot-buster rosea from Liberty Co. Visually similar to AG3's 'Fat Chance' (jdallas suggestion 2014); identity unconfirmed."
+    },
+    "C0285": {
+      "candidate_name": "Sarracenia x blood",
+      "source_thread_ids": [
+        1827
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/hybrids/blood-in-the-snow/index.md"
+      ],
+      "split_decision": "Brooks Garcia named hybrid; intense red/pink + white contrast. 2014-2024 documentation. Used in active breeding (alexis 2022 BitS \u00d7 AS seedlings)."
+    },
+    "C0286": {
+      "candidate_name": "Sarracenia (Forum History)",
+      "source_thread_ids": [
+        2045
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "'The History of THE SARRACENIA FORUM' meta-thread by Mike + Jonathan Mejia about the forum's creation and growth. Not a clone documentation."
+    },
+    "C0287": {
+      "candidate_name": "Sarracenia flava var. cuprea 'copper body'",
+      "source_thread_ids": [
+        2129
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-cuprea/lois-x-best-copper-body/index.md"
+      ],
+      "split_decision": "Mike-bred select clone from Lois \u00d7 best clone seed batch. Whole-body coppery; Mike's 2016 'might be one of the best cupreas' assessment."
+    },
+    "C0288": {
+      "candidate_name": "Sarracenia leucophylla var. alba Baldwin Co, AL",
+      "source_thread_ids": [
+        2130
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/var-alba/un-named-clones-baldwin-al/index.md"
+      ],
+      "split_decision": "Multi-clone tray of un-named Baldwin Co alba selections. Includes the clearest published October-vs-November same-pitcher chameleon-aging demonstration. Spring-pitcher cultivation framework."
+    },
+    "C0289": {
+      "candidate_name": "Sarracenia flava Bulloch Co, GA",
+      "source_thread_ids": [
+        2131
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/bulloch-co-ga-extirpated-population/index.md"
+      ],
+      "split_decision": "MAJOR conservation entry. Multi-clone preservation from extirpated 2012 powercut site. Possibly the wild origin of the famous IBV (Improved Black Veins) lineage \u2014 Mike's 2015 reattribution from prior Kennedy-tract attribution. 32-post thread covers rescue history, distribution to ABG/GSU, Mike's cross-out approach for vigor, 2021 seed-increase backup with contamination caveat."
     }
   }
 }
