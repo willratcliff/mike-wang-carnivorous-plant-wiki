@@ -6256,6 +6256,39 @@
         "wiki/sarracenia/flava/var-rugelii/clone-a-liberty-fl/index.md"
       ],
       "split_decision": "Mike's foundational Liberty Co rugelii Clone A \u2014 sown 1997-05-23 from May 1997 ICPS seed batch. Most-requested rugelii in collection. Heavy breeding-line use (Clone A\u00d7B, SERT)."
+    },
+    "C0299": {
+      "candidate_name": "Sarracenia flava var. rubricorpora",
+      "source_thread_ids": [
+        2263
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-rubricorpora/various-clones-liberty-fl-pheno-hunt/index.md"
+      ],
+      "split_decision": "Mass-cultivation tray of un-lettered Liberty Co rubricorpora + Mike's selective-breeding pheno-hunt for atropurpurea-tendency clones (2015-2025). Documents 3 separate Liberty populations + 1000+ seedling cull cycles."
+    },
+    "C0300": {
+      "candidate_name": "Sarracenia flava var. ornata Bay Co, FL",
+      "source_thread_ids": [
+        2267
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-ornata/cooks-bayou-bay-fl/index.md"
+      ],
+      "split_decision": "Cook's Bayou ornata \u2014 distinctive upward-folding symmetric lid; conservation-relevant from extirpated area. Distinct from Mike's other Cook's Bayou cultivation entries (different clones same locality)."
+    },
+    "C0301": {
+      "candidate_name": "Sarracenia moorei x moorei 'Dan Winter'",
+      "source_thread_ids": [
+        2284
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/hybrids/dan-winter/index.md"
+      ],
+      "split_decision": "Jeremiah Harris-sourced moorei cultivar named 'Dan Winter'. Ornate lid, late-opening, Mike-freebie distribution."
     }
   }
 }
