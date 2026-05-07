@@ -5903,6 +5903,128 @@
         "wiki/sarracenia/hybrids/black-widow/index.md"
       ],
       "split_decision": "MAJOR new entry. Phil Faulisi's 'Black Widow' cultivar; 4-page thread (59 posts, 2014-2025). Includes critical taxonomic note: ICPS registration has wrong alata parent (should be 'Black Throat' not 'Black'), per mahlon 2025-01-09 confirmation."
+    },
+    "C0255": {
+      "candidate_name": "Sarracenia 'Bud Wilkerson'",
+      "source_thread_ids": [
+        1514
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/hybrids/bud-wilkerson/index.md"
+      ],
+      "split_decision": "Brooks Garcia-named natural hybrid from Bud Wilkerson's N. Walton Co property. Distinct from existing 'Bud Wilkerson's Bog clone B' leuco (different plant, same property)."
+    },
+    "C0256": {
+      "candidate_name": "Sarracenia leucophylla",
+      "source_thread_ids": [
+        1530
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/var-alba/hcw-clone-d-baldwin-al/index.md"
+      ],
+      "split_decision": "HCW Clone D \u2014 fourth lettered clone in Mike's HCW series. Brief 2014 thread."
+    },
+    "C0258": {
+      "candidate_name": "Sarracenia flava Liberty Co, FL",
+      "source_thread_ids": [
+        1604
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "Wild-site documentation thread (board 26 'Sarracenia In The Wild'); flava rugelii + variants Liberty Co FL site survey. Not a Mike cultivation accession."
+    },
+    "C0259": {
+      "candidate_name": "Sarracenia flava var. rubricorpora Bay Co, FL",
+      "source_thread_ids": [
+        1622
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "Wild-site documentation thread (board 26 'Sarracenia In The Wild'); 2014 Bay Co rubricorpora site survey by Mike + Damon + Axel + calen + Trey follow-up. Important conservation context (Bay Co flava destruction history) but not a Mike cultivation accession. Calen's 2015 May follow-up post #11 documents the early-season-greenness observation that complicates color variety taxonomy."
+    },
+    "C0260": {
+      "candidate_name": "Sarracenia minor Franklin Co, FL",
+      "source_thread_ids": [
+        1624
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "Wild-site documentation thread (board 26); S. minor Franklin Co FL western-most location site survey. Not a Mike cultivation accession."
+    },
+    "C0261": {
+      "candidate_name": "Sarracenia leucophylla Franklin Co, FL",
+      "source_thread_ids": [
+        1630
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "Wild-site documentation thread (board 26); Franklin Co FL leucophylla site survey. Includes notable cultivation tangents (Mike's Rob-Co-warmth-effect observation on Southern Baldwin clone, kiwiearl's outdoor-vs-greenhouse spring-pitcher dichotomy) but primary content is wild-site doc."
+    },
+    "C0263": {
+      "candidate_name": "Sarracenia leucophylla",
+      "source_thread_ids": [
+        1645
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/red-wrr-x-franklin-clone-b-breeding-line/index.md"
+      ],
+      "split_decision": "Mike-bred multi-clone seed-batch breeding line (Wilkerson's Red Rocket \u00d7 Franklin Co FL clone B + reciprocal). Variant register: Select clone, Winner, Darkest. Distinct from existing DARK RED Franklin Co entry (different seedling batch)."
+    },
+    "C0264": {
+      "candidate_name": "Sarracenia flava Covington Co, AL",
+      "source_thread_ids": [
+        1655
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "Wild-site documentation thread (board 26); Covington Co AL flava rugelii + maxima site survey. Not a Mike cultivation accession."
+    },
+    "C0265": {
+      "candidate_name": "Sarracenia leucophylla",
+      "source_thread_ids": [
+        1656
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/typical-veined-baldwin-al/index.md"
+      ],
+      "split_decision": "Mike's 'interesting yet typical' veined Baldwin Co leuco \u2014 not alba, not chameleon. Brief 2014 single-photo-set entry."
+    },
+    "C0266": {
+      "candidate_name": "Sarracenia psittacina Bay Co, FL",
+      "source_thread_ids": [
+        1658
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "Wild-site documentation thread (board 26); psittacina Bay Co FL site survey covering 2 sites (round-headed forms + ditch-edge mixed). Not a Mike cultivation accession."
+    },
+    "C0267": {
+      "candidate_name": "Sarracenia psittacina x rubra",
+      "source_thread_ids": [
+        1664
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/hybrids/psittacina-x-rubra-wherryi/index.md"
+      ],
+      "split_decision": "Mike's psitt \u00d7 rubra wherryi hybrid clone \u2014 compact, golden-red, dixie-lace-comparable. Brief 2014 single-photo-set entry."
+    },
+    "C0268": {
+      "candidate_name": "Sarracenia leucophylla",
+      "source_thread_ids": [
+        1665
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/radiotower-okaloosa-fl-extinct/index.md"
+      ],
+      "split_decision": "Conservation entry \u2014 extinct Okaloosa Co radiotower site leuco lineage. Companion to the existing gulfensis-giant-radiotower-extinct entry (same destroyed site)."
+    },
+    "C0269": {
+      "candidate_name": "Sarracenia alata Mobile Co, AL",
+      "source_thread_ids": [
+        1666
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "Wild-site documentation thread (board 26); Mobile Co AL alata + alata\u00d7leuco hybrids site survey. Mike documented broader Mobile Co destruction (rosea sites lost, leuco fields converted to housing). Not a Mike cultivation accession."
     }
   }
 }
