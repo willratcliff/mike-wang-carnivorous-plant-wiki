@@ -6623,6 +6623,50 @@
       ],
       "status": "deferred-not-a-clone",
       "split_decision": "California Carnivores Nepenthes greenhouse collection tour \u2014 collection-tour topic-thread."
+    },
+    "C0343": {
+      "candidate_name": "Sarracenia leucophylla var. alba",
+      "source_thread_ids": [
+        3207
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/var-alba/rods-favorite-hcwf-x-mkl042/index.md"
+      ],
+      "split_decision": "Mike-bred F1 (HCW Clone F \u00d7 MKL042). Named keeper 'Rod's Favorite'. Confirms parents are pure inbred lines via hybrid-vigor."
+    },
+    "C0344": {
+      "candidate_name": "Sarracenia leucophylla var. alba Washington Co, AL",
+      "source_thread_ids": [
+        3259
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/var-alba/washington-co-al-population/index.md"
+      ],
+      "split_decision": "Multi-clone Washington Co alba population overview \u2014 rivals HCW in white-ness. White-recessive-and-low-vigor hypothesis."
+    },
+    "C0345": {
+      "candidate_name": "Sarracenia leucophylla Franklin Co, FL",
+      "source_thread_ids": [
+        3264
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/franklin-co-fl-various-clones/index.md"
+      ],
+      "split_decision": "Eastern-most leuco population multi-clone tray. Strong spring/summer pitchers. Phil's breeding-program backbone uses a Franklin clone."
+    },
+    "C0346": {
+      "candidate_name": "Sarracenia rosea Southern Baldwin Co, AL",
+      "source_thread_ids": [
+        3266
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/rosea/southern-baldwin-co-al-population/index.md"
+      ],
+      "split_decision": "Origin population for the Hanrahan AF luteola lineage. Disease-resistant; yellow-tone genetic trait demonstrated."
     }
   }
 }
