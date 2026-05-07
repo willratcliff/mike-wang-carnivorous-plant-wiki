@@ -6533,6 +6533,39 @@
         "wiki/sarracenia/leucophylla/var-alba/hybridy-baldwin-al/index.md"
       ],
       "split_decision": "Mike's Baldwin Co alba with subtle alata/rubra wherryi character. Calen's cryptic-introgression hypothesis."
+    },
+    "C0332": {
+      "candidate_name": "Sarracenia rubra Taylor Co, GA",
+      "source_thread_ids": [
+        2785
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/rubra/ancestral-taylor-co-ga/index.md"
+      ],
+      "split_decision": "Mike's early-2000s Taylor Co ancestral rubra. Original site lost ~2011. Now S. rubra viatorum. Phil Sheridan / Meadowview pioneering work."
+    },
+    "C0334": {
+      "candidate_name": "Sarracenia oreophila var. ornata 'Sand Mountain' MK07",
+      "source_thread_ids": [
+        3126
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/oreophila/var-ornata/sand-mountain-mk07/index.md"
+      ],
+      "split_decision": "Mike King-source Sand Mountain ornate oreo. Coppery-red lid spring traps. ESA-distribution context."
+    },
+    "C0335": {
+      "candidate_name": "Sarracenia minor var. okefenokeensis Charlton Co, GA",
+      "source_thread_ids": [
+        3148
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/minor/var-okefenokeensis/charlton-co-ga-population/index.md"
+      ],
+      "split_decision": "Mike's Charlton Co okee population \u2014 96+ clones, 130+ total in collection. Cultivation framework: root space + insect feeding = giant traps."
     }
   }
 }
