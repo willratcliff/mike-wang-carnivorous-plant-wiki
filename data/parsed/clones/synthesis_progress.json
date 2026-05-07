@@ -6766,6 +6766,151 @@
         "wiki/sarracenia/leucophylla/red-washington-co-al/index.md"
       ],
       "split_decision": "Extremely rare red Washington leuco; rubra wherryi introgression hypothesis."
+    },
+    "C0365": {
+      "candidate_name": "Sarracenia (Seedling Sarracenia with Big Names)",
+      "source_thread_ids": [
+        3611
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "cbennett4041 sales/distribution thread on Temporary Offerings board. Not a clone documentation."
+    },
+    "C0366": {
+      "candidate_name": "Sarracenia flava var. rugelii",
+      "source_thread_ids": [
+        3626
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-rugelii/defuniak-springs-walton-fl-extirpated/index.md"
+      ],
+      "split_decision": "Bob Hanrahan rescue lineage \u2014 100+ clones rescued before site became KFC."
+    },
+    "C0367": {
+      "candidate_name": "Sarracenia rosea Northern Baldwin Co, AL",
+      "source_thread_ids": [
+        3632
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/rosea/northern-baldwin-co-al-red-flower/index.md"
+      ],
+      "split_decision": "Red-flowered rosea population \u2014 confounds rosea-vs-venosa flower-color rule."
+    },
+    "C0370": {
+      "candidate_name": "Sarracenia flava var. ornata",
+      "source_thread_ids": [
+        3725
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-ornata/burgundy-x-l-ornata-segregant/index.md"
+      ],
+      "split_decision": "Mike's single ornata segregant from pure rubricorpora Burgundy \u00d7 Clone L cross."
+    },
+    "C0373": {
+      "candidate_name": "Sarracenia flava var. rugelii Covington Co, AL",
+      "source_thread_ids": [
+        3742
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-rugelii/vigorous-red-throat-covington-al/index.md"
+      ],
+      "split_decision": "Mike's standout Covington rugelii \u2014 almost-ERT-level red throat."
+    },
+    "C0375": {
+      "candidate_name": "Sarracenia moorei x flava",
+      "source_thread_ids": [
+        3755
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/hybrids/moorei-x-flava-rugelii-eastern-al/index.md"
+      ],
+      "split_decision": "Mike's complex hybrid; speculated route to Adrian-Slack-style genetics."
+    },
+    "C0376": {
+      "candidate_name": "Sarracenia flava var. atropurpurea Okaloosa Co, FL",
+      "source_thread_ids": [
+        3764
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-atropurpurea/okaloosa-co-fl-mike-clone/index.md"
+      ],
+      "split_decision": "Mike's Okaloosa atro \u2014 solid red head-to-toe."
+    },
+    "C0384": {
+      "candidate_name": "Sarracenia 'Premysl otakar I'",
+      "source_thread_ids": [
+        3876
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/hybrids/premysl-otakar-i/index.md"
+      ],
+      "split_decision": "European Czech-named cultivar; Miroslav Srba + Pokie22 \u2192 Mike."
+    },
+    "C0389": {
+      "candidate_name": "Sarracenia moorei 'Okaloosa'",
+      "source_thread_ids": [
+        3915
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/hybrids/moorei-okaloosa-mike-select/index.md"
+      ],
+      "split_decision": "Mike's 1-in-300 Okaloosa moorei select; 'White Knight Twin Imposter' nickname."
+    },
+    "C0394": {
+      "candidate_name": "Sarracenia leucophylla var. alba 'vigorous,white,shapely'",
+      "source_thread_ids": [
+        3970
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/var-alba/vigorous-white-shapely-covington-al/index.md"
+      ],
+      "split_decision": "Mike's Covington alba \u2014 stout/fat shape, chameleon."
+    },
+    "C0395": {
+      "candidate_name": "Sarracenia flava var. rugelii 'copper blush' Okaloosa Co, FL",
+      "source_thread_ids": [
+        4077
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/flava/var-rugelii/copper-blush-okaloosa-co-fl/index.md"
+      ],
+      "split_decision": "Coppery rugelii \u2014 hybrid-vigor giant; bigger than rugelii Clone A."
+    },
+    "C0397": {
+      "candidate_name": "Sarracenia flava (Diversity in flava flowers)",
+      "source_thread_ids": [
+        4087
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "Topic-thread documenting flower diversity across flava populations. Not single-clone."
+    },
+    "C0398": {
+      "candidate_name": "Sarracenia leucophylla Bog Walton Co, FL",
+      "source_thread_ids": [
+        4091
+      ],
+      "status": "done",
+      "wrote_to": [
+        "wiki/sarracenia/leucophylla/bud-wilkersons-bog-clone-d-walton-fl/index.md"
+      ],
+      "split_decision": "Cold-tolerant Wilkerson Bog leuco Clone D \u2014 early spring pitcher producer."
+    },
+    "C0401": {
+      "candidate_name": "Sarracenia alata flowers",
+      "source_thread_ids": [
+        4101
+      ],
+      "status": "deferred-not-a-clone",
+      "split_decision": "Topic-thread documenting alata flower diversity. Not single-clone."
     }
   }
 }
