@@ -6,13 +6,26 @@ import FilterBar from '~/components/FilterBar.astro';
 
 export async function getStaticPaths() {
   const all = await getCollection('clones');
-  const combos = new Map<string, { genus: string; species: string }>();
+  // Group entries by genus/species combo.
+  const byCombo = new Map<string, typeof all>();
   for (const e of all) {
     if (!e.data.species) continue;
     const key = `${e.data.genus.toLowerCase()}/${e.data.species}`;
-    combos.set(key, { genus: e.data.genus.toLowerCase(), species: e.data.species });
+    if (!byCombo.has(key)) byCombo.set(key, []);
+    byCombo.get(key)!.push(e);
   }
-  return Array.from(combos.values()).map(({ genus, species }) => ({
+
+  const combos: { genus: string; species: string }[] = [];
+  for (const [key, entries] of byCombo) {
+    // Skip combos where a single clone entry IS the genus/species path
+    // (e.g. darlingtonia/californica — the clone page lives at this URL).
+    // Emitting a species-index here would shadow the clone page.
+    const onlyClone = entries.length === 1 && entries[0].id === key;
+    if (onlyClone) continue;
+    const [genus, species] = key.split('/', 2);
+    combos.push({ genus, species });
+  }
+  return combos.map(({ genus, species }) => ({
     params: { genus, species },
     props: { genus, species, all },
   }));
