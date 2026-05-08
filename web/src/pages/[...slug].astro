@@ -68,7 +68,6 @@ const description = fm.standout_traits?.length
   : `Mike Wang's clone notes for ${title}.`;
 
 const similar = fm.visually_similar_to ?? [];
-const openQuestions = fm.review?.open_questions ?? [];
 const isReviewed = fm.review?.human_reviewed ?? false;
 
 // `cultivation_notes` is a Markdown string in YAML; render it inline.
@@ -217,13 +216,6 @@ const cultivationHtml = fm.cultivation_notes
             </div>
           )}
 
-          {openQuestions.length > 0 && (
-            <div class="card open-q">
-              <h3>Open questions</h3>
-              <ul>{openQuestions.map((q) => (<li>{q}</li>))}</ul>
-              <p class="muted small">Awaiting Mike's notes.</p>
-            </div>
-          )}
         </aside>
       </div>
     )}
@@ -318,7 +310,6 @@ const cultivationHtml = fm.cultivation_notes
   }
   .card ul { list-style: none; padding: 0; margin: 0; font-size: 0.93rem; }
   .card li { margin-bottom: 8px; line-height: 1.45; }
-  .card.open-q { background: var(--accent-bg); border-color: #cce4d6; }
   .card .small { font-size: 0.85rem; margin: 8px 0 0 0; }
   .similar-list strong { color: var(--fg); font-weight: 600; }
   .threads { font-size: 0.93rem; }
