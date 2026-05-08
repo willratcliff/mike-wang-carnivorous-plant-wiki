@@ -17,11 +17,13 @@ export async function getStaticPaths() {
 
   const combos: { genus: string; species: string }[] = [];
   for (const [key, entries] of byCombo) {
-    // Skip combos where a single clone entry IS the genus/species path
-    // (e.g. darlingtonia/californica — the clone page lives at this URL).
-    // Emitting a species-index here would shadow the clone page.
-    const onlyClone = entries.length === 1 && entries[0].id === key;
-    if (onlyClone) continue;
+    // Skip combos where ANY entry has the exact genus/species ID
+    // (e.g. darlingtonia/californica — the clone overview page lives
+    // at this URL). Emitting a species-index would shadow the existing
+    // page. Sub-clone entries at deeper paths (alpine-farms-del-norte-ca,
+    // etc.) still render via the catch-all clone route.
+    const hasEntryAtKey = entries.some((e) => e.id === key);
+    if (hasEntryAtKey) continue;
     const [genus, species] = key.split('/', 2);
     combos.push({ genus, species });
   }
